@@ -1,0 +1,7 @@
+measure,work_key_F13_3b,work_key_F13_3_sensitivity,strings_F13_3
+nodes: works with >= 4 citing records,197,197,43
+nodes with >= 1 edge,133,133,26
+edges: pairs co-cited by >= 3 records,364,364,40
+Louvain clusters,22,22,6
+clusters with >= 5 nodes,9,9,2
+modularity Q,0.8438,0.8438,0.6146

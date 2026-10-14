@@ -1,0 +1,7 @@
+group,regex,records_author_kw,records_index_kw,records_either
+SCADA,\bscada\b|supervisory control and data acquisition,1,1,1
+ICS / industrial control,\bics\b|industrial control,0,0,0
+OT / operational technology,\bot\b|operational technolog,0,0,0
+IIoT / industrial IoT,\biiot\b|industrial internet of things|industrial iot,17,13,17
+LLM / generative AI / ChatGPT,\bllms?\b|large language model|generative (ai|artificial intelligence|pre trained)|chatgpt|\bgpt\b,5,5,5
+agentic AI / AI agent,\bagentic\b|\bai agents?\b|artificial intelligence agents?,0,0,0

@@ -1,0 +1,9 @@
+measure,value
+distinct sources,359
+sources with one record,249
+share of records in the top 5 sources (%),20.2
+share of records in the top 10 sources (%),28.3
+share of records in the top 20 sources (%),38.9
+Bradford zone 1: sources / records,15 / 287
+Bradford zone 2: sources / records,80 / 275
+Bradford zone 3: sources / records,264 / 279

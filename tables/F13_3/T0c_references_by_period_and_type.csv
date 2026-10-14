@@ -1,0 +1,11 @@
+group_kind,group,records,records_with_references,references,median_per_record,mean_per_record
+period,2003-2016,57,57,1145,14,20.09
+period,2017-2021,241,241,6176,22,25.63
+period,2022-2025,543,539,21150,27,38.95
+document type (as exported),ARTICLE,396,396,15572,31,39.32
+document type (as exported),BOOK,2,1,210,210,105
+document type (as exported),BOOK CHAPTER,32,31,874,27,27.31
+document type (as exported),CONFERENCE PAPER,387,386,8387,19,21.67
+document type (as exported),RETRACTED,3,2,82,41,27.33
+document type (as exported),REVIEW,21,21,3346,129,159.33
+all,all records,841,837,28471,25,33.85

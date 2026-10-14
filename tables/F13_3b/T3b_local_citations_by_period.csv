@@ -1,0 +1,4 @@
+period,records,records_with_LCS,LCS_received,references_made,internal_references_made,share_internal
+2003-2016,57,19,69,1145,16,0.014
+2017-2021,241,104,281,6176,170,0.0275
+2022-2025,543,106,183,21150,347,0.0164

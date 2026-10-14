@@ -1,0 +1,15 @@
+layer,measure,"v1 (F12.3; I2, 838)","v2 (F12.3b; I2, 838)","v3 (F12.3c; I2, 838)","v3 on E1 (F13.5 step 1; E1, 841)","v4 (F13.5; E1, 841)"
+author,unique keywords,2855,2779,2745,2748,2743
+author,"nodes (>= 5 records, with generic)",119,126,129,128,127
+author,edges (with generic),356,393,413,413,412
+author,clusters (generic excluded),26,26,26,23,23
+author,one-keyword clusters,14,14,14,12,12
+author,modularity Q,0.7644,0.7576,0.7501,0.7585,0.7598
+index,unique keywords,3461,3435,3422,4495,4453
+index,"nodes (>= 5 records, with generic)",110,112,112,289,291
+index,edges (with generic),274,278,278,2476,2512
+index,clusters (generic excluded),26,28,28,15,15
+index,one-keyword clusters,13,14,14,1,1
+index,modularity Q,0.76,0.7594,0.7599,0.6249,0.6111
+figure,labels,61,65,66,67,67
+thesaurus,rows,60,235,579,579,680

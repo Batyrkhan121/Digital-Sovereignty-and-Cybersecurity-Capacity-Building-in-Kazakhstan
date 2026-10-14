@@ -1,0 +1,124 @@
+keyword,records,cluster,x,y,labelled
+5g,7,3,-0.034775,0.059275,0
+advanced encryption standard,10,10,0.098765,-0.140145,1
+algorithm,9,9,0.050572,-0.098650,1
+anomaly detection,20,1,-0.015678,0.075283,1
+architecture,5,4,-0.061755,-0.084443,0
+artificial intelligence,34,1,-0.019368,0.048078,1
+attack,11,6,0.029692,0.013809,1
+attack detection,5,1,-0.073902,0.112456,0
+audit,5,14,-0.920770,0.172869,0
+authentication,14,3,0.042933,-0.003495,1
+big data,7,3,-0.038840,0.027645,0
+block cipher,8,10,0.113390,-0.121277,1
+blockchain,26,1,0.030909,0.059271,1
+blockchain technology,5,15,-0.972265,-0.091450,0
+classification,7,1,-0.048402,0.048463,0
+cloud computing,11,3,-0.023540,0.026606,1
+cloud service,6,4,-0.076012,-0.096054,0
+clustering,5,1,-0.053275,0.098288,0
+computer network,5,5,-0.129266,-0.167448,0
+computer vision,5,1,-0.027073,0.138072,0
+convolutional neural network,9,1,-0.039030,0.122802,1
+critical information infrastructure,5,16,-0.841334,0.684786,0
+critical infrastructure,7,4,-0.058933,-0.100592,0
+cryptanalysis,7,2,0.084508,-0.075328,0
+cryptographic algorithm,5,2,0.097267,-0.086711,0
+cryptography,69,2,0.067430,-0.064331,1
+cryptostrength,5,2,0.072195,-0.104939,0
+cryptosystem,10,2,0.086906,-0.055042,1
+cyber physical system,9,3,-0.001529,0.042604,1
+cyber threat,11,8,-0.227746,0.080516,1
+cyberattack,20,5,-0.039697,0.002190,1
+cybercrime,11,12,0.957250,-0.350394,1
+data analysis,7,1,-0.081734,0.067788,0
+data privacy,5,1,0.080899,0.135197,0
+data protection,9,2,0.040431,-0.155408,1
+data security,18,9,-0.022256,-0.056890,1
+decision support system,9,2,-0.036521,-0.179212,1
+deep learning,28,1,-0.016999,0.091302,1
+detection,10,4,-0.028760,-0.044053,1
+digital signature,13,2,0.088194,-0.119193,1
+digital transformation,8,13,0.971718,0.313876,1
+digitalization,15,5,-0.182267,-0.155374,1
+disinformation,5,4,0.015034,-0.274142,0
+distributed denial of service attack,9,5,-0.102962,-0.088057,1
+e government,6,5,-0.215477,-0.196326,0
+economy,7,5,-0.138848,-0.102590,0
+edge computing,14,3,0.014098,0.063131,1
+elliptic curve,5,2,0.153872,-0.077150,0
+elliptic curve cryptography,11,10,0.060070,-0.144895,1
+encryption,28,2,0.050819,-0.072293,1
+encryption algorithm,8,2,0.115934,-0.079691,1
+energy efficiency,5,1,0.009014,0.095484,0
+expert system,9,4,0.094696,-0.180003,1
+facial recognition,5,17,-0.225370,0.936979,0
+federated learning,6,1,0.026010,0.135342,0
+field programmable gate array,16,10,0.021902,-0.070472,1
+fifth generation network,6,8,-0.078181,0.089199,0
+finite automata,7,2,0.102644,-0.046221,0
+finite field,5,18,0.706914,-0.774137,0
+fuzzy logic,11,4,0.032910,-0.126022,1
+genetic algorithm,7,11,0.012809,0.429653,0
+hash function,8,2,0.110176,-0.062928,1
+healthcare,6,3,-0.080603,0.022965,0
+higher education,7,1,0.027378,0.115310,0
+homomorphic encryption,7,2,0.135515,-0.056882,0
+identification,16,4,-0.015569,-0.112285,1
+industrial internet of things,17,3,0.044847,0.043196,1
+information and communication technology,12,5,-0.197084,-0.162289,1
+information protection,11,2,0.009700,-0.126931,1
+information security audit,8,4,0.168476,-0.215950,1
+information system,17,7,0.302260,-0.020561,1
+information technology,9,8,-0.297188,0.088251,1
+internet,5,19,-0.369879,-1.000000,0
+internet of things,66,3,0.005887,0.035826,1
+internet of things security,11,1,-0.098157,0.155516,1
+intrusion detection,13,1,-0.037812,0.089073,1
+intrusion detection system,24,8,-0.052549,0.065001,1
+knowledge base,6,4,0.025490,-0.176571,0
+long short term memory,5,1,-0.037712,0.177504,0
+machine learning,68,1,-0.016829,0.060265,1
+mathematical model,8,8,-0.133410,0.094482,1
+method,5,7,0.305020,-0.046663,0
+monitoring,5,6,0.054577,0.095447,0
+national security,5,20,-0.530941,-0.861430,0
+natural language processing,8,1,-0.067008,0.140052,1
+network,6,5,0.019422,0.032963,0
+network security,23,1,-0.023423,0.058847,1
+network traffic,7,1,-0.036250,0.103596,0
+neural network,18,3,-0.026280,0.039094,1
+nonpositional polynomial notation,6,2,0.117336,-0.102673,0
+ontology,7,4,-0.001071,-0.177186,0
+optimal strategy,5,21,0.804552,0.720896,0
+optimization,11,11,0.006985,0.388830,1
+penetration testing,9,6,-0.004731,0.125084,1
+permutation,6,2,0.148298,-0.101937,0
+personal data,5,22,-0.638780,0.850495,0
+physical layer security,6,11,-0.002021,0.325222,0
+post quantum cryptography,11,2,0.129858,-0.191956,1
+privacy,12,3,0.010972,-0.017843,1
+protocol,5,5,0.066602,0.060639,0
+pseudorandom number generator,8,9,0.031596,-0.135137,1
+puf,5,10,-0.026697,-0.112572,0
+quantum cryptography,14,9,-0.011123,-0.181236,1
+quantum key distribution,10,9,-0.005498,-0.136880,1
+qubit,6,9,-0.028073,-0.200265,0
+raspberry pi,5,4,-0.149870,-0.120026,0
+reliability,8,7,0.311159,-0.035938,1
+risk,22,7,0.245034,-0.010755,1
+risk assessment,12,7,0.198354,0.019209,1
+risk management,10,7,0.255797,0.022254,1
+s box,7,2,0.092151,-0.100965,0
+safety,5,7,0.350567,-0.070220,0
+security information and event management,11,8,-0.145470,0.074312,1
+smart city,12,6,0.040255,0.074007,1
+smart contract,7,1,0.071279,0.108692,0
+social network,9,4,0.002387,-0.198343,1
+software defined networking,5,3,-0.041089,0.038697,0
+steganography,5,23,-0.863274,0.501087,0
+threat,12,6,0.149197,0.019420,1
+unmanned aerial vehicle,13,11,-0.010691,0.221318,1
+vulnerability,13,6,0.080005,0.030255,1
+wireless network,6,6,0.107008,0.082703,0
+wireless sensor network,12,6,0.023723,0.067374,1

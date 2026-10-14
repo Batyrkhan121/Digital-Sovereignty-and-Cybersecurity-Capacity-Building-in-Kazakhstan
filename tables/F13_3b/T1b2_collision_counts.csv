@@ -1,0 +1,6 @@
+measure,value
+complete keys with >= 2 different full titles (variant spellings included),108
+of them: titles diverge (neither is a prefix of the other),47
+of them: likely different works (similarity of the most different pair < 0.8),4
+citing records of the likely-different keys (sum),11
+likely-different keys among works with >= 4 citing records,1

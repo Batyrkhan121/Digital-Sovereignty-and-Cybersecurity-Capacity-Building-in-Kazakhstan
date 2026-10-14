@@ -1,0 +1,4 @@
+bucket,S,O,intersection,only_Scopus,only_OpenAlex,union,pct_union_Scopus,pct_union_OpenAlex,pct_union_both
+2003-2016,19,13,10,9,3,22,86.4,59.1,45.5
+2017-2021,64,57,37,27,20,84,76.2,67.9,44.0
+2022-2025,120,159,76,44,83,203,59.1,78.3,37.4

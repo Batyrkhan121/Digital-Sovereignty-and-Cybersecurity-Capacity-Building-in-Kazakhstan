@@ -1,0 +1,689 @@
+{
+ "D": {
+  "D1": [
+   {
+    "difference": -2,
+    "doc_type_E1": "Article",
+    "doc_type_F12_1": "Article",
+    "n_E1": 396,
+    "n_F12_1": 398
+   },
+   {
+    "difference": 1,
+    "doc_type_E1": "Conference paper",
+    "doc_type_F12_1": "Conference Paper",
+    "n_E1": 387,
+    "n_F12_1": 386
+   },
+   {
+    "difference": 0,
+    "doc_type_E1": "Book chapter",
+    "doc_type_F12_1": "Book Chapter",
+    "n_E1": 32,
+    "n_F12_1": 32
+   },
+   {
+    "difference": 0,
+    "doc_type_E1": "Review",
+    "doc_type_F12_1": "Review",
+    "n_E1": 21,
+    "n_F12_1": 21
+   },
+   {
+    "difference": 1,
+    "doc_type_E1": "Retracted",
+    "doc_type_F12_1": "Retracted",
+    "n_E1": 3,
+    "n_F12_1": 2
+   },
+   {
+    "difference": 0,
+    "doc_type_E1": "Book",
+    "doc_type_F12_1": "Book",
+    "n_E1": 2,
+    "n_F12_1": 2
+   }
+  ],
+  "D2": [
+   {
+    "n_E1": 83,
+    "n_F12_1": 82,
+    "rank_E1": 1,
+    "rank_F12_1": 1,
+    "source": "CEUR Workshop Proceedings",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 32,
+    "n_F12_1": 32,
+    "rank_E1": 2,
+    "rank_F12_1": 2,
+    "source": "Journal of Theoretical and Applied Information Technology",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 21,
+    "n_F12_1": 21,
+    "rank_E1": 3,
+    "rank_F12_1": 3,
+    "source": "IEEE Access",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 18,
+    "n_F12_1": 18,
+    "rank_E1": 4,
+    "rank_F12_1": 4,
+    "source": "Procedia Computer Science",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 16,
+    "n_F12_1": 16,
+    "rank_E1": 5,
+    "rank_F12_1": 5,
+    "source": "Lecture Notes in Networks and Systems",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 15,
+    "n_F12_1": 15,
+    "rank_E1": 6,
+    "rank_F12_1": 6,
+    "source": "Advances in Intelligent Systems and Computing",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 14,
+    "n_F12_1": 14,
+    "rank_E1": 7,
+    "rank_F12_1": 7,
+    "source": "SIST 2025 - 2025 IEEE 5th International Conference on Smart Information Systems and Technologies, Conference Proceedings",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 13,
+    "n_F12_1": 13,
+    "rank_E1": 8,
+    "rank_F12_1": 8,
+    "source": "Eastern-European Journal of Enterprise Technologies",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 13,
+    "n_F12_1": 13,
+    "rank_E1": 9,
+    "rank_F12_1": 9,
+    "source": "International Journal of Advanced Computer Science and Applications",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 13,
+    "n_F12_1": 13,
+    "rank_E1": 10,
+    "rank_F12_1": 10,
+    "source": "International Journal of Electronics and Telecommunications",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 10,
+    "n_F12_1": 10,
+    "rank_E1": 11,
+    "rank_F12_1": 11,
+    "source": "ACM International Conference Proceeding Series",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 10,
+    "n_F12_1": 10,
+    "rank_E1": 12,
+    "rank_F12_1": 12,
+    "source": "Applied Sciences (Switzerland)",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 10,
+    "n_F12_1": 10,
+    "rank_E1": 13,
+    "rank_F12_1": 13,
+    "source": "Proceedings of SPIE - The International Society for Optical Engineering",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 10,
+    "n_F12_1": 10,
+    "rank_E1": 14,
+    "rank_F12_1": 14,
+    "source": "Sensors",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 9,
+    "n_F12_1": 9,
+    "rank_E1": 15,
+    "rank_F12_1": 15,
+    "source": "Proceedings - 29th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing, SNPD 2025-Summer",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 9,
+    "n_F12_1": 9,
+    "rank_E1": 16,
+    "rank_F12_1": 16,
+    "source": "SIST 2024 - 2024 IEEE 4th International Conference on Smart Information Systems and Technologies, Proceedings",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 8,
+    "n_F12_1": 8,
+    "rank_E1": 17,
+    "rank_F12_1": 17,
+    "source": "Computers",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 8,
+    "n_F12_1": 8,
+    "rank_E1": 18,
+    "rank_F12_1": 18,
+    "source": "Herald of the Kazakh British Technical UNiversity",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 8,
+    "n_F12_1": 8,
+    "rank_E1": 19,
+    "rank_F12_1": 19,
+    "source": "Journal of Advanced Research in Law and Economics",
+    "status": "in both top 20"
+   },
+   {
+    "n_E1": 7,
+    "n_F12_1": 7,
+    "rank_E1": 20,
+    "rank_F12_1": 20,
+    "source": "Communications in Computer and Information Science",
+    "status": "in both top 20"
+   }
+  ],
+  "D3_total": {
+   "article_E1": 396,
+   "article_F12_1": 398,
+   "conference_E1": 387,
+   "conference_F12_1": 386,
+   "other_E1": 58,
+   "other_F12_1": 57,
+   "total_E1": 841,
+   "total_F12_1": 841,
+   "year": "2003-2025"
+  },
+  "D4_total": {
+   "citations_E1": 7882,
+   "citations_F12_1": 7536,
+   "difference": 346,
+   "growth_common_838": 343,
+   "minus_left_3": -3,
+   "plus_entered_3": 6,
+   "records_E1": 841,
+   "records_F12_1": 841,
+   "year": "2003-2025"
+  },
+  "D5": [
+   {
+    "code_F12_1": "eng",
+    "language": "English",
+    "n_E1_841": 825,
+    "n_F12_1_I2_838": 813
+   },
+   {
+    "code_F12_1": "rus",
+    "language": "Russian",
+    "n_E1_841": 15,
+    "n_F12_1_I2_838": 13
+   },
+   {
+    "code_F12_1": "pol",
+    "language": "Polish",
+    "n_E1_841": 0,
+    "n_F12_1_I2_838": 4
+   },
+   {
+    "code_F12_1": "ukr",
+    "language": "Ukrainian",
+    "n_E1_841": 0,
+    "n_F12_1_I2_838": 4
+   },
+   {
+    "code_F12_1": "spa",
+    "language": "Spanish",
+    "n_E1_841": 0,
+    "n_F12_1_I2_838": 2
+   },
+   {
+    "code_F12_1": "kor",
+    "language": "Korean",
+    "n_E1_841": 0,
+    "n_F12_1_I2_838": 1
+   },
+   {
+    "code_F12_1": "por",
+    "language": "Portuguese",
+    "n_E1_841": 0,
+    "n_F12_1_I2_838": 1
+   },
+   {
+    "code_F12_1": "",
+    "language": "Kazakh",
+    "n_E1_841": 1,
+    "n_F12_1_I2_838": 0
+   },
+   {
+    "code_F12_1": "openaccessFlag",
+    "language": "open access: F12.1 flag true / E1 non-empty Open Access",
+    "n_E1_841": 306,
+    "n_F12_1_I2_838": 292
+   },
+   {
+    "code_F12_1": "false / (missing)",
+    "language": "open access: F12.1 flag false or missing",
+    "n_E1_841": 535,
+    "n_F12_1_I2_838": 546
+   }
+  ]
+ },
+ "D4_total": {
+  "citations_E1": 7882,
+  "citations_F12_1": 7536,
+  "difference": 346,
+  "growth_common_838": 343,
+  "minus_left_3": -3,
+  "plus_entered_3": 6,
+  "records_E1": 841,
+  "records_F12_1": 841,
+  "year": "2003-2025"
+ },
+ "N": 841,
+ "T1a": {
+  "2003": 2,
+  "2004": 0,
+  "2005": 1,
+  "2006": 0,
+  "2007": 0,
+  "2008": 0,
+  "2009": 0,
+  "2010": 0,
+  "2011": 3,
+  "2012": 8,
+  "2013": 3,
+  "2014": 12,
+  "2015": 13,
+  "2016": 15,
+  "2017": 21,
+  "2018": 38,
+  "2019": 61,
+  "2020": 67,
+  "2021": 54,
+  "2022": 73,
+  "2023": 79,
+  "2024": 146,
+  "2025": 245
+ },
+ "T1b": {
+  "exported": {
+   "Article": 396,
+   "Book": 2,
+   "Book chapter": 32,
+   "Conference paper": 387,
+   "Retracted": 3,
+   "Review": 21
+  },
+  "harmonised": {
+   "article": 396,
+   "book": 2,
+   "book chapter": 32,
+   "conference paper": 387,
+   "retracted": 3,
+   "review": 21
+  }
+ },
+ "T1d": {
+  "2003-2016": 57,
+  "2017-2021": 241,
+  "2022-2025": 543
+ },
+ "T1e": {
+  "group": "2003-2025",
+  "max": 64,
+  "mean": "4.81",
+  "median": 5,
+  "records": 841,
+  "single_author": 21,
+  "single_author_pct": "2.5",
+  "with_authors": 841
+ },
+ "T1f": {
+  "language": {
+   "English": 825,
+   "Kazakh": 1,
+   "Russian": 15
+  },
+  "stage": {
+   "Final": 841
+  }
+ },
+ "T1g": 3,
+ "T2a": {
+  "singletons": 249,
+  "sources": 359,
+  "sum_records": 841,
+  "top20": [
+   [
+    "CEUR Workshop Proceedings",
+    83
+   ],
+   [
+    "Journal of Theoretical and Applied Information Technology",
+    32
+   ],
+   [
+    "IEEE Access",
+    21
+   ],
+   [
+    "Procedia Computer Science",
+    18
+   ],
+   [
+    "Lecture Notes in Networks and Systems",
+    16
+   ],
+   [
+    "Advances in Intelligent Systems and Computing",
+    15
+   ],
+   [
+    "SIST 2025 - 2025 IEEE 5th International Conference on Smart Information Systems and Technologies, Conference Proceedings",
+    14
+   ],
+   [
+    "Eastern-European Journal of Enterprise Technologies",
+    13
+   ],
+   [
+    "International Journal of Advanced Computer Science and Applications",
+    13
+   ],
+   [
+    "International Journal of Electronics and Telecommunications",
+    13
+   ],
+   [
+    "ACM International Conference Proceeding Series",
+    10
+   ],
+   [
+    "Applied Sciences (Switzerland)",
+    10
+   ],
+   [
+    "Proceedings of SPIE - The International Society for Optical Engineering",
+    10
+   ],
+   [
+    "Sensors",
+    10
+   ],
+   [
+    "Proceedings - 29th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing, SNPD 2025-Summer",
+    9
+   ],
+   [
+    "SIST 2024 - 2024 IEEE 4th International Conference on Smart Information Systems and Technologies, Proceedings",
+    9
+   ],
+   [
+    "Computers",
+    8
+   ],
+   [
+    "Herald of the Kazakh British Technical UNiversity",
+    8
+   ],
+   [
+    "Journal of Advanced Research in Law and Economics",
+    8
+   ],
+   [
+    "Communications in Computer and Information Science",
+    7
+   ]
+  ],
+  "zones": {
+   "1": [
+    15,
+    287
+   ],
+   "2": [
+    80,
+    275
+   ],
+   "3": [
+    264,
+    279
+   ]
+  }
+ },
+ "T2d_distinct": 152,
+ "T2e": {
+  "conference_papers": 387,
+  "remainder_keys": 3,
+  "remainder_records": 8,
+  "series": 180,
+  "thesaurus_rows": 5,
+  "top15": [
+   [
+    "SIST",
+    34
+   ],
+   [
+    "DTESI",
+    17
+   ],
+   [
+    "EUSPN/ICTH",
+    12
+   ],
+   [
+    "CPITS",
+    11
+   ],
+   [
+    "CH and CMiGIN",
+    9
+   ],
+   [
+    "SNPD",
+    9
+   ],
+   [
+    "CPITS-II",
+    8
+   ],
+   [
+    "ICECCO",
+    7
+   ],
+   [
+    "ICTERI",
+    7
+   ],
+   [
+    "OPCS",
+    7
+   ],
+   [
+    "AICT",
+    6
+   ],
+   [
+    "CSDP",
+    5
+   ],
+   [
+    "CybHyg",
+    5
+   ],
+   [
+    "E-TEMS",
+    5
+   ],
+   [
+    "GLOBECOM",
+    5
+   ]
+  ]
+ },
+ "T3a": {
+  "citations, total": 7882,
+  "h-index of the corpus": 38,
+  "maximum": 465,
+  "mean per record": "9.37",
+  "median": 3,
+  "records": 841,
+  "records with >= 10 citations": 183,
+  "records with >= 100 citations": 8,
+  "records with >= 50 citations": 27,
+  "uncited (%)": "23.2",
+  "uncited records": 195
+ },
+ "T3e_eids": [
+  "2-s2.0-85076568836",
+  "2-s2.0-85040739915",
+  "2-s2.0-85069649830",
+  "2-s2.0-85181886925",
+  "2-s2.0-85184656031",
+  "2-s2.0-85078491080",
+  "2-s2.0-85214498852",
+  "2-s2.0-85097243173",
+  "2-s2.0-85056208691",
+  "2-s2.0-85151375963",
+  "2-s2.0-85127419734",
+  "2-s2.0-85148546653",
+  "2-s2.0-85111277534",
+  "2-s2.0-85066797753",
+  "2-s2.0-85077774562",
+  "2-s2.0-85153579705",
+  "2-s2.0-85164712061",
+  "2-s2.0-85086245460",
+  "2-s2.0-85104824497",
+  "2-s2.0-85195097544"
+ ],
+ "T4a": {
+  "categories": {
+   "All Open Access": 306,
+   "Bronze Open Access": 7,
+   "Gold Open Access": 271,
+   "Green Open Access": 165,
+   "Hybrid Gold Open Access": 15
+  },
+  "oa": 306
+ },
+ "T4b": {
+  "funded": 321,
+  "sponsors": 99
+ },
+ "T4c": {
+  "distinct_raw": 185,
+  "thesaurus_rows": 14,
+  "top15": [
+   [
+    "Ministry of Education and Science / Ministry of Science and Higher Education of the Republic of Kazakhstan (incl. Science Committee)",
+    193
+   ],
+   [
+    "Nazarbayev University",
+    23
+   ],
+   [
+    "Ministry of Education and Science of Ukraine",
+    11
+   ],
+   [
+    "Ministry of Digital Development",
+    10
+   ],
+   [
+    "Institute of Information and Computational Technologies",
+    8
+   ],
+   [
+    "National Natural Science Foundation of China",
+    7
+   ],
+   [
+    "Shota Rustaveli National Science Foundation of Georgia",
+    7
+   ],
+   [
+    "Deanship of Scientific Research",
+    5
+   ],
+   [
+    "Kazakh National Research Technical University",
+    5
+   ],
+   [
+    "Ministerstwo Edukacji i Nauki",
+    5
+   ],
+   [
+    "Ministry of Higher Education",
+    4
+   ],
+   [
+    "Abai Kazakh National Pedagogical University",
+    3
+   ],
+   [
+    "Department of Science and Technology",
+    3
+   ],
+   [
+    "IRN",
+    3
+   ],
+   [
+    "Ministry of Education of the People's Republic of China",
+    3
+   ]
+  ]
+ },
+ "T5": {
+  "pairs": 216,
+  "top20_overlap": 16,
+  "type_agreement": 209,
+  "year_equal": 212
+ },
+ "T5c": {
+  "Scopus > WoS": 165,
+  "Spearman rank correlation (average ranks for ties)": "0.917",
+  "WoS > Scopus": 4,
+  "equal": 47,
+  "median Scopus Cited by": 5,
+  "median WoS TC": 2,
+  "pairs": 216,
+  "sum Scopus Cited by": 3023,
+  "sum WoS TC": 1784
+ },
+ "f131_years_equal": true,
+ "figure": {
+  "colors": {
+   "article": "#1f4e79",
+   "book": "#9e9e9e",
+   "book chapter": "#5b9e5b",
+   "conference paper": "#d97a1e",
+   "retracted": "#c0392b",
+   "review": "#8064a2"
+  }
+ }
+}

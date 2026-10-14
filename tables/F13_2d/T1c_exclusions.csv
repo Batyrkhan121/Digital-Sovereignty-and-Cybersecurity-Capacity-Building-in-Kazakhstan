@@ -1,0 +1,29 @@
+institution,not_to_join,reason,in_T3a_v2,in_a_cluster,joined_anyway
+Caspian University,Yessenov,brief: Caspian University (Almaty) is not the Caspian State University of Technologies (Yessenov),1,1,0
+Turan Astana University,Turan University,brief: Turan-Astana University is not Turan University,1,1,0
+Astana International University,Astana IT University,brief: two different universities in Astana,1,1,0
+Nazarbayev Intellectual School,Nazarbayev University,brief: the schools are not the university,1,1,0
+Nazarbayev Intellectual Schools,Nazarbayev University,brief: the schools are not the university,1,1,0
+Abay Myrzakhmetov Kokshetau University,Abai KazNPU,"brief: Kokshetau university, not Abai KazNPU",1,1,0
+Abai Myrzakhmetov Kokshetau University,Abai KazNPU,"brief: Kokshetau university, not Abai KazNPU",1,1,0
+Kazakh National Agrarian Research University,KazNU,brief: KazNARU is not Al-Farabi KazNU,1,1,0
+Kazakh National Women‘s Teacher Training University,KazNU,brief: not Al-Farabi KazNU,1,1,0
+Kazakh National Women’s Teacher Training University,KazNU,brief: not Al-Farabi KazNU,1,1,0
+International Engineering Technological University,IITU,brief: IETU is not IITU,1,1,0
+Asfendiyarov Kazakh National Medical University,KazNU,brief: KazNMU is not KazNU,1,1,0
+Sanzhar Asfendiyarov Kazakh national medical University,KazNU,brief: KazNMU is not KazNU,1,1,0
+Abylkas Saginov Karaganda Technical University,Buketov,brief: Karaganda Technical University is not Buketov University,1,0,0
+Kazakhstan Humanitarian Law University,KHJIU,executor: KazGUU (Astana) is not the Humanitarian Juridical Innovative University (Semey),1,1,0
+Eurasian Technological University,ENU,executor: a different Eurasian-named university (Almaty),1,1,0
+Eurasian Humanitarian Institute,ENU,executor: a different Eurasian-named institute,1,1,0
+A.K. Kussayinov Eurasian Humanities Institute,ENU,executor: a different Eurasian-named institute,1,1,0
+Almaty Academy,Yesbulatov MIA Academy,"executor: ambiguous short name, kept apart in v1",1,1,0
+Kokshetau State University,Ualikhanov,executor: two universities in Kokshetau; no name token,1,1,0
+Ministry of Defense of the Republic of Kazakhstan,National Defense University,executor: the ministry is not the university,1,1,0
+Karaganda Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan named after Barimbek Beisenov,Yesbulatov MIA Academy,executor: the Karaganda academy is not the Almaty one,1,1,0
+Ministry of Internal Affairs of the Republic of Kazakhstan,Yesbulatov MIA Academy,executor: the ministry is not its academy,1,1,0
+Institute of Economics,Kazakh University of Economics,executor: only the word economics is shared; v1 found the parent unclear,1,1,0
+National Academy of Agrarian Sciences,KazNARU,executor: the academy of sciences is not the university,1,1,0
+South Kazakhstan Pedagogical University,Abai KazNPU,executor: a different pedagogical university (Shymkent),1,1,0
+Kazakhstan Engineering Pedagogical Universuty of Friendship of Nations,Abai KazNPU,executor: a different pedagogical university,1,1,0
+Kazakhstan Engineering and Pedagogical University of Friendship of the People,Abai KazNPU,executor: a different pedagogical university,1,1,0

@@ -1,0 +1,157 @@
+{
+ "author": {
+  "clusters": 23,
+  "clusters_with_generic": 14,
+  "edges": 412,
+  "edges_clustered": 250,
+  "generic_in_clusters_when_kept": {
+   "cybersecurity": 2,
+   "information security": 3,
+   "kazakhstan": 3,
+   "security": 4
+  },
+  "isolated_clustered_nodes": 12,
+  "keywords_over_6_words": 17,
+  "min_records_in_T3": 5,
+  "modularity": 0.7598,
+  "modularity_with_generic": 0.7148,
+  "nodes": 127,
+  "nodes_clustered": 123,
+  "records_with_keywords": 797,
+  "sensitivity": [
+   {
+    "edges_with_generic": 630,
+    "edges_without_generic": 420,
+    "nodes_with_generic": 267,
+    "nodes_without_generic": 263,
+    "threshold_records": 3
+   },
+   {
+    "edges_with_generic": 412,
+    "edges_without_generic": 250,
+    "nodes_with_generic": 127,
+    "nodes_without_generic": 123,
+    "threshold_records": 5
+   },
+   {
+    "edges_with_generic": 259,
+    "edges_without_generic": 139,
+    "nodes_with_generic": 71,
+    "nodes_without_generic": 67,
+    "threshold_records": 8
+   }
+  ],
+  "unique_keywords": 2743
+ },
+ "blind_spots": {
+  "ICS / industrial control": 0,
+  "IIoT / industrial IoT": 17,
+  "LLM / generative AI / ChatGPT": 5,
+  "OT / operational technology": 0,
+  "SCADA": 1,
+  "agentic AI / AI agent": 0
+ },
+ "figure": {
+  "edges": 250,
+  "generic_excluded": [
+   "cybersecurity",
+   "information security",
+   "kazakhstan",
+   "security"
+  ],
+  "labelled": 67,
+  "nodes": 123
+ },
+ "index": {
+  "clusters": 15,
+  "clusters_with_generic": 14,
+  "edges": 2512,
+  "edges_clustered": 2287,
+  "generic_in_clusters_when_kept": {
+   "cybersecurity": 1,
+   "kazakhstan": 1,
+   "security": 8
+  },
+  "isolated_clustered_nodes": 1,
+  "keywords_over_6_words": 13,
+  "min_records_in_T3": 5,
+  "modularity": 0.6111,
+  "modularity_with_generic": 0.5993,
+  "nodes": 291,
+  "nodes_clustered": 288,
+  "records_with_keywords": 586,
+  "sensitivity": [
+   {
+    "edges_with_generic": 3823,
+    "edges_without_generic": 3513,
+    "nodes_with_generic": 649,
+    "nodes_without_generic": 645,
+    "threshold_records": 3
+   },
+   {
+    "edges_with_generic": 2512,
+    "edges_without_generic": 2287,
+    "nodes_with_generic": 291,
+    "nodes_without_generic": 288,
+    "threshold_records": 5
+   },
+   {
+    "edges_with_generic": 1574,
+    "edges_without_generic": 1425,
+    "nodes_with_generic": 146,
+    "nodes_without_generic": 143,
+    "threshold_records": 8
+   }
+  ],
+  "unique_keywords": 4453
+ },
+ "parameters": {
+  "association_strength": "w_ij / (n_i * n_j)",
+  "clustering": "networkx greedy_modularity_communities, weight = association strength, resolution 1.0, generic keywords excluded",
+  "edge_min_records": 2,
+  "generic": [
+   "cybersecurity",
+   "information security",
+   "kazakhstan",
+   "security"
+  ],
+  "label_min_records": 8,
+  "layout": "spring_layout seed=42, weight = co-occurrence records",
+  "node_threshold": 5,
+  "sensitivity_thresholds": [
+   3,
+   5,
+   8
+  ]
+ },
+ "periods": {
+  "2003_2016": {
+   "frame_records": 57,
+   "with_author_kw": 48
+  },
+  "2017_2021": {
+   "frame_records": 241,
+   "with_author_kw": 227
+  },
+  "2022_2025": {
+   "frame_records": 543,
+   "with_author_kw": 522
+  }
+ },
+ "records_E1": 841,
+ "run": "E1 x thesaurus v4",
+ "thesaurus_rows": 680,
+ "thesaurus_rows_applied": 674,
+ "title_bigrams": {
+  "distinct": 3162,
+  "stop_words": 153,
+  "top20_in_author_top20": 8,
+  "top20_present_as_author_kw": 17
+ },
+ "versions": {
+  "matplotlib": "3.10.8",
+  "networkx": "3.6.1",
+  "pillow": "12.1.0",
+  "python": "3.11.9"
+ }
+}

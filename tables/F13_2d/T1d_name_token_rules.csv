@@ -1,0 +1,62 @@
+identity,test,confidence
+ENU,gumilyov / gumilev / gumiyev / gumileva / gumilyev,high
+KazNU,farabi / alfarabi,high
+Satbayev,satbayev / satpayev / satpaev / kaznrtu / kazntu,high
+Satbayev,"'kazakh national research technical university' / 'kazakh national technical university' (former name, v1)",high
+Satbayev,satbavev (misspelt satbayev),medium
+AUPET,daukeyev / daukeev / aupet / energo,high
+AUPET,"almaty + power (AUPET's name, v1 practice)",medium
+AUPET,almaty + energy + communications (v1 practice),medium
+Yessenov,yessenov / yesenov / esenov / essenov / yesenova,high
+Yessenov,caspian + technolog* (former name; author's check requested),medium
+IICT,iict,high
+IICT,information / informational + computational,high
+IICT,information / informational + computing (translation variant),medium
+KBTU,kbtu / british,high
+Abai KazNPU,abai / abay + pedagogical,high
+Abai KazNPU,abai / abay (not myrzakhmetov / kokshetau) (v1: the Abai University brand),medium
+Abai KazNPU,national + pedagogical (not friendship / south) (the only national one),medium
+Myrzakhmetov,myrzakhmetov,high
+Ualikhanov,ualikhanov / ualijhanov,high
+Seifullin,seifullin,high
+Serikbayev,serikbayev / serikbaev,high
+Buketov,buketov,high
+Zhubanov,zhubanov,high
+Baitursynuly,baitursynov / baytursynov / baitursynuly / baytursinuly,high
+Shakarim,shakarim*,high
+Dulaty,dulaty / dulati,high
+Auezov,auezov,high
+Kozybayev,kozybayev,high
+Korkyt,korkyt,high
+Toraighyrov,toraighyrov,high
+Zhangir Khan,zhangir,high
+Nazarbayev University,nazarbayev (not intellectual),high
+Nazarbayev Intellectual Schools,nazarbayev + intellectual,high
+Yassawi,yassawi / yasawi / yesevi,high
+Dosmukhamedov,dosmukhamedov,high
+Asfendiyarov,asfendiyarov,high
+Nur-Mubarak,mubarak,high
+TSARKA,tsarka,high
+Esil,esil,high
+Murtaza,murtaza (renamed Taraz institute),medium
+KUTB,kulazhanov,high
+KUTB,'university of technology and business',medium
+Yesbulatov MIA Academy,yesbulatov / esbulatov / esbolatov,high
+Yesbulatov MIA Academy,almaty + academy + internal / interior (v1),medium
+Turan University,turan (not astana),high
+Astana IT University,astana + it,high
+IITU,iitu,high
+IITU,international + information / inf + technology / tech (not engineering),medium
+Almaty Management University,almu,high
+Almaty Management University,almaty + management,medium
+Law Enforcement Academy,law + enforcement + prosecutor*,medium
+Civil Aviation Academy,civil + aviation,medium
+Tynyshpayev Academy,tynyshpaev / tynyshpayev,high
+Tynyshpayev Academy,transport + communications + academy,medium
+KHJIU,humanitarian + innovative,medium
+International Educational Corporation,educational + corporation,medium
+Informatics and Control,informatics + control,medium
+KazNARU,'national agrarian research university',high
+Friendship of Nations,friendship + pedagogical,medium
+National Defense University,defense + university (not ministry),medium
+(rule a) same name,"identical apart from legal-form words, quotes and function words",high

@@ -1,0 +1,13 @@
+measure,value,value_v3
+Kazakhstan institution variants before the thesaurus (normalised keys),417,417
+variants in two or more records (all decided in the thesaurus),132,132
+thesaurus rows,282,273
+distinct Kazakhstan institutions after the thesaurus,198,207
+institutions with one record,115,123
+institution-record links (full counting),1403,1403
+share of links held by the top 5 (%),42.3,42.3
+share of links held by the top 10 (%),65.3,65.0
+records with at least one top-5 institution,540,540
+share of the 841 records with a top-5 institution (%),64.2,64.2
+records with at least one top-10 institution,684,681
+share of the 841 records with a top-10 institution (%),81.3,81.0

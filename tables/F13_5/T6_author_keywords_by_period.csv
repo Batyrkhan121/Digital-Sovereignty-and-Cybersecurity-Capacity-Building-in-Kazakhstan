@@ -1,0 +1,31 @@
+keyword,generic,records_2003_2016,pct_2003_2016,records_2017_2021,pct_2017_2021,records_2022_2025,pct_2022_2025
+cybersecurity,1,1,2.1,43,18.9,102,19.5
+information security,1,17,35.4,46,20.3,75,14.4
+cryptography,0,6,12.5,26,11.5,37,7.1
+machine learning,0,2,4.2,4,1.8,62,11.9
+internet of things,0,2,4.2,9,4.0,55,10.5
+security,1,2,4.2,18,7.9,29,5.6
+artificial intelligence,0,0,0.0,3,1.3,31,5.9
+deep learning,0,0,0.0,1,0.4,27,5.2
+encryption,0,5,10.4,11,4.8,12,2.3
+blockchain,0,0,0.0,2,0.9,24,4.6
+intrusion detection system,0,0,0.0,5,2.2,19,3.6
+network security,0,0,0.0,2,0.9,21,4.0
+risk,0,3,6.2,10,4.4,9,1.7
+anomaly detection,0,0,0.0,3,1.3,17,3.3
+cyberattack,0,0,0.0,6,2.6,14,2.7
+data security,0,1,2.1,3,1.3,14,2.7
+neural network,0,2,4.2,4,1.8,12,2.3
+industrial internet of things,0,0,0.0,2,0.9,15,2.9
+information system,0,1,2.1,9,4.0,7,1.3
+field programmable gate array,0,0,0.0,8,3.5,8,1.5
+identification,0,0,0.0,11,4.8,5,1.0
+digitalization,0,0,0.0,3,1.3,12,2.3
+authentication,0,0,0.0,5,2.2,9,1.7
+edge computing,0,0,0.0,1,0.4,13,2.5
+quantum cryptography,0,0,0.0,6,2.6,8,1.5
+digital signature,0,5,10.4,2,0.9,6,1.1
+intrusion detection,0,1,2.1,2,0.9,10,1.9
+kazakhstan,1,0,0.0,4,1.8,9,1.7
+unmanned aerial vehicle,0,0,0.0,1,0.4,12,2.3
+vulnerability,0,0,0.0,3,1.3,10,1.9

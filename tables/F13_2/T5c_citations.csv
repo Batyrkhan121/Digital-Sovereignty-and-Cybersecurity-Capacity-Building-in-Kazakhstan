@@ -1,0 +1,10 @@
+measure,value
+pairs,216
+Spearman rank correlation (average ranks for ties),0.917
+median Scopus Cited by,5
+median WoS TC,2
+sum Scopus Cited by,3023
+sum WoS TC,1784
+Scopus > WoS,165
+equal,47
+WoS > Scopus,4

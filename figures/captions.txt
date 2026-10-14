@@ -1,0 +1,17 @@
+Figure 1. Kazakhstan's cybersecurity output by publication year, 2003–2025: records of the corpus and their share of all Kazakhstan-affiliated Scopus records (per mille), with the yearly cybersecurity records of Uzbekistan, Azerbaijan, Belarus and Kyrgyzstan (Scopus; corpus n = 841; interface counts retrieved 13 October 2026).
+Image: figure_1.png. Data: figure_1_normalised_growth.csv.
+
+Figure 2. Year-standardized activity index of cybersecurity research by period for Kazakhstan, Uzbekistan, Azerbaijan, Belarus and Kyrgyzstan, with 95% intervals; a value of 1 equals the world share (Scopus counts retrieved 13 October 2026; Kazakhstan's numerator is the corpus, n = 841).
+Image: figure_2.png. Data: figure_2_activity_index.csv.
+
+Figure 3. Records of the corpus by publication year and document type, 2003–2025 (Scopus, n = 841, retrieved 13 October 2026).
+Image: figure_3.png. Data: figure_3_output_by_type.csv.
+
+Figure 4. Collaboration type of the corpus records by publication year, 2003–2025: single institution, domestic multi-institution and international, by the v3.1 thesaurus (Scopus, n = 841, retrieved 13 October 2026).
+Image: figure_4.png. Data: figure_4_collaboration_v31.csv.
+
+Figure 5. Co-word map of author keywords: keywords in at least five records, links for pairs in at least two records weighted by association strength, colours for the modularity clusters computed without the four generic keywords, labels for keywords in at least eight records (Scopus, n = 841, of which 797 carry author keywords; retrieved 13 October 2026).
+Image: figure_5.png. Data: figure_5_coword_edges.csv, figure_5_coword_nodes.csv.
+
+Figure 6. Records retrieved by the same title-only query in Scopus and OpenAlex, by publication year, 2003–2025: only in Scopus, in both, and only in OpenAlex (Scopus n = 203, OpenAlex n = 229; union n = 309).
+Image: figure_6.png. Data: figure_6_coverage_union.csv.

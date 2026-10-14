@@ -1,0 +1,11 @@
+group,value,records,international,share_international_pct
+period,2003-2016,57,16,28.1
+period,2017-2021,241,174,72.2
+period,2022-2025,543,327,60.2
+type,article,396,233,58.8
+type,conference paper,387,240,62.0
+type,book chapter,32,28,87.5
+type,review,21,12,57.1
+type,retracted,3,3,100.0
+type,book,2,1,50.0
+all,2003-2025,841,517,61.5

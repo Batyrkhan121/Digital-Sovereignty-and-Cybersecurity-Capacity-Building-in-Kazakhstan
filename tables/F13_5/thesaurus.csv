@@ -1,0 +1,681 @@
+from,to,rule,version
+iot,internet of things,abbreviation to long form,v1
+ml,machine learning,abbreviation to long form,v1
+ai,artificial intelligence,abbreviation to long form,v1
+ids,intrusion detection system,abbreviation to long form,v1
+iiot,industrial internet of things,abbreviation to long form,v1
+ddos,distributed denial of service,abbreviation to long form,v1
+dos,denial of service,abbreviation to long form,v1
+nlp,natural language processing,abbreviation to long form,v1
+cnn,convolutional neural network,abbreviation to long form,v1
+ecc,elliptic curve cryptography,abbreviation to long form,v1
+aes,advanced encryption standard,abbreviation to long form,v1
+uav,unmanned aerial vehicle,abbreviation to long form,v1
+uavs,unmanned aerial vehicle,abbreviation (plural) to long form,v1
+wsn,wireless sensor network,abbreviation to long form,v1
+wsns,wireless sensor network,abbreviation (plural) to long form,v1
+qkd,quantum key distribution,abbreviation to long form,v1
+lstm,long short term memory,abbreviation to long form,v1
+cps,cyber physical system,abbreviation to long form,v1
+sdn,software defined networking,abbreviation to long form,v1
+fpga,field programmable gate array,abbreviation to long form,v1
+siem,security information and event management,abbreviation to long form,v1
+ict,information and communication technology,abbreviation to long form,v1
+llm,large language model,abbreviation to long form,v1
+llms,large language model,abbreviation (plural) to long form,v1
+internet of things (iot),internet of things,long form with abbreviation in parentheses to long form,v1
+scada,supervisory control and data acquisition,abbreviation to long form,v1
+cyber attacks,cyberattack,plural to singular; v1 row retargeted (its 'to' merged in v2),v1
+cyberattacks,cyberattack,plural to singular,v1
+neural networks,neural network,plural to singular,v1
+intrusion detection systems,intrusion detection system,plural to singular,v1
+cyber threats,cyber threat,plural to singular,v1
+vulnerabilities,vulnerability,plural to singular,v1
+encryption algorithms,encryption algorithm,plural to singular,v1
+risks,risk,plural to singular,v1
+attacks,attack,plural to singular,v1
+threats,threat,plural to singular,v1
+elliptic curves,elliptic curve,plural to singular,v1
+cyber physical systems,cyber physical system,plural to singular,v1
+information systems,information system,plural to singular,v1
+homomorphic encryptions,homomorphic encryption,plural to singular,v1
+block ciphers,block cipher,plural to singular,v1
+cloud services,cloud service,plural to singular,v1
+algorithms,algorithm,plural to singular,v1
+cryptographic algorithms,cryptographic algorithm,plural to singular,v1
+web applications,web application,plural to singular,v1
+s boxes,s box,plural to singular,v1
+networks,network,plural to singular,v1
+information security systems,information security system,plural to singular,v1
+random forests,random forest,plural to singular,v1
+malwares,malware,plural to singular,v1
+large language models,large language model,plural to singular,v1
+convolutional neural networks,convolutional neural network,plural to singular,v1
+wireless sensor networks,wireless sensor network,plural to singular,v1
+graph neural networks,graph neural network,plural to singular,v1
+smart grids,smart grid,plural to singular,v1
+smart contracts,smart contract,plural to singular,v1
+information technologies,information technology,plural to singular,v1
+information and communication technologies,information and communication technology,plural to singular,v1
+digitalisation,digitalization,British to American spelling,v1
+industrial internet of things (iiot),industrial internet of things,long form with abbreviation in parentheses to long form,v1
+5g networks,fifth generation network,v2 new: plural to singular; retargeted in v4 (its 'to' merged in v4),v2
+architectures,architecture,v2 new: plural to singular,v2
+artificial neural networks,artificial neural network,v2 new: plural to singular,v2
+asymmetric cryptosystems,asymmetric cryptosystem,v2 new: plural to singular,v2
+attention mechanisms,attention mechanism,v2 new: plural to singular,v2
+auditors,auditor,v2 new: plural to singular,v2
+authentication methods,authentication method,v2 new: plural to singular,v2
+automated systems,automated system,v2 new: plural to singular,v2
+avalanche effects,avalanche effect,v2 new: plural to singular,v2
+bayesia n networks,bayesian network,"v2 new: joined/spaced spelling (author 1 > 0; group of linked pairs, final form 'bayesian network')",v2
+bayesian networks,bayesian network,v2 new: plural to singular,v2
+biometric identifications,biometric identification,v2 new: plural to singular,v2
+biometric systems,biometric system,v2 new: plural to singular,v2
+block chain,blockchain,v2 new: joined/spaced spelling (author 26 > 0),v2
+business processes,business process,v2 new: plural to singular,v2
+cascade codes,cascade code,v2 new: plural to singular,v2
+cellular networks,cellular network,v2 new: plural to singular,v2
+challenges,challenge,v2 new: plural to singular,v2
+ciphers,cipher,v2 new: plural to singular,v2
+ciphertexts,ciphertext,v2 new: plural to singular,v2
+cloud platforms,cloud platform,v2 new: plural to singular,v2
+cloud securities,cloud security,v2 new: plural to singular,v2
+cloud technologies,cloud technology,v2 new: plural to singular,v2
+clusterings,clustering,v2 new: plural to singular,v2
+codecs,codec,v2 new: plural to singular,v2
+communications,communication,v2 new: plural to singular,v2
+computer networks,computer network,v2 new: plural to singular,v2
+content centric networks,content centric network,v2 new: plural to singular,v2
+countermeasures,countermeasure,v2 new: plural to singular,v2
+criminal laws,criminal law,v2 new: plural to singular,v2
+critical aviation information systems,critical aviation information system,v2 new: plural to singular,v2
+critical infrastructure objects,critical infrastructure object,v2 new: plural to singular,v2
+cryptographic systems,cryptographic system,v2 new: plural to singular,v2
+cryptosystems,cryptosystem,v2 new: plural to singular,v2
+cyber attack,cyberattack,v2 new: joined/spaced spelling (author tie 10; main.qmd tie 0; joined form),v2
+cyber crime,cybercrime,v2 new: joined/spaced spelling (author 9 > 1),v2
+cyber crimes,cybercrime,"v2 new: plural to singular; group of linked pairs, final form 'cybercrime'",v2
+cyber incidents,cyber incident,v2 new: plural to singular,v2
+cyber security,cybersecurity,v2 new: joined/spaced spelling (author 123 > 23),v2
+cybercrimes,cybercrime,v2 new: plural to singular,v2
+cybersecurity threats,cybersecurity threat,v2 new: plural to singular,v2
+data set,dataset,v2 new: joined/spaced spelling (author 2 > 0),v2
+datacenter,data center,v2 new: joined/spaced spelling (author 1 > 0),v2
+datasets,dataset,v2 new: plural to singular,v2
+ddos attacks,distributed denial of service attack,v2 new: plural to singular; retargeted in v4 (its 'to' merged in v4),v2
+decision making support systems,decision making support system,v2 new: plural to singular,v2
+deterministic protocols,deterministic protocol,v2 new: plural to singular,v2
+differential games,differential game,v2 new: plural to singular,v2
+digital educational environments,digital educational environment,v2 new: plural to singular,v2
+digital footprints,digital footprint,v2 new: plural to singular,v2
+digital forensic,digital forensics,v2 new: plural-name concept: singular to plural,v2
+digital twins,digital twin,v2 new: plural to singular,v2
+discrete logarithms,discrete logarithm,v2 new: plural to singular,v2
+distributed computing networks,distributed computing network,v2 new: plural to singular,v2
+distributed computing systems,distributed computing system,v2 new: plural to singular,v2
+distributed networks,distributed network,v2 new: plural to singular,v2
+dos attacks,denial of service attack,v2 new: plural to singular; retargeted in v4 (its 'to' merged in v4),v2
+edge devices,edge device,v2 new: plural to singular,v2
+educational institutions,educational institution,v2 new: plural to singular,v2
+electronic code book,electronic codebook,v2 new: joined/spaced spelling (author tie 0; main.qmd tie 0; joined form),v2
+electronic voting systems,electronic voting system,v2 new: plural to singular,v2
+elliptic curve cryptography(ecc),elliptic curve cryptography,v2 new: joined/spaced spelling (author 3 > 0); retargeted in v3 (its 'to' merged in v3),v2
+embedded systems,embedded system,v2 new: plural to singular,v2
+expert systems,expert system,v2 new: plural to singular,v2
+fiber bragg gratings,fiber bragg grating,v2 new: plural to singular,v2
+filesystem,file system,v2 new: joined/spaced spelling (author 1 > 0),v2
+finite fields,finite field,v2 new: plural to singular,v2
+firewalls,firewall,v2 new: plural to singular,v2
+functional link artificial neural networks,functional link artificial neural network,v2 new: plural to singular,v2
+functional requirements,functional requirement,v2 new: plural to singular,v2
+fuzzy sets,fuzzy set,v2 new: plural to singular,v2
+galois fields,galois field,v2 new: plural to singular,v2
+geographic information systems,geographic information system,v2 new: plural to singular,v2
+hash functions,hash function,v2 new: plural to singular,v2
+higher education institutions,higher education institution,v2 new: plural to singular,v2
+honeypots,honeypot,v2 new: plural to singular,v2
+impulsive controls,impulsive control,v2 new: plural to singular,v2
+industrial internet of thing,industrial internet of things,v2 new: plural-name concept: singular to plural,v2
+information flows,information flow,v2 new: plural to singular,v2
+information infrastructures,information infrastructure,v2 new: plural to singular,v2
+information security managements,information security management,v2 new: plural to singular,v2
+information security risks,information security risk,v2 new: plural to singular,v2
+information security standards,information security standard,v2 new: plural to singular,v2
+information technology systems,information technology system,v2 new: plural to singular,v2
+infrastructure managements,infrastructure management,v2 new: plural to singular,v2
+innovative technologies,innovative technology,v2 new: plural to singular,v2
+intelligent systems,intelligent system,v2 new: plural to singular,v2
+intermittent controls,intermittent control,v2 new: plural to singular,v2
+internet of thing,internet of things,v2 new: plural-name concept: singular to plural,v2
+internet resources,internet resource,v2 new: plural to singular,v2
+iot devices,iot device,v2 new: plural to singular,v2
+iot networks,iot network,v2 new: plural to singular,v2
+ip networks,ip network,v2 new: plural to singular,v2
+ip telephony systems,ip telephony system,v2 new: plural to singular,v2
+irreducible polynomials,irreducible polynomial,v2 new: plural to singular,v2
+knowledge bases,knowledge base,v2 new: plural to singular,v2
+knowledgebase,knowledge base,v2 new: joined/spaced spelling (author 4 > 1),v2
+lattices,lattice,v2 new: plural to singular,v2
+light weight cryptography,lightweight cryptography,v2 new: joined/spaced spelling (author 4 > 0),v2
+linguistic variables,linguistic variable,v2 new: plural to singular,v2
+loss functions,loss function,v2 new: plural to singular,v2
+low orbit vehicles,low orbit vehicle,v2 new: plural to singular,v2
+machine learning models,machine learning model,v2 new: plural to singular,v2
+machine to machines,machine to machine,v2 new: plural to singular,v2
+management systems,management system,v2 new: plural to singular,v2
+matchings,matching,v2 new: plural to singular,v2
+mathematical models,mathematical model,v2 new: plural to singular,v2
+merkle trees,merkle tree,v2 new: plural to singular,v2
+mode of operations,mode of operation,v2 new: plural to singular,v2
+multi agent systems,multi agent system,v2 new: plural to singular,v2
+multi class classification,multiclass classification,v2 new: joined/spaced spelling (author 1 > 0),v2
+multi criteria optimization,multicriteria optimization,v2 new: joined/spaced spelling (author 2 > 1),v2
+multi step quality game,multistep quality game,v2 new: joined/spaced spelling (author tie 1; main.qmd tie 0; joined form),v2
+multicriteria decision making,multi criteria decision making,v2 new: joined/spaced spelling (author 1 > 0),v2
+network attacks,network attack,v2 new: plural to singular,v2
+non positional number systems,non positional number system,v2 new: plural to singular,v2
+non positional polynomial notation,nonpositional polynomial notation,v2 new: joined/spaced spelling (author tie 1; main.qmd tie 0; joined form),v2
+non positional polynomial notations,nonpositional polynomial notation,"v2 new: plural to singular; group of linked pairs, final form 'nonpositional polynomial notation'",v2
+nonpositional polynomial notations,nonpositional polynomial notation,v2 new: plural to singular,v2
+optimal strategies,optimal strategy,v2 new: plural to singular,v2
+parameters,parameter,v2 new: plural to singular,v2
+permutations,permutation,v2 new: plural to singular,v2
+personal data protections,personal data protection,v2 new: plural to singular,v2
+physical damages,physical damage,v2 new: plural to singular,v2
+polynomials,polynomial,v2 new: plural to singular,v2
+primitive elements,primitive element,v2 new: plural to singular,v2
+programmable delay lines,programmable delay line,v2 new: plural to singular,v2
+protocols,protocol,v2 new: plural to singular,v2
+pseudo random number generator,pseudorandom number generator,v2 new: joined/spaced spelling (author tie 1; main.qmd tie 0; joined form),v2
+pseudo random number generators,pseudorandom number generator,"v2 new: plural to singular; group of linked pairs, final form 'pseudorandom number generator'",v2
+pseudorandom number generators,pseudorandom number generator,v2 new: plural to singular,v2
+public key cryptosystems,public key cryptosystem,v2 new: plural to singular,v2
+quantum key distribution protocols,quantum key distribution protocol,v2 new: plural to singular,v2
+quantum networks,quantum network,v2 new: plural to singular,v2
+qubits,qubit,v2 new: plural to singular,v2
+reinforcement learnings,reinforcement learning,v2 new: plural to singular,v2
+resourceconstrained devices,resource constrained devices,v2 new: joined/spaced spelling (author 2 > 0),v2
+round keys,round key,v2 new: plural to singular,v2
+secrecy outage probabilities,secrecy outage probability,v2 new: plural to singular,v2
+secret sharing schemes,secret sharing scheme,v2 new: plural to singular,v2
+secure authentications,secure authentication,v2 new: plural to singular,v2
+security information and event managements,security information and event management,v2 new: plural to singular,v2
+security measures,security measure,v2 new: plural to singular,v2
+security systems,security system,v2 new: plural to singular,v2
+sensor systems,sensor system,v2 new: plural to singular,v2
+side channel attacks,side channel attack,v2 new: plural to singular,v2
+single board computers,single board computer,v2 new: plural to singular,v2
+sixth generation (6g) networks,sixth generation network,v2 new: plural to singular; retargeted in v4 (its 'to' merged in v4),v2
+smart homes,smart home,v2 new: plural to singular,v2
+smart phones,smartphone,"v2 new: joined/spaced spelling (author 1 > 0; group of linked pairs, final form 'smartphone')",v2
+smartphones,smartphone,v2 new: plural to singular,v2
+social networks,social network,v2 new: plural to singular,v2
+software defined networkings,software defined networking,v2 new: plural to singular,v2
+software defined radios,software defined radio,v2 new: plural to singular,v2
+software systems,software system,v2 new: plural to singular,v2
+stream ciphers,stream cipher,v2 new: plural to singular,v2
+symmetrics,symmetric,v2 new: plural to singular,v2
+systems,system,v2 new: plural to singular,v2
+technologies,technology,v2 new: plural to singular,v2
+test bed,testbed,v2 new: joined/spaced spelling (author tie 1; main.qmd tie 0; joined form),v2
+threats and vulnerabilities,threats and vulnerability,v2 new: plural to singular,v2
+unmanned aerial vehicles,unmanned aerial vehicle,v2 new: plural to singular,v2
+vector commitments,vector commitment,v2 new: plural to singular,v2
+virtual machines,virtual machine,v2 new: plural to singular,v2
+virtualization technologies,virtualization technology,v2 new: plural to singular,v2
+virtualizations,virtualization,v2 new: plural to singular,v2
+voter privacies,voter privacy,v2 new: plural to singular,v2
+vulnerability assessments,vulnerability assessment,v2 new: plural to singular,v2
+web attacks,web attack,v2 new: plural to singular,v2
+websocket,web socket,v2 new: joined/spaced spelling (author 1 > 0),v2
+wi fi,wifi,v2 new: joined/spaced spelling (author 2 > 1),v2
+wireless communications,wireless communication,v2 new: plural to singular,v2
+wireless networks,wireless network,v2 new: plural to singular,v2
+wireless technologies,wireless technology,v2 new: plural to singular,v2
+wmsns,wmsn,v2 new: plural to singular,v2
+5g and 6g networks,5g and 6g network,v3 t tail plural: plural to singular,v3
+5g/6g technologies,5g/6g technology,v3 t tail plural: plural to singular,v3
+802.11 protocols,802.11 protocol,v3 t tail plural: plural to singular,v3
+acoustic logging of cement quality (acl),acoustic logging of cement quality,v3 c bracket: abbreviation in brackets: 'acl',v3
+adaptive biometric,adaptive biometrics,v3 t tail plural: plural-name concept: singular to plural; biometrics names the field ('biometric' is an adjective),v3
+additive manufacturing (am),additive manufacturing,v3 c bracket: abbreviation in brackets: 'am',v3
+advanced encryption standard (aes),advanced encryption standard,v3 c bracket: abbreviation in brackets: 'aes',v3
+aes algorithms,aes algorithm,v3 t tail plural: plural to singular,v3
+affine transformations,affine transformation,v3 t tail plural: plural to singular,v3
+aggregate signature (as),aggregate signature,v3 c bracket: abbreviation in brackets: 'as',v3
+ahp,analytical hierarchy process,v3 e acronym: one long form; initials 'ahp',v3
+ai methods,ai method,v3 t tail plural: plural to singular,v3
+aircracking attacks,aircracking attack,v3 t tail plural: plural to singular,v3
+algebraic extensions,algebraic extension,v3 t tail plural: plural to singular,v3
+and vanstone (ecmqv),and vanstone,v3 c bracket: abbreviation in brackets: 'ecmqv',v3
+animated qr codes,animated qr code,v3 t tail plural: plural to singular,v3
+anti terrorist activities,anti terrorist activity,v3 t tail plural: plural to singular,v3
+apodizations,apodization,v3 t tail plural: plural to singular,v3
+application transactions,application transaction,v3 t tail plural: plural to singular,v3
+applied information technologies,applied information technology,v3 t tail plural: plural to singular,v3
+ar/vr in intelligent systems,ar/vr in intelligent system,v3 t tail plural: plural to singular,v3
+artificial bee colony optimizations,artificial bee colony optimization,v3 t tail plural: plural to singular,v3
+artificial intelligence (ai),artificial intelligence,v3 c bracket: abbreviation in brackets: 'ai',v3
+artificial noise (an),artificial noise,v3 c bracket: abbreviation in brackets: 'an',v3
+assessing methods,assessing method,v3 t tail plural: plural to singular,v3
+assessing the security of information systems,assessing the security of information system,v3 t tail plural: plural to singular,v3
+assessment models,assessment model,v3 t tail plural: plural to singular,v3
+authenticated key agreement protocols,authenticated key agreement protocol,v3 t tail plural: plural to singular,v3
+auto correlation,autocorrelation,v3 t tail joined/spaced: author 1 > 0,v3
+banking sectors,banking sector,v3 t tail plural: plural to singular,v3
+bayesian game theories,bayesian game theory,v3 t tail plural: plural to singular,v3
+bayesian network models,bayesian network model,v3 t tail plural: plural to singular,v3
+behaviour patterns,behavior patterns,v3 t tail spelling: British to American ending (our -> or),v3
+big data analytic,big data analytics,v3 t tail plural: plural-name concept: singular to plural; analytics names the field ('analytic' is an adjective),v3
+binary edwards curve (bec),binary edwards curve,v3 c bracket: abbreviation in brackets: 'bec',v3
+binary edwards curve(bec),binary edwards curve,v3 c bracket: abbreviation in brackets: 'bec',v3
+bit error rate (ber),bit error rate,v3 c bracket: abbreviation in brackets: 'ber',v3
+block cipher modes,block cipher mode,v3 t tail plural: plural to singular,v3
+blockchain challenges,blockchain challenge,v3 t tail plural: plural to singular,v3
+blockchain promises,blockchain promise,v3 t tail plural: plural to singular,v3
+bluetooth low energies (ble),bluetooth low energies,v3 c bracket: abbreviation in brackets: 'ble',v3
+brute force attacks,brute force attack,v3 t tail plural: plural to singular,v3
+c2 servers,c2 server,v3 t tail plural: plural to singular,v3
+certificate based signature (cbs),certificate based signature,v3 c bracket: abbreviation in brackets: 'cbs',v3
+chief information security officers,chief information security officer,v3 t tail plural: plural to singular,v3
+civilian populations,civilian population,v3 t tail plural: plural to singular,v3
+cloud based architectures,cloud based architecture,v3 t tail plural: plural to singular,v3
+code vulnerabilities,code vulnerability,v3 t tail plural: plural to singular,v3
+cognitive biases,cognitive bias,v3 t tail plural: plural to singular,v3
+cognitive radio (cr),cognitive radio,v3 c bracket: abbreviation in brackets: 'cr',v3
+command and control (c2),command and control,v3 c bracket: abbreviation in brackets: 'c2',v3
+comment trends,comment trend,v3 t tail plural: plural to singular,v3
+commercialisation,commercialization,v3 t tail spelling: British to American ending (isation -> ization),v3
+computer ontologies,computer ontology,v3 t tail plural: plural to singular,v3
+conceptual maps,conceptual map,v3 t tail plural: plural to singular,v3
+conceptual structures,conceptual structure,v3 t tail plural: plural to singular,v3
+configuration networks,configuration network,v3 t tail plural: plural to singular,v3
+conjugate permutations,conjugate permutation,v3 t tail plural: plural to singular,v3
+consensus algorithms,consensus algorithm,v3 t tail plural: plural to singular,v3
+consensus protocols,consensus protocol,v3 t tail plural: plural to singular,v3
+consequences,consequence,v3 t tail plural: plural to singular,v3
+container technologies,container technology,v3 t tail plural: plural to singular,v3
+content centric network (ccn),content centric network,v3 c bracket: abbreviation in brackets: 'ccn',v3
+continuous authentications,continuous authentication,v3 t tail plural: plural to singular,v3
+continuous improvements,continuous improvement,v3 t tail plural: plural to singular,v3
+convolutional neural networks (cnns),convolutional neural network,v3 c bracket: abbreviation in brackets: 'cnns'; group final form 'convolutional neural network',v3
+covert communications,covert communication,v3 t tail plural: plural to singular,v3
+crisis situations,crisis situation,v3 t tail plural: plural to singular,v3
+critical information infrastructure facilities,critical information infrastructure facility,v3 t tail plural: plural to singular,v3
+critical information infrastructure protections,critical information infrastructure protection,v3 t tail plural: plural to singular,v3
+cube roots,cube root,v3 t tail plural: plural to singular,v3
+cyber physical systems (cpss),cyber physical system,v3 c bracket: abbreviation in brackets: 'cpss'; group final form 'cyber physical system',v3
+cybersecurity of banking institutions,cybersecurity of banking institution,v3 t tail plural: plural to singular,v3
+cybersecurity requirements,cybersecurity requirement,v3 t tail plural: plural to singular,v3
+cyclic properties,cyclic property,v3 t tail plural: plural to singular,v3
+dashboards,dashboard,v3 t tail plural: plural to singular,v3
+data exchange protocols,data exchange protocol,v3 t tail plural: plural to singular,v3
+data operators,data operator,v3 t tail plural: plural to singular,v3
+data processing algorithms,data processing algorithm,v3 t tail plural: plural to singular,v3
+decentralisation,decentralization,v3 t tail spelling: British to American ending (isation -> ization),v3
+decentralized systems,decentralized system,v3 t tail plural: plural to singular,v3
+deep neural networks,deep neural network,v3 t tail plural: plural to singular,v3
+deep neural networks (dnns),deep neural network,v3 c bracket: abbreviation in brackets: 'dnns'; group final form 'deep neural network',v3
+delayed impulses,delayed impulse,v3 t tail plural: plural to singular,v3
+dendrograms,dendrogram,v3 t tail plural: plural to singular,v3
+denial of service (dos),denial of service,v3 c bracket: abbreviation in brackets: 'dos',v3
+des algorithms,des algorithm,v3 t tail plural: plural to singular,v3
+detect and forward (df),detect and forward,v3 c bracket: abbreviation in brackets: 'df',v3
+detection technologies,detection technology,v3 t tail plural: plural to singular,v3
+digital museums,digital museum,v3 t tail plural: plural to singular,v3
+directed acyclic graph (dag),directed acyclic graph,v3 c bracket: abbreviation in brackets: 'dag',v3
+distance learning systems,distance learning system,v3 t tail plural: plural to singular,v3
+double rayleigh fading channels,double rayleigh fading channel,v3 t tail plural: plural to singular,v3
+drill stem tests,drill stem test,v3 t tail plural: plural to singular,v3
+drone incidents,drone incident,v3 t tail plural: plural to singular,v3
+drone threats,drone threat,v3 t tail plural: plural to singular,v3
+dynamic game theories,dynamic game theory,v3 t tail plural: plural to singular,v3
+dynamic qr codes,dynamic qr code,v3 t tail plural: plural to singular,v3
+dynamic trusts,dynamic trust,v3 t tail plural: plural to singular,v3
+ecb,electronic codebook,v3 e acronym: one long form; initials 'ecb',v3
+el gamal scheme,elgamal scheme,v3 t tail joined/spaced: author 1 > 0,v3
+electric vehicles (evs),electric vehicles,v3 c bracket: abbreviation in brackets: 'evs',v3
+electrical vehicle (ev),electrical vehicle,v3 c bracket: abbreviation in brackets: 'ev',v3
+electrocardiogram (ecg),electrocardiogram,v3 c bracket: abbreviation in brackets: 'ecg',v3
+electronic documents,electronic document,v3 t tail plural: plural to singular,v3
+electronic textbooks,electronic textbook,v3 t tail plural: plural to singular,v3
+electronic workbooks,electronic workbook,v3 t tail plural: plural to singular,v3
+elliptic curve cryptography (ecc),elliptic curve cryptography,v3 c bracket: abbreviation in brackets: 'ecc',v3
+elliptical curve cryptographies,elliptical curve cryptography,v3 t tail plural: plural to singular,v3
+emerging security attacks,emerging security attack,v3 t tail plural: plural to singular,v3
+encodings,encoding,v3 t tail plural: plural to singular,v3
+engineering clusters,engineering cluster,v3 t tail plural: plural to singular,v3
+environmental sound recognition (esr),environmental sound recognition,v3 c bracket: abbreviation in brackets: 'esr',v3
+ergodic secrecy capacity (esc),ergodic secrecy capacity,v3 c bracket: abbreviation in brackets: 'esc',v3
+evasion attacks,evasion attack,v3 t tail plural: plural to singular,v3
+event management tools,event management tool,v3 t tail plural: plural to singular,v3
+extremist messages,extremist message,v3 t tail plural: plural to singular,v3
+face embeddings,face embedding,v3 t tail plural: plural to singular,v3
+false data injection attacks,false data injection attack,v3 t tail plural: plural to singular,v3
+family legal relations,family legal relation,v3 t tail plural: plural to singular,v3
+family policy guidelines,family policy guideline,v3 t tail plural: plural to singular,v3
+fault injection attacks,fault injection attack,v3 t tail plural: plural to singular,v3
+fiber sensors,fiber sensor,v3 t tail plural: plural to singular,v3
+field programmable gate array (fpga),field programmable gate array,v3 c bracket: abbreviation in brackets: 'fpga',v3
+fifth generation (5g) networks,fifth generation network,v3 t tail plural: plural to singular; retargeted in v4 (its 'to' merged in v4),v3
+fish eye cameras,fisheye cameras,v3 t tail joined/spaced: author 1 > 0,v3
+formal proofs,formal proof,v3 t tail plural: plural to singular,v3
+fractional order systems,fractional order system,v3 t tail plural: plural to singular,v3
+frequency domains,frequency domain,v3 t tail plural: plural to singular,v3
+functional link artificial neural network (flann),functional link artificial neural network,v3 c bracket: abbreviation in brackets: 'flann',v3
+fuzzy cellular neural networks (fcnns),fuzzy cellular neural networks,v3 c bracket: abbreviation in brackets: 'fcnns',v3
+fuzzy commitment scheme (fcs),fuzzy commitment scheme,v3 c bracket: abbreviation in brackets: 'fcs',v3
+fuzzy reaction diffusion neural networks,fuzzy reaction diffusion neural network,v3 t tail plural: plural to singular,v3
+fuzzy system dynamic,fuzzy system dynamics,v3 t tail plural: plural-name concept: singular to plural; system dynamics names the method ('dynamic' is an adjective),v3
+gas sensor arrays,gas sensor array,v3 t tail plural: plural to singular,v3
+gated recurrent units,gated recurrent unit,v3 t tail plural: plural to singular,v3
+gated recurrent units (gru),gated recurrent unit,v3 c bracket: abbreviation in brackets: 'gru'; group final form 'gated recurrent unit',v3
+geological and technical measures,geological and technical measure,v3 t tail plural: plural to singular,v3
+global policies,global policy,v3 t tail plural: plural to singular,v3
+gpt models,gpt model,v3 t tail plural: plural to singular,v3
+grc systems,grc system,v3 t tail plural: plural to singular,v3
+hardware implementation of cryptosystems,hardware implementation of cryptosystem,v3 t tail plural: plural to singular,v3
+health monitoring systems,health monitoring system,v3 t tail plural: plural to singular,v3
+heat maps,heat map,v3 t tail plural: plural to singular,v3
+homogeneous intervals,homogeneous interval,v3 t tail plural: plural to singular,v3
+human machine interface (hmi),human machine interface,v3 c bracket: abbreviation in brackets: 'hmi',v3
+hybrid ai models,hybrid ai model,v3 t tail plural: plural to singular,v3
+hybrid neural networks,hybrid neural network,v3 t tail plural: plural to singular,v3
+improved whale optimization algorithm (iwoa),improved whale optimization algorithm,v3 c bracket: abbreviation in brackets: 'iwoa',v3
+industrial iot (iiot),industrial internet of things,v3 c bracket: abbreviation in brackets: 'iiot'; retargeted in v4 (its 'to' merged in v4),v3
+inertial cohen grossberg neural networks,inertial cohen grossberg neural network,v3 t tail plural: plural to singular,v3
+information and communication technology (ict),information and communication technology,v3 c bracket: abbreviation in brackets: 'ict',v3
+information and technological complexes,information and technological complex,v3 t tail plural: plural to singular,v3
+information security management system (isms),information security management system,v3 c bracket: abbreviation in brackets: 'isms',v3
+information security mean,information security means,v3 t tail plural: plural-name concept: singular to plural; 'means' (instruments) has no singular 'mean' in this sense,v3
+input agnostic attacks,input agnostic attack,v3 t tail plural: plural to singular,v3
+integrated assessment models,integrated assessment model,v3 t tail plural: plural to singular,v3
+intelligent devices,intelligent device,v3 t tail plural: plural to singular,v3
+intelligent electronic devices,intelligent electronic device,v3 t tail plural: plural to singular,v3
+intelligent information systems,intelligent information system,v3 t tail plural: plural to singular,v3
+intensive care units,intensive care unit,v3 t tail plural: plural to singular,v3
+international transportation of goods,international transportation of good,v3 t tail plural: plural to singular,v3
+internet of thing (iot),internet of things,v3 c bracket: abbreviation in brackets: 'iot'; group final form 'internet of things',v3
+internet of vehicle,internet of vehicles,v3 t tail plural: plural-name concept: singular to plural,v3
+internet of vehicles (iov),internet of vehicles,v3 c bracket: abbreviation in brackets: 'iov',v3
+internet technologies,internet technology,v3 t tail plural: plural to singular,v3
+interpolation polynomials,interpolation polynomial,v3 t tail plural: plural to singular,v3
+intrusion detection system (ids),intrusion detection system,v3 c bracket: abbreviation in brackets: 'ids',v3
+intrusion detection systems (ids),intrusion detection system,v3 c bracket: abbreviation in brackets: 'ids'; group final form 'intrusion detection system',v3
+intrusion scenarios,intrusion scenario,v3 t tail plural: plural to singular,v3
+intrusions,intrusion,v3 t tail plural: plural to singular,v3
+invertible neural networks,invertible neural network,v3 t tail plural: plural to singular,v3
+iot security vulnerabilities,iot security vulnerability,v3 t tail plural: plural to singular,v3
+irreducible equations,irreducible equation,v3 t tail plural: plural to singular,v3
+islamic finances,islamic finance,v3 t tail plural: plural to singular,v3
+isp (internet service provider),internet service provider,v3 c bracket: reverse form: 'isp' with the long form in brackets,v3
+it incidents,it incident,v3 t tail plural: plural to singular,v3
+java native interfaces,java native interface,v3 t tail plural: plural to singular,v3
+joining processes,joining process,v3 t tail plural: plural to singular,v3
+key policy attribute based encryption (kpabe),key policy attribute based encryption,v3 c bracket: abbreviation in brackets: 'kpabe',v3
+kpi,key performance indicators,v3 e acronym: one long form; initials 'kpi',v3
+labour market,labor market,"v3 d explicit: British to American spelling (brief, class d)",v3
+lagrange's interpolation (li),lagrange's interpolation,v3 c bracket: abbreviation in brackets: 'li',v3
+large intelligent surface (lis),large intelligent surface,v3 c bracket: abbreviation in brackets: 'lis',v3
+lightweight protocols,lightweight protocol,v3 t tail plural: plural to singular,v3
+lms,learning management system,v3 e acronym: one long form; initials 'lms',v3
+low earth orbit (leo),low earth orbit,v3 c bracket: abbreviation in brackets: 'leo',v3
+lpwan,low power wide area network,v3 e acronym: one long form; initials 'lpwan',v3
+lvcmos,low voltage complementary metal oxide semiconductor,v3 e acronym: one long form; initials 'lvcmos',v3
+machine learning (ml),machine learning,v3 c bracket: abbreviation in brackets: 'ml',v3
+machine learning risks,machine learning risk,v3 t tail plural: plural to singular,v3
+magnetic head assembly (hsa),magnetic head assembly,v3 c bracket: abbreviation in brackets: 'hsa',v3
+magnetograms,magnetogram,v3 t tail plural: plural to singular,v3
+malware infections,malware infection,v3 t tail plural: plural to singular,v3
+mathematical and physical calculations,mathematical and physical calculation,v3 t tail plural: plural to singular,v3
+matrix factorizations,matrix factorization,v3 t tail plural: plural to singular,v3
+mean square convergences,mean square convergence,v3 t tail plural: plural to singular,v3
+medical fields,medical field,v3 t tail plural: plural to singular,v3
+microservices,microservice,v3 t tail plural: plural to singular,v3
+military information operations,military information operation,v3 t tail plural: plural to singular,v3
+military robotic,military robotics,v3 t tail plural: plural-name concept: singular to plural; robotics names the field ('robotic' is an adjective),v3
+mitigation strategies,mitigation strategy,v3 t tail plural: plural to singular,v3
+modelling,modeling,"v3 d explicit: British to American spelling (brief, class d)",v3
+modular structures,modular structure,v3 t tail plural: plural to singular,v3
+moment generating functions,moment generating function,v3 t tail plural: plural to singular,v3
+monitoring of power plants,monitoring of power plant,v3 t tail plural: plural to singular,v3
+mothers,mother,v3 t tail plural: plural to singular,v3
+multi criterion,multi criteria,"v3 d explicit: singular to plural: 'multi criteria' is a plural-name concept (brief, class d)",v3
+multi scale bag of words,multi scale bag of word,v3 t tail plural: plural to singular,v3
+multicriteria decision making methods,multi criteria decision making methods,v3 t tail joined/spaced: author 1 > 0,v3
+multilayer perceptron (mlp),multilayer perceptron,v3 c bracket: abbreviation in brackets: 'mlp',v3
+natural language processing (nlp),natural language processing,v3 c bracket: abbreviation in brackets: 'nlp',v3
+nazarbayev intelligent schools,nazarbayev intelligent school,v3 t tail plural: plural to singular,v3
+network emulators,network emulator,v3 t tail plural: plural to singular,v3
+network operating system (nos),network operating system,v3 c bracket: abbreviation in brackets: 'nos',v3
+neural network architectures,neural network architecture,v3 t tail plural: plural to singular,v3
+neuromemristive circuits,neuromemristive circuit,v3 t tail plural: plural to singular,v3
+nfc technologies,nfc technology,v3 t tail plural: plural to singular,v3
+nist,national institute of standards and technology,v3 e acronym: one long form; initials 'nist',v3
+non positional polynomial notation (npn),nonpositional polynomial notation,v3 c bracket: abbreviation in brackets: 'npn'; group final form 'nonpositional polynomial notation',v3
+non positional polynomial number system (npn),non positional polynomial number system,v3 c bracket: abbreviation in brackets: 'npn',v3
+ntru lattices,ntru lattice,v3 t tail plural: plural to singular,v3
+oil recoveries,oil recovery,v3 t tail plural: plural to singular,v3
+operating systems securities,operating systems security,v3 t tail plural: plural to singular,v3
+optical access networks,optical access network,v3 t tail plural: plural to singular,v3
+optical electronic surveillance channels,optical electronic surveillance channel,v3 t tail plural: plural to singular,v3
+outage probability (op),outage probability,v3 c bracket: abbreviation in brackets: 'op',v3
+parents,parent,v3 t tail plural: plural to singular,v3
+particle swarm optimisation,particle swarm optimization,v3 t tail spelling: British to American ending (isation -> ization),v3
+pca algorithms,pca algorithm,v3 t tail plural: plural to singular,v3
+performance optimizations,performance optimization,v3 t tail plural: plural to singular,v3
+physical layer authentication (pla),physical layer authentication,v3 c bracket: abbreviation in brackets: 'pla',v3
+physical layer security (pls),physical layer security,v3 c bracket: abbreviation in brackets: 'pls',v3
+physical processors,physical processor,v3 t tail plural: plural to singular,v3
+physical unclonable functions,physical unclonable function,v3 t tail plural: plural to singular,v3
+physical unclonable functions (puf),physical unclonable function,v3 c bracket: abbreviation in brackets: 'puf'; group final form 'physical unclonable function',v3
+physical unclonable functions (pufs),physical unclonable function,v3 c bracket: abbreviation in brackets: 'pufs'; group final form 'physical unclonable function',v3
+pinning synchronizations,pinning synchronization,v3 t tail plural: plural to singular,v3
+point multiplication (pm),point multiplication,v3 c bracket: abbreviation in brackets: 'pm',v3
+printer (lpt),printer,v3 c bracket: abbreviation in brackets: 'lpt',v3
+privacy vulnerabilities,privacy vulnerability,v3 t tail plural: plural to singular,v3
+prng,pseudorandom number generator,v3 e acronym: one long form; initials 'prng',v3
+probability characteristics,probability characteristic,v3 t tail plural: plural to singular,v3
+probability numbers,probability number,v3 t tail plural: plural to singular,v3
+program codes,program code,v3 t tail plural: plural to singular,v3
+programmable delays line (pdl),programmable delays line,v3 c bracket: abbreviation in brackets: 'pdl',v3
+protection models,protection model,v3 t tail plural: plural to singular,v3
+provenance technologies,provenance technology,v3 t tail plural: plural to singular,v3
+proxy signatures,proxy signature,v3 t tail plural: plural to singular,v3
+pseudo random,pseudorandom,v3 t tail joined/spaced: author 1 > 0,v3
+pseudo random numbers,pseudorandom numbers,v3 t tail joined/spaced: author 1 > 0,v3
+public key cryptography (pkc),public key cryptography,v3 c bracket: abbreviation in brackets: 'pkc',v3
+public key infrastructure (pki),public key infrastructure,v3 c bracket: abbreviation in brackets: 'pki',v3
+public keys,public key,v3 t tail plural: plural to singular,v3
+public opinions,public opinion,v3 t tail plural: plural to singular,v3
+quantum based attacks,quantum based attack,v3 t tail plural: plural to singular,v3
+quantum gates,quantum gate,v3 t tail plural: plural to singular,v3
+quantum key distribution (qkd),quantum key distribution,v3 c bracket: abbreviation in brackets: 'qkd',v3
+quantum resistant algorithms,quantum resistant algorithm,v3 t tail plural: plural to singular,v3
+radio frequency (rf),radio frequency,v3 c bracket: abbreviation in brackets: 'rf',v3
+reaction diffusion inertial neural networks,reaction diffusion inertial neural network,v3 t tail plural: plural to singular,v3
+reaction diffusion terms,reaction diffusion term,v3 t tail plural: plural to singular,v3
+real time data collections,real time data collection,v3 t tail plural: plural to singular,v3
+recognition of emotions,recognition of emotion,v3 t tail plural: plural to singular,v3
+recommendations,recommendation,v3 t tail plural: plural to singular,v3
+reconfigurable intelligent surface (ris),reconfigurable intelligent surface,v3 c bracket: abbreviation in brackets: 'ris',v3
+regression methods,regression method,v3 t tail plural: plural to singular,v3
+requirements documentations,requirements documentation,v3 t tail plural: plural to singular,v3
+residual and skip connections,residual and skip connection,v3 t tail plural: plural to singular,v3
+residuals,residual,v3 t tail plural: plural to singular,v3
+resource constrained environments,resource constrained environment,v3 t tail plural: plural to singular,v3
+resource efficiencies,resource efficiency,v3 t tail plural: plural to singular,v3
+risk control techniques,risk control technique,v3 t tail plural: plural to singular,v3
+risk parameters,risk parameter,v3 t tail plural: plural to singular,v3
+road infrastructures,road infrastructure,v3 t tail plural: plural to singular,v3
+roadmaps,roadmap,v3 t tail plural: plural to singular,v3
+routing protocols,routing protocol,v3 t tail plural: plural to singular,v3
+satellite navigation systems,satellite navigation system,v3 t tail plural: plural to singular,v3
+satellite networks,satellite network,v3 t tail plural: plural to singular,v3
+secops,secop,v3 t tail plural: plural to singular,v3
+secrecy outage probability (sop),secrecy outage probability,v3 c bracket: abbreviation in brackets: 'sop',v3
+secret messages,secret message,v3 t tail plural: plural to singular,v3
+secure aggregations,secure aggregation,v3 t tail plural: plural to singular,v3
+secure boots,secure boot,v3 t tail plural: plural to singular,v3
+secure digital documents,secure digital document,v3 t tail plural: plural to singular,v3
+security databases,security database,v3 t tail plural: plural to singular,v3
+security of computer networks,security of computer network,v3 t tail plural: plural to singular,v3
+security ontologies,security ontology,v3 t tail plural: plural to singular,v3
+self attention mechanisms,self attention mechanism,v3 t tail plural: plural to singular,v3
+self similarities,self similarity,v3 t tail plural: plural to singular,v3
+short packet communications,short packet communication,v3 t tail plural: plural to singular,v3
+side channel attack (sca),side channel attack,v3 c bracket: abbreviation in brackets: 'sca',v3
+simple additive weighting method (saw),simple additive weighting method,v3 c bracket: abbreviation in brackets: 'saw',v3
+simple power analysis (spa),simple power analysis,v3 c bracket: abbreviation in brackets: 'spa',v3
+slice luts,slice lut,v3 t tail plural: plural to singular,v3
+slice registers,slice register,v3 t tail plural: plural to singular,v3
+social internet of thing,social internet of things,v3 t tail plural: plural-name concept: singular to plural,v3
+social internet of things (siot),social internet of things,v3 c bracket: abbreviation in brackets: 'siot',v3
+social network analysis (sna),social network analysis,v3 c bracket: abbreviation in brackets: 'sna',v3
+social network securities,social network security,v3 t tail plural: plural to singular,v3
+software defined networking (sdn),software defined networking,v3 c bracket: abbreviation in brackets: 'sdn',v3
+software defined radio (sdr),software defined radio,v3 c bracket: abbreviation in brackets: 'sdr',v3
+spectral efficiencies,spectral efficiency,v3 t tail plural: plural to singular,v3
+square matrices,square matrix,"v3 d explicit: plural to singular (brief, class d)",v3
+statistical properties,statistical property,v3 t tail plural: plural to singular,v3
+stereotypes,stereotype,v3 t tail plural: plural to singular,v3
+stochastic deception attacks,stochastic deception attack,v3 t tail plural: plural to singular,v3
+strategic metrics,strategic metric,v3 t tail plural: plural to singular,v3
+support vector machine (svm),support vector machine,v3 c bracket: abbreviation in brackets: 'svm',v3
+systematic literature review (slr),systematic literature review,v3 c bracket: abbreviation in brackets: 'slr',v3
+technical technological conditions,technical technological condition,v3 t tail plural: plural to singular,v3
+temporal propagation patterns,temporal propagation pattern,v3 t tail plural: plural to singular,v3
+text generations,text generation,v3 t tail plural: plural to singular,v3
+text vectorisation,text vectorization,v3 t tail spelling: British to American ending (isation -> ization),v3
+the clay mathematics institute (cmi),the clay mathematics institute,v3 c bracket: abbreviation in brackets: 'cmi',v3
+thematic maps,thematic map,v3 t tail plural: plural to singular,v3
+thz communications,thz communication,v3 t tail plural: plural to singular,v3
+time costs,time cost,v3 t tail plural: plural to singular,v3
+time efficiencies,time efficiency,v3 t tail plural: plural to singular,v3
+traffic signal controllers,traffic signal controller,v3 t tail plural: plural to singular,v3
+transport networks,transport network,v3 t tail plural: plural to singular,v3
+universal adversarial perturbations,universal adversarial perturbation,v3 t tail plural: plural to singular,v3
+unmanned aerial vehicle (uav),unmanned aerial vehicle,v3 c bracket: abbreviation in brackets: 'uav',v3
+unmanned aerial vehicles (uav),unmanned aerial vehicle,v3 c bracket: abbreviation in brackets: 'uav'; group final form 'unmanned aerial vehicle',v3
+unmanned aerial vehicles (uavs),unmanned aerial vehicle,v3 c bracket: abbreviation in brackets: 'uavs'; group final form 'unmanned aerial vehicle',v3
+urban digital ecosystems,urban digital ecosystem,v3 t tail plural: plural to singular,v3
+users,user,v3 t tail plural: plural to singular,v3
+vector commitment schemes,vector commitment scheme,v3 t tail plural: plural to singular,v3
+vehicular adhoc networks (vanets),vehicular adhoc networks,v3 c bracket: abbreviation in brackets: 'vanets',v3
+virtual machine allocations,virtual machine allocation,v3 t tail plural: plural to singular,v3
+virtual private networks (vpn),virtual private networks,v3 c bracket: abbreviation in brackets: 'vpn',v3
+visible light communication (vlc),visible light communication,v3 c bracket: abbreviation in brackets: 'vlc',v3
+vulnerability scanners,vulnerability scanner,v3 t tail plural: plural to singular,v3
+website protections,website protection,v3 t tail plural: plural to singular,v3
+wireless brain sensor network (bsn),wireless brain sensor network,v3 c bracket: abbreviation in brackets: 'bsn',v3
+wireless connectivities,wireless connectivity,v3 t tail plural: plural to singular,v3
+wireless internet of thing,wireless internet of things,v3 t tail plural: plural-name concept: singular to plural,v3
+wireless medical sensor network (wmsn),wireless medical sensor network,v3 c bracket: abbreviation in brackets: 'wmsn',v3
+wireless multimedia sensor network (wmsns),wireless multimedia sensor network,v3 c bracket: abbreviation in brackets: 'wmsns',v3
+wireless sensor network (wsn),wireless sensor network,v3 c bracket: abbreviation in brackets: 'wsn',v3
+wireless vulnerabilities,wireless vulnerability,v3 t tail plural: plural to singular,v3
+workshop proceedings,workshop proceeding,v3 t tail plural: plural to singular,v3
+worldwide governance indicators,worldwide governance indicator,v3 t tail plural: plural to singular,v3
+zero day attacks,zero day attack,v3 t tail plural: plural to singular,v3
+5g network,fifth generation network,v4 f embedded abbreviation: '5g' -> 'fifth generation'; expanded form a thesaurus 'to',v4
+accidents,accident,v4 t tail plural: plural to singular,v4
+ad hoc networks,ad hoc network,v4 t tail plural: plural to singular,v4
+address resolution protocol (arp) improvement,address resolution protocol improvement,v4 c' mid bracket: abbreviation in brackets: 'arp',v4
+ai systems,artificial intelligence systems,v4 f embedded abbreviation: 'ai' -> 'artificial intelligence'; expanded form in T1,v4
+application layers,application layer,v4 t tail plural: plural to singular,v4
+application programming interfaces (api),application programming interfaces,v4 c bracket (new form): abbreviation in brackets: 'api',v4
+authentication protocols,authentication protocol,v4 t tail plural: plural to singular,v4
+birds,bird,v4 t tail plural: plural to singular,v4
+chaotic systems,chaotic system,v4 t tail plural: plural to singular,v4
+cloud storages,cloud storage,v4 t tail plural: plural to singular,v4
+clustering intrusion detection methods,clustering intrusion detection method,v4 t tail plural: plural to singular,v4
+computational costs,computational cost,v4 t tail plural: plural to singular,v4
+computer crimes,computer crime,v4 t tail plural: plural to singular,v4
+computers,computer,v4 t tail plural: plural to singular,v4
+cooperative communications,cooperative communication,v4 t tail plural: plural to singular,v4
+cost functions,cost function,v4 t tail plural: plural to singular,v4
+critical infrastructures,critical infrastructure,v4 t tail plural: plural to singular,v4
+critically ill patients,critically ill patient,v4 t tail plural: plural to singular,v4
+data base,database,v4 t tail joined/spaced: author 4 > 0,v4
+data centers,data center,v4 t tail plural: plural to singular,v4
+data visualisation,data visualization,v4 t tail spelling: British to American ending (isation -> ization),v4
+ddos attack,distributed denial of service attack,v4 f embedded abbreviation: 'ddos' -> 'distributed denial of service'; expanded form in T1,v4
+decision support systems,decision support system,v4 t tail plural: plural to singular,v4
+decision trees,decision tree,v4 t tail plural: plural to singular,v4
+denial of service (dos) attacks,denial of service attack,v4 c' mid bracket: abbreviation in brackets: 'dos'; group final form 'denial of service attack',v4
+denial of service attacks,denial of service attack,v4 t tail plural: plural to singular,v4
+denialof service attacks,denial of service attack,v4 t tail joined/spaced: author 1 > 0; group final form 'denial of service attack',v4
+digital technologies,digital technology,v4 t tail plural: plural to singular,v4
+disasters,disaster,v4 t tail plural: plural to singular,v4
+dos attack,denial of service attack,v4 f embedded abbreviation: 'dos' -> 'denial of service'; expanded form in T1,v4
+drones,drone,v4 t tail plural: plural to singular,v4
+educational technologies,educational technology,v4 t tail plural: plural to singular,v4
+elliptic curve (ec) encryption,elliptic curve encryption,v4 c' mid bracket: abbreviation in brackets: 'ec',v4
+explainable ai,explainable artificial intelligence,v4 f embedded abbreviation: 'ai' -> 'artificial intelligence'; expanded form in T1,v4
+field programmable gate arrays,field programmable gate array,v4 t tail plural: plural to singular,v4
+field programmable gate arrays (fpga),field programmable gate array,v4 c bracket (new form): abbreviation in brackets: 'fpga'; group final form 'field programmable gate array',v4
+fifth generation (5g) network,fifth generation network,v4 c' mid bracket: abbreviation in brackets: '5g',v4
+fpga bit stream algorithms,fpga bit stream algorithm,v4 t tail plural: plural to singular,v4
+genetic algorithms,genetic algorithm,v4 t tail plural: plural to singular,v4
+handover (ho) management,handover management,v4 c' mid bracket: abbreviation in brackets: 'ho',v4
+health care,healthcare,v4 t tail joined/spaced: author 6 > 0,v4
+humans,human,v4 t tail plural: plural to singular,v4
+industrial iot,industrial internet of things,v4 f embedded abbreviation: 'iot' -> 'internet of things'; expanded form in T1,v4
+information services,information service,v4 t tail plural: plural to singular,v4
+infrastructure as a service (iaas),infrastructure as a service,v4 c bracket (new form): abbreviation in brackets: 'iaas',v4
+internet of things (iot) security,internet of things security,v4 c' mid bracket: abbreviation in brackets: 'iot',v4
+investments,investment,v4 t tail plural: plural to singular,v4
+iot security,internet of things security,v4 f embedded abbreviation: 'iot' -> 'internet of things'; expanded form in T1,v4
+it (information technology) system,information technology system,v4 c' mid bracket: reverse form: 'it' with the long form in brackets,v4
+k nearest neighbors,k nearest neighbor,v4 t tail plural: plural to singular,v4
+kalman filters,kalman filter,v4 t tail plural: plural to singular,v4
+leo satellites,low earth orbit satellites,v4 f embedded abbreviation: 'leo' -> 'low earth orbit'; expanded form in T1,v4
+libraries,library,v4 t tail plural: plural to singular,v4
+lightweight block ciphers,lightweight block cipher,v4 t tail plural: plural to singular,v4
+linear matrix in equalities,linear matrix inequality,v4 t tail joined/spaced: author tie 0; main.qmd tie 0; joined form; group final form 'linear matrix inequality',v4
+linear matrix inequalities,linear matrix inequality,v4 t tail plural: plural to singular,v4
+linear transformations,linear transformation,v4 t tail plural: plural to singular,v4
+micro air vehicle (mav),micro air vehicle,v4 c bracket (new form): abbreviation in brackets: 'mav',v4
+microcomputers,microcomputer,v4 t tail plural: plural to singular,v4
+microcontrollers,microcontroller,v4 t tail plural: plural to singular,v4
+microgrids,microgrid,v4 t tail plural: plural to singular,v4
+ml security,machine learning security,v4 f embedded abbreviation: 'ml' -> 'machine learning'; expanded form in T1,v4
+mobile applications,mobile application,v4 t tail plural: plural to singular,v4
+modem (com) ports,modem ports,v4 c' mid bracket: abbreviation in brackets: 'com',v4
+network intrusions,network intrusion,v4 t tail plural: plural to singular,v4
+neural network models,neural network model,v4 t tail plural: plural to singular,v4
+nist tests,nist test,v4 t tail plural: plural to singular,v4
+optical flows,optical flow,v4 t tail plural: plural to singular,v4
+particle swarm optimization (pso),particle swarm optimization,v4 c bracket (new form): abbreviation in brackets: 'pso',v4
+personal computers,personal computer,v4 t tail plural: plural to singular,v4
+pixels,pixel,v4 t tail plural: plural to singular,v4
+portals,portal,v4 t tail plural: plural to singular,v4
+predictive models,predictive model,v4 t tail plural: plural to singular,v4
+radio frequency identification (rfid),radio frequency identification,v4 c bracket (new form): abbreviation in brackets: 'rfid',v4
+radio waves,radiowaves,v4 t tail joined/spaced: author 1 > 0,v4
+real time systems,real time system,v4 t tail plural: plural to singular,v4
+recurrent neural networks,recurrent neural network,v4 t tail plural: plural to singular,v4
+reengineering,re engineering,v4 t tail joined/spaced: author 1 > 0,v4
+reproducibilities,reproducibility,v4 t tail plural: plural to singular,v4
+reviews,review,v4 t tail plural: plural to singular,v4
+rfid tags,rfid tag,v4 t tail plural: plural to singular,v4
+risk factors,risk factor,v4 t tail plural: plural to singular,v4
+servers,server,v4 t tail plural: plural to singular,v4
+service oriented architecture (soa),service oriented architecture,v4 c bracket (new form): abbreviation in brackets: 'soa',v4
+sixth generation (6g) network,sixth generation network,v4 c' mid bracket: abbreviation in brackets: '6g',v4
+smart cards,smart card,v4 t tail plural: plural to singular,v4
+standards,standard,v4 t tail plural: plural to singular,v4
+"stem (science, technology, engineering and mathematics)","science, technology, engineering and mathematics",v4 c bracket (new form): reverse form: 'stem' with the long form in brackets,v4
+stochastic models,stochastic model,v4 t tail plural: plural to singular,v4
+support vector machines,support vector machine,v4 t tail plural: plural to singular,v4
+taxonomies,taxonomy,v4 t tail plural: plural to singular,v4
+testbeds,testbed,v4 t tail plural: plural to singular,v4
+three dimensional displays,three dimensional display,v4 t tail plural: plural to singular,v4
+uav classification,unmanned aerial vehicle classification,v4 f embedded abbreviation: 'uav' -> 'unmanned aerial vehicle'; expanded form in T1,v4
+uav detection,unmanned aerial vehicle detection,v4 f embedded abbreviation: 'uav' -> 'unmanned aerial vehicle'; expanded form in T1,v4
+uav identification,unmanned aerial vehicle identification,v4 f embedded abbreviation: 'uav' -> 'unmanned aerial vehicle'; expanded form in T1,v4
+ultra wideband (uwb),ultra wideband,v4 c bracket (new form): abbreviation in brackets: 'uwb',v4
+vehicular ad hoc networks,vehicular adhoc networks,v4 t tail joined/spaced: author tie 0; main.qmd tie 0; joined form,v4
+wireless local area networks (wlan),wireless local area networks,v4 c bracket (new form): abbreviation in brackets: 'wlan',v4
+wireless mesh networks (wmn),wireless mesh networks,v4 c bracket (new form): abbreviation in brackets: 'wmn',v4

@@ -1,0 +1,12 @@
+measure,value
+records,841
+"citations, total",7882
+mean per record,9.37
+median,3
+maximum,465
+uncited records,195
+uncited (%),23.2
+records with >= 10 citations,183
+records with >= 50 citations,27
+records with >= 100 citations,8
+h-index of the corpus,38

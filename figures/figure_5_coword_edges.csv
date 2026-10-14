@@ -1,0 +1,251 @@
+source,target,cooccurrence_records,association_strength
+5g,big data,2,0.040816
+5g,cloud computing,2,0.025974
+5g,cyber physical system,2,0.031746
+5g,deep learning,3,0.015306
+5g,internet of things,3,0.006494
+5g,intrusion detection system,2,0.011905
+5g,machine learning,4,0.008403
+5g,neural network,3,0.023810
+5g,software defined networking,2,0.057143
+advanced encryption standard,block cipher,3,0.037500
+advanced encryption standard,cryptography,2,0.002899
+advanced encryption standard,elliptic curve cryptography,2,0.018182
+algorithm,cryptography,5,0.008052
+algorithm,encryption,3,0.011905
+algorithm,pseudorandom number generator,2,0.027778
+anomaly detection,classification,2,0.014286
+anomaly detection,clustering,2,0.020000
+anomaly detection,deep learning,2,0.003571
+anomaly detection,edge computing,2,0.007143
+anomaly detection,internet of things,8,0.006061
+anomaly detection,intrusion detection,2,0.007692
+anomaly detection,machine learning,7,0.005147
+anomaly detection,network security,5,0.010870
+anomaly detection,network traffic,3,0.021429
+architecture,cloud service,2,0.066667
+architecture,critical infrastructure,2,0.057143
+architecture,detection,2,0.040000
+architecture,identification,2,0.025000
+artificial intelligence,blockchain,6,0.006787
+artificial intelligence,cyberattack,3,0.004412
+artificial intelligence,data analysis,2,0.008403
+artificial intelligence,deep learning,7,0.007353
+artificial intelligence,detection,2,0.005882
+artificial intelligence,internet of things,5,0.002228
+artificial intelligence,intrusion detection,2,0.004525
+artificial intelligence,intrusion detection system,3,0.003676
+artificial intelligence,machine learning,16,0.006920
+artificial intelligence,network security,6,0.007673
+artificial intelligence,neural network,2,0.003268
+attack,cyber physical system,2,0.020202
+attack,detection,2,0.018182
+attack,vulnerability,3,0.020979
+attack,wireless sensor network,2,0.015152
+attack detection,machine learning,3,0.008824
+authentication,cryptography,2,0.002070
+authentication,industrial internet of things,2,0.008403
+authentication,internet of things,3,0.003247
+authentication,privacy,3,0.017857
+big data,cloud computing,4,0.051948
+big data,cyber physical system,2,0.031746
+big data,internet of things,3,0.006494
+big data,machine learning,2,0.004202
+big data,neural network,2,0.015873
+big data,software defined networking,2,0.057143
+block cipher,cryptography,3,0.005435
+blockchain,cryptography,2,0.001115
+blockchain,data privacy,2,0.015385
+blockchain,federated learning,2,0.012821
+blockchain,higher education,2,0.010989
+blockchain,internet of things,4,0.002331
+blockchain,machine learning,4,0.002262
+blockchain,network security,3,0.005017
+blockchain,privacy,2,0.006410
+blockchain,smart contract,4,0.021978
+classification,clustering,2,0.057143
+classification,detection,2,0.028571
+classification,machine learning,5,0.010504
+classification,network security,2,0.012422
+classification,network traffic,2,0.040816
+classification,neural network,2,0.015873
+cloud computing,cyber physical system,2,0.020202
+cloud computing,internet of things,5,0.006887
+cloud computing,machine learning,2,0.002674
+cloud computing,neural network,2,0.010101
+cloud computing,software defined networking,2,0.036364
+cloud service,critical infrastructure,2,0.047619
+cloud service,detection,3,0.050000
+cloud service,identification,3,0.031250
+cloud service,raspberry pi,2,0.066667
+clustering,machine learning,3,0.008824
+clustering,network traffic,2,0.057143
+computer network,distributed denial of service attack,2,0.044444
+computer vision,machine learning,3,0.008824
+convolutional neural network,deep learning,4,0.015873
+convolutional neural network,intrusion detection,2,0.017094
+convolutional neural network,machine learning,2,0.003268
+critical infrastructure,detection,2,0.028571
+critical infrastructure,identification,2,0.017857
+cryptanalysis,cryptography,5,0.010352
+cryptanalysis,encryption,3,0.015306
+cryptanalysis,hash function,2,0.035714
+cryptographic algorithm,cryptography,3,0.008696
+cryptographic algorithm,encryption,2,0.014286
+cryptography,cryptostrength,3,0.008696
+cryptography,cryptosystem,5,0.007246
+cryptography,digital signature,4,0.004459
+cryptography,elliptic curve,2,0.005797
+cryptography,encryption,11,0.005694
+cryptography,encryption algorithm,5,0.009058
+cryptography,field programmable gate array,4,0.003623
+cryptography,finite automata,6,0.012422
+cryptography,hash function,5,0.009058
+cryptography,homomorphic encryption,3,0.006211
+cryptography,information protection,2,0.002635
+cryptography,internet of things,3,0.000659
+cryptography,machine learning,2,0.000426
+cryptography,nonpositional polynomial notation,3,0.007246
+cryptography,permutation,2,0.004831
+cryptography,pseudorandom number generator,3,0.005435
+cryptography,quantum key distribution,2,0.002899
+cryptography,s box,3,0.006211
+cryptostrength,digital signature,4,0.061538
+cryptostrength,encryption,3,0.021429
+cryptosystem,encryption,3,0.010714
+cryptosystem,finite automata,4,0.057143
+cyber physical system,edge computing,3,0.023810
+cyber physical system,industrial internet of things,4,0.026144
+cyber physical system,internet of things,2,0.003367
+cyber physical system,machine learning,5,0.008170
+cyber physical system,neural network,2,0.012346
+cyber physical system,software defined networking,2,0.044444
+cyber threat,information technology,2,0.020202
+cyber threat,security information and event management,3,0.024793
+cyberattack,distributed denial of service attack,2,0.011111
+cyberattack,economy,2,0.014286
+cyberattack,internet of things,3,0.002273
+cyberattack,intrusion detection system,4,0.008333
+cyberattack,machine learning,3,0.002206
+cyberattack,network,2,0.016667
+cyberattack,network security,2,0.004348
+cyberattack,vulnerability,2,0.007692
+data analysis,machine learning,2,0.004202
+data protection,encryption,2,0.007937
+data security,identification,3,0.010417
+data security,machine learning,2,0.001634
+data security,quantum key distribution,2,0.011111
+decision support system,information protection,3,0.030303
+deep learning,edge computing,2,0.005102
+deep learning,energy efficiency,2,0.014286
+deep learning,federated learning,2,0.011905
+deep learning,internet of things,6,0.003247
+deep learning,intrusion detection,3,0.008242
+deep learning,intrusion detection system,3,0.004464
+deep learning,long short term memory,2,0.014286
+deep learning,machine learning,13,0.006828
+deep learning,network security,3,0.004658
+deep learning,neural network,4,0.007937
+deep learning,unmanned aerial vehicle,2,0.005495
+detection,fuzzy logic,2,0.018182
+detection,identification,4,0.025000
+detection,neural network,2,0.011111
+digital signature,encryption,3,0.008242
+digital signature,nonpositional polynomial notation,2,0.025641
+digital signature,post quantum cryptography,2,0.013986
+digitalization,e government,3,0.033333
+digitalization,economy,4,0.038095
+digitalization,information and communication technology,4,0.022222
+disinformation,social network,2,0.044444
+e government,information and communication technology,2,0.027778
+economy,information and communication technology,2,0.023810
+edge computing,industrial internet of things,5,0.021008
+edge computing,internet of things,6,0.006494
+elliptic curve cryptography,field programmable gate array,2,0.011364
+encryption,field programmable gate array,2,0.004464
+encryption,information protection,2,0.006494
+encryption,internet of things,3,0.001623
+encryption,s box,2,0.010204
+encryption algorithm,nonpositional polynomial notation,2,0.041667
+energy efficiency,internet of things,3,0.009091
+energy efficiency,machine learning,2,0.005882
+expert system,fuzzy logic,3,0.030303
+expert system,information security audit,2,0.027778
+expert system,knowledge base,2,0.037037
+field programmable gate array,internet of things,2,0.001894
+field programmable gate array,puf,3,0.037500
+fifth generation network,intrusion detection system,2,0.013889
+fifth generation network,machine learning,3,0.007353
+fuzzy logic,identification,2,0.011364
+genetic algorithm,optimization,4,0.051948
+healthcare,internet of things,2,0.005051
+higher education,machine learning,2,0.004202
+identification,knowledge base,3,0.031250
+identification,ontology,3,0.026786
+identification,privacy,2,0.010417
+identification,social network,3,0.020833
+industrial internet of things,intrusion detection system,2,0.004902
+industrial internet of things,machine learning,3,0.002595
+industrial internet of things,threat,3,0.014706
+information system,method,2,0.023529
+information system,reliability,5,0.036765
+information system,risk,3,0.008021
+internet of things,intrusion detection,4,0.004662
+internet of things,intrusion detection system,2,0.001263
+internet of things,machine learning,13,0.002897
+internet of things,monitoring,2,0.006061
+internet of things,network,3,0.007576
+internet of things,network security,5,0.003294
+internet of things,neural network,3,0.002525
+internet of things,privacy,3,0.003788
+internet of things,protocol,2,0.006061
+internet of things,smart city,5,0.006313
+internet of things,software defined networking,3,0.009091
+internet of things,vulnerability,3,0.003497
+internet of things,wireless sensor network,5,0.006313
+internet of things security,intrusion detection,2,0.013986
+intrusion detection,machine learning,3,0.003394
+intrusion detection,network security,2,0.006689
+intrusion detection system,machine learning,11,0.006740
+intrusion detection system,mathematical model,2,0.010417
+intrusion detection system,network security,4,0.007246
+intrusion detection system,penetration testing,2,0.009259
+intrusion detection system,security information and event management,4,0.015152
+knowledge base,ontology,4,0.095238
+knowledge base,social network,3,0.055556
+machine learning,natural language processing,2,0.003676
+machine learning,network,2,0.004902
+machine learning,network security,7,0.004476
+machine learning,network traffic,3,0.006303
+machine learning,neural network,7,0.005719
+machine learning,smart city,3,0.003676
+machine learning,software defined networking,3,0.008824
+machine learning,wireless sensor network,4,0.004902
+mathematical model,security information and event management,2,0.022727
+method,reliability,4,0.100000
+method,risk,3,0.027273
+method,safety,2,0.080000
+monitoring,wireless sensor network,2,0.033333
+network,protocol,2,0.066667
+network security,neural network,2,0.004831
+neural network,software defined networking,2,0.022222
+nonpositional polynomial notation,s box,2,0.047619
+ontology,social network,4,0.063492
+optimization,physical layer security,3,0.045455
+penetration testing,smart city,2,0.018519
+physical layer security,unmanned aerial vehicle,2,0.025641
+pseudorandom number generator,quantum cryptography,3,0.026786
+quantum cryptography,quantum key distribution,3,0.021429
+quantum cryptography,qubit,4,0.047619
+quantum key distribution,qubit,3,0.050000
+reliability,risk,3,0.017045
+reliability,safety,2,0.050000
+risk,risk assessment,3,0.011364
+risk,risk management,2,0.009091
+risk,threat,4,0.015152
+risk assessment,risk management,3,0.025000
+risk assessment,vulnerability,2,0.012821
+smart city,vulnerability,2,0.012821
+smart city,wireless network,2,0.027778
+threat,vulnerability,3,0.019231
+vulnerability,wireless network,2,0.025641

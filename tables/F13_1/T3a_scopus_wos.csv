@@ -1,0 +1,11 @@
+measure,n
+E1 Scopus,841
+E2 WoS,231
+pairs by DOI,184
+pairs by normalised title,32
+intersection,216
+only Scopus,625
+only WoS,15
+union,856
+share of WoS records also in Scopus (%),93.5
+share of Scopus records also in WoS (%),25.7

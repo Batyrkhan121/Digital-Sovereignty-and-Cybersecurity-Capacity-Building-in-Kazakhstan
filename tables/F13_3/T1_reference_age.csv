@@ -1,0 +1,5 @@
+period,records,references,references_with_year,share_with_year,median_age,price_index,share_older_than_15,later_than_citing_record
+2003-2016,57,1145,1067,0.9319,6,0.4592,0.1528,0
+2017-2021,241,6176,5745,0.9302,5,0.5581,0.1199,3
+2022-2025,543,21150,18188,0.86,4,0.6612,0.0732,4
+all,841,28471,25000,0.8781,4,0.6288,0.0874,7

@@ -1,0 +1,21 @@
+rank,year,doc_type,source,cited_by,cites_per_year,title
+1,2020,Article,Simulation Modelling Practice and Theory,465,77.5,Deep recurrent neural network for IoT intrusion detection system
+2,2018,Article,IEEE Communications Magazine,363,45.4,An Amateur Drone Surveillance System Based on the Cognitive Internet of Things
+3,2020,Article,IEEE Systems Journal,225,37.5,A Secure Three-Factor User Authentication Protocol with Forward Secrecy for Wireless Medical Sensor Network Systems
+4,2024,Review,Sensors,210,105.0,Advances and Challenges in Drone Detection and Classification Techniques: A State-of-the-Art Review
+5,2024,Review,Computer Science Review,179,89.5,Deep learning for unmanned aerial vehicles detection: A review
+6,2020,Article,IEEE Transactions on Industrial Informatics,143,23.8,Efficient and Secure Anonymous Authentication with Location Privacy for IoT-Based WBANs
+7,2025,Article,Sensors,124,124.0,"Cybersecurity Solutions for Industrial Internet of Things–Edge Computing Integration: Challenges, Threats, and Future Directions"
+8,2020,Article,International Journal of Computer Network and Information Security,102,17.0,Statistical techniques for detecting cyberattacks on computer networks based on an analysis of abnormal traffic ...
+9,2019,Article,IEEE Systems Journal,98,14.0,A Lightweight and Provably Secure Key Agreement System for a Smart Grid with Elliptic Curve ...
+10,2023,Article,IEEE Wireless Communications Letters,89,29.7,Artificial Noise and RIS-Aided Physical Layer Security: Optimal RIS Partitioning and Power Control
+11,2022,Article,"ACM Transactions on Multimedia Computing, Communications and Applications",87,21.8,An Effective Forest Fire Detection Framework Using Heterogeneous Wireless Multimedia Sensor Networks
+12,2023,Review,Computer Science Review,87,29.0,A comprehensive review on blockchains for Internet of Vehicles: Challenges and directions
+13,2021,Review,Integration,78,15.6,FPGA-based Physical Unclonable Functions: A comprehensive overview of theory and architectures
+14,2019,Article,Informatica (Netherlands),77,11.0,Information security risk assessment in critical infrastructure: A hybrid MCDM approach
+15,2019,Article,IEEE Access,77,11.0,"Survey: Cybersecurity Vulnerabilities, Attacks and Solutions in the Medical Domain"
+16,2023,Article,Materials Today: Proceedings,72,24.0,IoT based solar energy monitoring system
+17,2023,Article,Journal of Corporate Finance,72,24.0,Cybersecurity risk and corporate innovation
+18,2020,Article,International Journal of Computer Network and Information Security,69,11.5,High-speed and secure PRNG for cryptographic applications
+19,2021,Article,International Journal of Machine Learning and Cybernetics,68,13.6,DDoS detection in 5G-enabled IoT networks using deep Kalman backpropagation neural network
+20,2024,Article,Internet of Things (Netherlands),67,33.5,PQCAIE: Post quantum cryptographic authentication scheme for IoT-based e-health systems

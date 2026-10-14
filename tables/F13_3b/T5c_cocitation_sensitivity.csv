@@ -1,0 +1,6 @@
+variant,works,nodes_with_edges,edges,clusters,clusters_ge5,modularity,nmi_vs_main,ari_vs_main
+"main: works >= 4 citing, co-cited >= 3",197,133,364,22,9,0.8438,1.0,1.0
+"works >= 3 citing, co-cited >= 3",499,307,935,45,18,0.881,0.9913,0.9796
+"works >= 5 citing, co-cited >= 3",95,70,148,16,4,0.7679,1.0,1.0
+"works >= 4 citing, co-cited >= 2",197,171,605,19,13,0.8417,0.9646,0.9376
+"works >= 4 citing, co-cited >= 4",197,96,201,18,7,0.8091,0.949,0.9117

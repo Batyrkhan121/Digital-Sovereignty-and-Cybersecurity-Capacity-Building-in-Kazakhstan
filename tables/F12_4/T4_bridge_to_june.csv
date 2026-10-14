@@ -1,0 +1,15 @@
+measure,n
+June: I3 Scopus structural layer,931
+June: I4 OpenAlex export,1836
+June: pairs (same rule) - by DOI,321
+June: pairs - by title,10
+June: intersection,331
+June: only Scopus,600
+June: only OpenAlex,1505
+June under F12.1's rule (reproduced): intersection,324
+June under F12.1's rule: only OpenAlex,1512
+June under F12.1's rule: only Scopus (seen from I3),608
+June only-OpenAlex records found in O (harmonised OpenAlex),85
+June only-Scopus records found in S (harmonised Scopus),98
+context: O records found in I4,179
+context: S records found in I3,193

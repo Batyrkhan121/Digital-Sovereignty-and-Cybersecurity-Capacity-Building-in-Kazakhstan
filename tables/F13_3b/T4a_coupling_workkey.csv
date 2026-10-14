@@ -1,0 +1,15 @@
+measure,value
+records with references in scope,837
+nodes (records sharing >= 2 works with another record),401
+isolated records with references,436
+edges,699
+components,60
+largest component (records),162
+Louvain clusters (seed 42),70
+clusters with >= 10 records,12
+records in clusters with >= 10 records,214
+modularity Q,0.9144
+stability: ARI to the main partition over 20 seeds - median,0.9503
+stability: ARI over 20 seeds - minimum,0.864
+F13.3 work-key sensitivity (igraph): nodes / edges / clusters >= 10,401 / 699 / 12
+F13.3 strings (bibliometrix): nodes / edges / clusters >= 10,209 / 207 / 2

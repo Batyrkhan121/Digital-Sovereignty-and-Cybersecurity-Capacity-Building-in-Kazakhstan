@@ -1,0 +1,5 @@
+measure,work_key_F13_3b,work_key_F13_3_sensitivity,strings_F13_3
+distinct works / strings,24155,24155,24976
+with >= 2 citing records,1808,1808,749
+with >= 5 citing records,95,95,15
+with >= 10 citing records,7,7,0

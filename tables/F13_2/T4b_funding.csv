@@ -1,0 +1,12 @@
+group,records,funded,pct
+all records,841,321,38.2
+2003-2016,57,5,8.8
+2017-2021,241,70,29.0
+2022-2025,543,246,45.3
+article,396,177,44.7
+conference paper,387,125,32.3
+book chapter,32,5,15.6
+review,21,14,66.7
+book,2,0,0.0
+retracted,3,0,0.0
+records with Sponsors (count only),841,99,11.8

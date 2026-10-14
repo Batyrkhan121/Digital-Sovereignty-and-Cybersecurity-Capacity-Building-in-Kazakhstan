@@ -1,0 +1,670 @@
+rank,institution,country,records,share_of_841_pct
+1,National Aviation University,Ukraine,72,8.6
+2,National University of Life and Environmental Sciences of Ukraine,Ukraine,43,5.1
+3,State Scientific and Research Institute of Cybersecurity Technologies and Information Protection,Ukraine,22,2.6
+4,Taras Shevchenko National University of Kyiv,Ukraine,17,2.0
+5,Caucasus University,Georgia,16,1.9
+6,Lublin University of Technology,Poland,16,1.9
+7,University of Jordan,Jordan,16,1.9
+8,Hazara University,Pakistan,13,1.5
+9,Central Ukrainian National Technical University,Ukraine,11,1.3
+10,Kyiv National University of Trade and Economics,Ukraine,11,1.3
+11,State University of Trade and Economics,Ukraine,10,1.2
+12,Edinburgh Napier University,United Kingdom,9,1.1
+13,European University,Ukraine,8,1.0
+14,Lviv Polytechnic National University,Ukraine,8,1.0
+15,Kyiv National University of Construction and Architecture,Ukraine,7,0.8
+16,V. N. Karazin Kharkiv National University,Ukraine,7,0.8
+17,Bharathiar University,India,6,0.7
+18,Central China Normal University,China,6,0.7
+19,Cherkasy State Technological University,Ukraine,6,0.7
+20,eCampus University,Italy,6,0.7
+21,Jordan University of Science and Technology,Jordan,6,0.7
+22,Kyiv College of Communication,Ukraine,6,0.7
+23,Scientific Cyber Security Association,Georgia,6,0.7
+24,State University 'Kyiv Aviation Institute',Ukraine,6,0.7
+25,University of Science and Technology,China,6,0.7
+26,University of Science and Technology Beijing (USTB),China,6,0.7
+27,Birmingham City University,United Kingdom,5,0.6
+28,Istanbul Technical University (ITU),Turkey,5,0.6
+29,King Saud University,Saudi Arabia,5,0.6
+30,Lesya Ukrainka Volyn National University,Ukraine,5,0.6
+31,Purdue University,United States,5,0.6
+32,Rating Agency “Expert-Rating”,Ukraine,5,0.6
+33,University of Florida,United States,5,0.6
+34,University of Sfax,Tunisia,5,0.6
+35,Vilnius Gediminas Technical University,Lithuania,5,0.6
+36,Vinnytsia National Technical University,Ukraine,5,0.6
+37,Gachon University,South Korea,4,0.5
+38,Indian Institute of Information Technology Kalyani,India,4,0.5
+39,King Khalid University,Saudi Arabia,4,0.5
+40,Prince Mohammad Bin Fahd University,Saudi Arabia,4,0.5
+41,Taibah University,Saudi Arabia,4,0.5
+42,University of Arizona,United States,4,0.5
+43,University of Science and Technology Beijing,China,4,0.5
+44,University of Tabuk,Saudi Arabia,4,0.5
+45,West Ukrainian National University,Ukraine,4,0.5
+46,Al Ain University,United Arab Emirates,3,0.4
+47,Al-Hussein Bin Talal University,Jordan,3,0.4
+48,Amity University,India,3,0.4
+49,Bahria University,Pakistan,3,0.4
+50,Belarusian state university of informatics and radioelectronics,Belarus,3,0.4
+51,Borys Grinchenko Kyiv University,Ukraine,3,0.4
+52,Department of Cyber Security,Ukraine,3,0.4
+53,Department of Information Management,Taiwan,3,0.4
+54,Eastern Michigan University,United States,3,0.4
+55,Eastern Michigan University (EMU),United States,3,0.4
+56,Financial University under the Government of the Russian Federation,Russian Federation,3,0.4
+57,Institute of Oil and Gas,Azerbaijan,3,0.4
+58,Ivan Franko National University,Ukraine,3,0.4
+59,Karazin Kharkiv National University,Ukraine,3,0.4
+60,King Abdullah University of Science and Technology,Saudi Arabia,3,0.4
+61,Luhansk Taras Shevchenko National University,Ukraine,3,0.4
+62,National Institute of Technology Sikkim,India,3,0.4
+63,National Technical University of Ukraine,Ukraine,3,0.4
+64,National Technical University Of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute',Ukraine,3,0.4
+65,National University of Sciences and Technology,Pakistan,3,0.4
+66,Rostov State University of Economics,Russian Federation,3,0.4
+67,Southeast University,China,3,0.4
+68,Sultan Qaboos University,Oman,3,0.4
+69,Taif University,Saudi Arabia,3,0.4
+70,Ternopil Ivan Puluj National Technical University,Ukraine,3,0.4
+71,University of Bouira,Algeria,3,0.4
+72,University of Illinois Urbana-Champaign,United States,3,0.4
+73,University of Staffordshire,United Kingdom,3,0.4
+74,University of the National Education Commission,Poland,3,0.4
+75,Vellore Institute of Technology,India,3,0.4
+76,Wright State University,United States,3,0.4
+77,Yanbu Industrial College,Saudi Arabia,3,0.4
+78,Yonsei University,South Korea,3,0.4
+79,Abdullah Al Salem University,Kuwait,2,0.2
+80,Abu Dhabi University,United Arab Emirates,2,0.2
+81,Altai State University,Russian Federation,2,0.2
+82,Azerbaijan State Oil and Industry University,Azerbaijan,2,0.2
+83,B. Grinchenko Kyiv University,Ukraine,2,0.2
+84,Blekinge Tekniska Högskola,Sweden,2,0.2
+85,Borys Grinchenko Kyiv Metropolitan University,Ukraine,2,0.2
+86,Boston University,United States,2,0.2
+87,Brandon University,Canada,2,0.2
+88,Brightsight,Netherlands,2,0.2
+89,Chung-Ang University,South Korea,2,0.2
+90,Department of Computer Science and Engineering,India,2,0.2
+91,Dronacharya Group of Institutions,India,2,0.2
+92,GL Bajaj College of Technology and Management,India,2,0.2
+93,Gulf University For Science And Technology,Kuwait,2,0.2
+94,Hardrain Technologies LLC,United States,2,0.2
+95,Hindustan College of Science and Technology,India,2,0.2
+96,Hunan University of Science and Technology,China,2,0.2
+97,Indian Institute of Technology (ISM) Dhanbad,India,2,0.2
+98,Instituto Superior de Engenharia de Lisboa,Portugal,2,0.2
+99,International Islamic University,Pakistan,2,0.2
+100,International Islamic University Malaysia,Malaysia,2,0.2
+101,International University of Sarajevo,Bosnia and Herzegovina,2,0.2
+102,Interregional Academy of Personnel Management,Ukraine,2,0.2
+103,IProcares International Research Center,Lebanon,2,0.2
+104,Istanbul Technical University,Turkey,2,0.2
+105,Jain University,India,2,0.2
+106,Jeju National University,South Korea,2,0.2
+107,Kharkiv National University of Internal Affairs,Ukraine,2,0.2
+108,King Abdulaziz University,Saudi Arabia,2,0.2
+109,King Abdullah II School of IT,Jordan,2,0.2
+110,King Abdullah University of Science and Technology (KAUST),Saudi Arabia,2,0.2
+111,Kyrgyz Turkish Manas University,Kyrgyzstan,2,0.2
+112,Kyungpook National University,South Korea,2,0.2
+113,Memorial University of Newfoundland,Canada,2,0.2
+114,Middle East Technical University,Turkey,2,0.2
+115,Ming Chuan University,Taiwan,2,0.2
+116,Missouri University of Science and Technology,United States,2,0.2
+117,Mongolian University of Science and Technology,Mongolia,2,0.2
+118,Najran University,Saudi Arabia,2,0.2
+119,National Institute of Technology,India,2,0.2
+120,National Research Nuclear University MEPhI,Russian Federation,2,0.2
+121,National University of Sciences and Technology (NUST),Pakistan,2,0.2
+122,North-Caucasus Federal University,Russian Federation,2,0.2
+123,Northwestern Polytechnical University,China,2,0.2
+124,Nottingham Trent University,United Kingdom,2,0.2
+125,Novosibirsk State Technical University,Russian Federation,2,0.2
+126,Ohio Northern University,United States,2,0.2
+127,Povolzhskiy State University of Telecommunications and Informatics,Russian Federation,2,0.2
+128,Prince Sattam Bin Abdulaziz University,Saudi Arabia,2,0.2
+129,Princess Nourah bint Abdulrahman University,Saudi Arabia,2,0.2
+130,Purdue University Fort Wayne,United States,2,0.2
+131,Rabdan Academy,United Arab Emirates,2,0.2
+132,Reva University,India,2,0.2
+133,Rostov State Transport University,Russian Federation,2,0.2
+134,Russian Academy of Sciences,Russian Federation,2,0.2
+135,Shaqra University,Saudi Arabia,2,0.2
+136,Sikkim Manipal University,India,2,0.2
+137,Singhania University,India,2,0.2
+138,Society for Electronic Transactions and Security (SETS),India,2,0.2
+139,Sofia University ST.Kliment Ohridski,Bulgaria,2,0.2
+140,Southern Federal University,Russian Federation,2,0.2
+141,St. Petersburg Federal Research Center of the Russian Academy of Sciences,Russian Federation,2,0.2
+142,State Higher Vocational School in Nowy Sącz,Poland,2,0.2
+143,State University of Management,Russian Federation,2,0.2
+144,Sumy National Agrarian University,Ukraine,2,0.2
+145,Sumy State University,Ukraine,2,0.2
+146,Ternopil National Economic University,Ukraine,2,0.2
+147,Thapar University,India,2,0.2
+148,Transilvania University of Brasov,Romania,2,0.2
+149,Transport and Telecommunication Institute,Latvia,2,0.2
+150,UCSI University,Malaysia,2,0.2
+151,Universitas Diponegoro,Indonesia,2,0.2
+152,Universiti Putra Malaysia,Malaysia,2,0.2
+153,University College of Engineering Tindivanam,India,2,0.2
+154,University of Bielsko-Biala,Poland,2,0.2
+155,University of Illinois at Urbana Champaign,United States,2,0.2
+156,University of Jeddah,Saudi Arabia,2,0.2
+157,University of Jordan,South Korea,2,0.2
+158,University of Manchester,United Kingdom,2,0.2
+159,University of North Texas,United States,2,0.2
+160,University of Rochester,United States,2,0.2
+161,University of Ruse,Bulgaria,2,0.2
+162,University of Technology,Australia,2,0.2
+163,University of the West of England,United Kingdom,2,0.2
+164,University Vtu,India,2,0.2
+165,VIT University,India,2,0.2
+166,Xiamen Institute of Technology,China,2,0.2
+167,Yuri Gagarin State Technical University of Saratov,Russian Federation,2,0.2
+168,Yuriy Fedkovych Chernivtsi National University,Ukraine,2,0.2
+169,Yuriy Fedlovyvh Chernivtsi National University,Ukraine,2,0.2
+170,A/608,India,1,0.1
+171,A’Sharqiyah University,Oman,1,0.1
+172,Abasyn University Peshawar,Pakistan,1,0.1
+173,ABES Engineering College,India,1,0.1
+174,Academic Department of IT-Security,Ukraine,1,0.1
+175,Academic Department of IT-Security National Aviation University,Ukraine,1,0.1
+176,Academy of Technologies and the Humanities in Bielsko-Biala,Poland,1,0.1
+177,Adamas University,India,1,0.1
+178,[Affiliated to the University of Mumbai],India,1,0.1
+179,AI and Cybersecurity Staffordshire University,United Kingdom,1,0.1
+180,Air University,Pakistan,1,0.1
+181,AISSMS Institute of Information Technology,India,1,0.1
+182,Ajman University,United Arab Emirates,1,0.1
+183,Al-Hussien Bin Talal University,Jordan,1,0.1
+184,Al-Salam University College,Iraq,1,0.1
+185,All-Ukrainian Charitable Organization 'Municipal Development Institute',Ukraine,1,0.1
+186,Allenhouse Institute of Technology,India,1,0.1
+187,Amity University Dubai,United Arab Emirates,1,0.1
+188,Amity University India,India,1,0.1
+189,Amity University Madhya Pradesh,India,1,0.1
+190,Ankara Yildirim Beyazit University,Turkey,1,0.1
+191,Ankara Yıldırım Beyazıt University,Turkey,1,0.1
+192,Applied Science Private University Amman,Jordan,1,0.1
+193,Arkansas Tech University,United States,1,0.1
+194,Army Engineering University of PLA,United States,1,0.1
+195,Banking University,Ukraine,1,0.1
+196,Batumi Shota Rustaveli State University,Georgia,1,0.1
+197,Bauman Moscow State Technical University,Russian Federation,1,0.1
+198,Beijing Institute of Technology,China,1,0.1
+199,Beijing Jiaotong University,China,1,0.1
+200,Beijing University of Posts and Telecommunications,China,1,0.1
+201,Beijing University of Science and Technology,China,1,0.1
+202,Belarusian State University,Belarus,1,0.1
+203,Berlin Technical University,Germany,1,0.1
+204,Binghamton University,United States,1,0.1
+205,Birla Institute of Technology,India,1,0.1
+206,Bosch Research and Technology Center,United States,1,0.1
+207,Bundleslab KFT,Hungary,1,0.1
+208,Business and Technology University,Georgia,1,0.1
+209,Cape Breton University,Canada,1,0.1
+210,CAS-Alibaba Quantum Computing Laboratory,China,1,0.1
+211,Casimir Pulaski Radom University,Poland,1,0.1
+212,Center for Cyber Security,Malaysia,1,0.1
+213,Central Scientific Research Institute of Armament and Military Equipment of the Armed Forces of Ukraine,Ukraine,1,0.1
+214,Centre for Research in Advanced Fluid and Processes,Malaysia,1,0.1
+215,Chaudhary Charan Singh University,India,1,0.1
+216,Chengdu University,China,1,0.1
+217,Cherkasy Research Forensic Center,Ukraine,1,0.1
+218,Cherkasy Research Forensic Centre of the Ministry of Internal Affairs of Ukraine,Ukraine,1,0.1
+219,China Medical University,Taiwan,1,0.1
+220,China Ministry of Education,China,1,0.1
+221,Chongqing Vocational and Technical University of Mechatronics,China,1,0.1
+222,Christ University,India,1,0.1
+223,College of Charleston,United States,1,0.1
+224,College of Computing and Informatics,United Arab Emirates,1,0.1
+225,College of Computing and Information Sciences,Oman,1,0.1
+226,College of Customs,Sudan,1,0.1
+227,College of Engineering,Malaysia,1,0.1
+228,College of Engineering Technology,Malaysia,1,0.1
+229,Comenius University,Slovakia,1,0.1
+230,Commonwealth University of Pennsylvania,United States,1,0.1
+231,Computer Engineering Army Institute of Technology,India,1,0.1
+232,Computer Engineering Department,Jordan,1,0.1
+233,Computer Science and Engineering Department,United States,1,0.1
+234,Computer Science and Information Technology Rajiv Gandhi Proudyogiki Vishwavidyalaya',India,1,0.1
+235,Computer Science Independent Researcher and Government Officer,India,1,0.1
+236,Coventry University,United Kingdom,1,0.1
+237,CryptoExperts,France,1,0.1
+238,Cyber Security Cell,India,1,0.1
+239,Cyber Security Division,India,1,0.1
+240,Czech Technical University in Prague,Czech Republic,1,0.1
+241,Dagestan State Technical University,Russian Federation,1,0.1
+242,Dangara State University,Tajikistan,1,0.1
+243,De Montfort University,United Kingdom,1,0.1
+244,Department of Artificial Intelligence and Information Systems,Uzbekistan,1,0.1
+245,Department of Automation and Computer-Aided Technologies,Ukraine,1,0.1
+246,Department of Computer Science,India,1,0.1
+247,Department of Computer Science,United States,1,0.1
+248,Department of Computer Software Engineering,Pakistan,1,0.1
+249,Department of Computer System and Networks,Ukraine,1,0.1
+250,Department of Computer Systems,Ukraine,1,0.1
+251,Department of Computer Systems and Networks,Ukraine,1,0.1
+252,Department of Computing and Mathematics,United Kingdom,1,0.1
+253,Department of CSE,India,1,0.1
+254,Department of CSE,United States,1,0.1
+255,Department of ECE,India,1,0.1
+256,Department of Electronics and Communication,India,1,0.1
+257,Department of Engineering,United Kingdom,1,0.1
+258,Department of Human Resources and Entrepreneurship,Ukraine,1,0.1
+259,Department of Information and Cybersecurity,Ukraine,1,0.1
+260,Department of Information and Documentation Management,Turkey,1,0.1
+261,Department of Information Security,Russian Federation,1,0.1
+262,Department of Information Security,Ukraine,1,0.1
+263,Department of Information Systems and Cyber Security,United States,1,0.1
+264,Department of Information technologies security,Ukraine,1,0.1
+265,Department of IT,India,1,0.1
+266,Department of Management,Ukraine,1,0.1
+267,Department of Management Information Systems,Turkey,1,0.1
+268,Department of Managing Information Security,Ukraine,1,0.1
+269,Department of MCA,India,1,0.1
+270,Department of MCA Engineering,India,1,0.1
+271,Department of Physics,India,1,0.1
+272,Department of Software Engineering and Cybersecurity State University of Trade and Economics Kyiv,Ukraine,1,0.1
+273,Department of Strategic Investigations of the National Police of Ukraine,Ukraine,1,0.1
+274,Dept. of Transportation System Engineering,South Korea,1,0.1
+275,Distance Learning Institute in O.S. Popov Odessa National Academy of Telecommunications,Ukraine,1,0.1
+276,Dnipro University of Technology,Ukraine,1,0.1
+277,Donbas National Academy of Civil Engineering and Architecture,Ukraine,1,0.1
+278,DSMS College,India,1,0.1
+279,E-Docs,Ukraine,1,0.1
+280,East China Normal University,China,1,0.1
+281,Edge Hill University,United Kingdom,1,0.1
+282,Egypt-Japan University of Science and Technology (E-JUST),Egypt,1,0.1
+283,Engineering College Bikaner,India,1,0.1
+284,Environmental Engineering College: Engineering Palembang,Indonesia,1,0.1
+285,ES Institute of International Relations,Ukraine,1,0.1
+286,Faculty of Computer Science and Information Technology,Malaysia,1,0.1
+287,Faculty of Engineering and Information Technologies,Australia,1,0.1
+288,Faculty of Informatics and Computing,Malaysia,1,0.1
+289,Faculty of Information Science and Technology,Malaysia,1,0.1
+290,Faculty of Islamic Sciences,Malaysia,1,0.1
+291,Faculty of Management,Poland,1,0.1
+292,Fakulti Teknologi dan Kejuruteraan Elektronik dan Komputer (FTKEK),Malaysia,1,0.1
+293,Federal College of Education,Nigeria,1,0.1
+294,Federal University of Santa Catarina,Brazil,1,0.1
+295,Federal University of Technology,Nigeria,1,0.1
+296,Financial University under the Government of Russian Federation,Russian Federation,1,0.1
+297,Fordham University,United States,1,0.1
+298,Fuzhou University,China,1,0.1
+299,Gandhi Institute of Technology and Management (Gitam),India,1,0.1
+300,Gazi University,Turkey,1,0.1
+301,Gebze Technical University,Turkey,1,0.1
+302,Georgian Technical University,Georgia,1,0.1
+303,GMR Institute of Technology,India,1,0.1
+304,Godavari Institute of Engineering and Technology,India,1,0.1
+305,GoodLabs Studio Inc.,Canada,1,0.1
+306,Government K. R. G. (P.G.) College,India,1,0.1
+307,Govt. Degree College Wari Dir Upper,Pakistan,1,0.1
+308,Govt. Kamla Raja Girls (PG) College,India,1,0.1
+309,Graphic Era Hill University,India,1,0.1
+310,Guru Tegh Bahadur Institute of Technology,India,1,0.1
+311,Hamad Bin Khalifa University,Qatar,1,0.1
+312,Hangzhou Dianzi University,China,1,0.1
+313,Harbin Engineering University,China,1,0.1
+314,Hardware Security Research Lab Society for Electronic Trans. and Security (SETS),India,1,0.1
+315,Heidelberg University,Germany,1,0.1
+316,Henan University,China,1,0.1
+317,Hetman Petro Sahaidachnyi National Army Academy,Ukraine,1,0.1
+318,Huawei Russian Research Institute,Russian Federation,1,0.1
+319,Hubei University of Technology,China,1,0.1
+320,I. Razzakov Kyrgyz State Technical University,Kyrgyzstan,1,0.1
+321,Ibn Khaldoun University,Algeria,1,0.1
+322,ICT Academy Research,Serbia,1,0.1
+323,IIIT-Delhi,India,1,0.1
+324,Iit Ropar,India,1,0.1
+325,Imam Alkadhim University College,Iraq,1,0.1
+326,Imam Mohammad Ibn Saud Islamic University (IMSIU),Saudi Arabia,1,0.1
+327,Imec-COSIC,Belgium,1,0.1
+328,Immanuel Kant Baltic Federal University,Russian Federation,1,0.1
+329,Independent Researcher,Iran,1,0.1
+330,Indian Institute of Information Technology and Management-Kerala (IIITM-K),India,1,0.1
+331,INFRAD,Russian Federation,1,0.1
+332,Institute for Nuclear Research,Russian Federation,1,0.1
+333,Institute of Computational Technologies SB RAS,Russian Federation,1,0.1
+334,Institute of Cybernetics,Ukraine,1,0.1
+335,Institute of Cybernetics of the National Academy of Sciences of Ukraine,Ukraine,1,0.1
+336,Institute of Electrical Engineering of the Slovak Academy of Sciences,Slovakia,1,0.1
+337,Institute of Information Protection State University of Telecommunications,Ukraine,1,0.1
+338,Institute of Information Science,Taiwan,1,0.1
+339,Institute of Information Technology,Azerbaijan,1,0.1
+340,Institute of Information Technology of Azerbaijan National Academy of Sciences,Azerbaijan,1,0.1
+341,Institute of Philosophy and Law of the National Academy of Sciences,Kyrgyzstan,1,0.1
+342,Institute of Sociopolitical Studies,Russian Federation,1,0.1
+343,Institute of Special Communication and Information Security of National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”,Ukraine,1,0.1
+344,Institute of State and Law,Kyrgyzstan,1,0.1
+345,Instituto de Investigación para la Gestión Integrada de Zonas Costeras,Spain,1,0.1
+346,International Educators and Scholars Foundation,Ukraine,1,0.1
+347,International Information Technology University,South Korea,1,0.1
+348,International Institute of Information Technology,India,1,0.1
+349,International Islamic University Islamabad,Pakistan,1,0.1
+350,International Research and Training Center for Information,Ukraine,1,0.1
+351,International Research and Training Center for Information Technologies and Systems,Ukraine,1,0.1
+352,International University of Kyrgyzstan,Kyrgyzstan,1,0.1
+353,International University of the Kyrgyz Republic,Kyrgyzstan,1,0.1
+354,INTI International University,Malaysia,1,0.1
+355,IoTeX,United States,1,0.1
+356,IPADE Business School,Mexico,1,0.1
+357,Iqra University,Pakistan,1,0.1
+358,Irkutsk State University,Russian Federation,1,0.1
+359,ISMA University,Latvia,1,0.1
+360,Istanbul Medipol University,Turkey,1,0.1
+361,Istanbul University,Turkey,1,0.1
+362,ITMO University,Russian Federation,1,0.1
+363,Ivan Kozhedub Kharkiv National Air Force University,Ukraine,1,0.1
+364,Jain Deemed to Be University,India,1,0.1
+365,Jiangsu University,China,1,0.1
+366,Jiaxing University,China,1,0.1
+367,Joint Institute for Nuclear Research,Russian Federation,1,0.1
+368,Jordan University of Science and Tech.,Jordan,1,0.1
+369,JSC 'Institute of Information Technologies',Ukraine,1,0.1
+370,KAIST,South Korea,1,0.1
+371,KASIT,Jordan,1,0.1
+372,Kaunas University of Applied Sciences,Lithuania,1,0.1
+373,Kazan Federal University,Russian Federation,1,0.1
+374,Kazan (Volga) Federal University,Russian Federation,1,0.1
+375,Kharkiv National Automobile and Highway University,Ukraine,1,0.1
+376,Kharkiv National University of Radio Electronics,Ukraine,1,0.1
+377,Kharkiv University of Technology 'STEP',Ukraine,1,0.1
+378,Kherson National Technical University,Ukraine,1,0.1
+379,Khulna University,Bangladesh,1,0.1
+380,Kiev National University of Technology and Design,Ukraine,1,0.1
+381,KIIT University,India,1,0.1
+382,King Abdullah II School of Information Technology,Jordan,1,0.1
+383,King Abdullah II School of IT University of Jordan,Jordan,1,0.1
+384,King Faisal University,Saudi Arabia,1,0.1
+385,Kocaeli University,Turkey,1,0.1
+386,Kohat University of Science and Technology,Pakistan,1,0.1
+387,Koneru Lakshmaiah Education Foundation,India,1,0.1
+388,Korea University Business School,South Korea,1,0.1
+389,Kuban State Agrarian University Named after I.T. Trubilin,Russian Federation,1,0.1
+390,Kyiv National Economic University Named After Vadym Hetman,Ukraine,1,0.1
+391,Kyiv National Economics University after Vadym Hetman,Ukraine,1,0.1
+392,Kyiv National University of Technology and Design,Ukraine,1,0.1
+393,Kyrgyz National University,Kyrgyzstan,1,0.1
+394,Kyrgyz National University named after Jusup Balasagyn,Kyrgyzstan,1,0.1
+395,Kyrgyzstan National University,Kyrgyzstan,1,0.1
+396,Kyung Hee University,South Korea,1,0.1
+397,Laboratory of Intelligent Systems,Russian Federation,1,0.1
+398,Lac Hong University,Viet Nam,1,0.1
+399,LATENA,Russian Federation,1,0.1
+400,LLC Scientific and Technical Center «SOTSBI»,Russian Federation,1,0.1
+401,Louisiana State University,United States,1,0.1
+402,Lovely Professional University,India,1,0.1
+403,Lublin Technical University,Poland,1,0.1
+404,Lviv State University of Life Safety,Ukraine,1,0.1
+405,Macquarie University,Australia,1,0.1
+406,Maker Village,India,1,0.1
+407,Malaviya National Institute of Technology,India,1,0.1
+408,Management & Economics Daugavpils University,Latvia,1,0.1
+409,Mariupol State University,Ukraine,1,0.1
+410,Massachusetts Institute of Technology,United States,1,0.1
+411,Matej Bel University,Slovakia,1,0.1
+412,Maulana Abul Kalam Azad University of Technology,India,1,0.1
+413,McMaster University – Hamilton,Canada,1,0.1
+414,MGIMO University,Russian Federation,1,0.1
+415,Microsoft Research,United States,1,0.1
+416,Middle East Technical University Northern Cyprus Campus,Turkey,1,0.1
+417,Middle East University,Jordan,1,0.1
+418,Military Academy “General Mihailo Apostolski”,North Macedonia,1,0.1
+419,Minia University,Egypt,1,0.1
+420,MIREA—Russian Technological University,Russian Federation,1,0.1
+421,Mississippi State University,United States,1,0.1
+422,Misurata University,Libya,1,0.1
+423,MNIT,India,1,0.1
+424,Mohamed bin Zayed University of Artificial Intelligence,United Arab Emirates,1,0.1
+425,Mohammed V University in Rabat,Morocco,1,0.1
+426,Multimedia University,Malaysia,1,0.1
+427,MY University,Pakistan,1,0.1
+428,Nanjing University,China,1,0.1
+429,Nanjing University of Aeronautics and Astronautics,China,1,0.1
+430,Nanjing University of Information Science and Technology (NUIST),China,1,0.1
+431,National academy of Security service of Ukraine,Ukraine,1,0.1
+432,National Academy of the National Guard of Ukraine,Ukraine,1,0.1
+433,National Aviation Unyversity,Ukraine,1,0.1
+434,National Defence University of Ukraine,Ukraine,1,0.1
+435,National Institute of Informatics,Japan,1,0.1
+436,National Institute of Information and Communications Technology,Japan,1,0.1
+437,National Institute of Technology Raipur,India,1,0.1
+438,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russian Federation,1,0.1
+439,National Research Tomsk Polytechnic University,Russian Federation,1,0.1
+440,National Sun Yat-sen University,Taiwan,1,0.1
+441,National Transport University,Ukraine,1,0.1
+442,National University “Odesa Law Academy”,Ukraine,1,0.1
+443,National university of bioresources and nature management,Ukraine,1,0.1
+444,National University of Food Technologies,Ukraine,1,0.1
+445,National University of Life and Environmental Science of Ukraine,Ukraine,1,0.1
+446,National University of Science and Technology (NUST),Pakistan,1,0.1
+447,National University of Uzbekistan,Uzbekistan,1,0.1
+448,National University of Water and Environmental Engineering,Ukraine,1,0.1
+449,"National University ""Zaporizhzhia Polytechnic""",Ukraine,1,0.1
+450,Nazarbayev University,Pakistan,1,0.1
+451,Near East University,Turkey,1,0.1
+452,New Uzbekistan University,Uzbekistan,1,0.1
+453,New York Institute of Technology,China,1,0.1
+454,New York University,United States,1,0.1
+455,New York University Shanghai,China,1,0.1
+456,Niger Delta University,Nigeria,1,0.1
+457,Nizhny Novgorod State Technical University,Russian Federation,1,0.1
+458,Norfolk State University,United States,1,0.1
+459,Northeastern University,China,1,0.1
+460,Northern Border University,Saudi Arabia,1,0.1
+461,Nosov Magnitogorsk State Technical University,Russian Federation,1,0.1
+462,Novosibirsk State University,Russian Federation,1,0.1
+463,NTS'COM Research Unit,Tunisia,1,0.1
+464,Nukus State Pedagogical Institute,Uzbekistan,1,0.1
+465,NYIT,China,1,0.1
+466,NYU-ECNU Institute of Physics at NYU Shanghai,China,1,0.1
+467,Odesa I. I. Mechnikov National University,Ukraine,1,0.1
+468,Odesa Polytechnic National University,Ukraine,1,0.1
+469,Odesа Polytechnic National University,Ukraine,1,0.1
+470,Omsk State Technical University,Russian Federation,1,0.1
+471,"Open University of Human Development ""ukraine""",Ukraine,1,0.1
+472,Orel State University named after I.S. Turgenev,Russian Federation,1,0.1
+473,Oriental Institute of Science & Technology,India,1,0.1
+474,Osh State Law Institute,Kyrgyzstan,1,0.1
+475,Parul University,India,1,0.1
+476,Penza State University,Russian Federation,1,0.1
+477,Peoples' Friendship University of Russia,Russian Federation,1,0.1
+478,Peter the Great St. Petersburg Polytechnic University,Russian Federation,1,0.1
+479,Petro Mohyla Black Sea National University,Ukraine,1,0.1
+480,Poltava State Agrarian University,Ukraine,1,0.1
+481,Prin Ln Welingkar Institute of Management Development and Research,India,1,0.1
+482,Principal and Professor Bharati Vidyapeeth Deemed to be University Department of Engineering and Technology Navi Mumbai,India,1,0.1
+483,PSG College of Arts and Science,India,1,0.1
+484,Punjab Engineering College,India,1,0.1
+485,Qingdao Research Institute of Northwestern Polytechnical University,China,1,0.1
+486,QIS College of Engineering and Technology,India,1,0.1
+487,Quaid-i-Azam University,Pakistan,1,0.1
+488,Ramakrishna Mission Vivekananda College,India,1,0.1
+489,Rani Durgawati University,India,1,0.1
+490,RaSS (Radar and Surveillance Systems) National Laboratory,Italy,1,0.1
+491,ReHub United Research and Consultation Company,Kuwait,1,0.1
+492,Research and Development Lab,India,1,0.1
+493,Reshetnev Siberian State University of Science and Technology,Russian Federation,1,0.1
+494,Rochester Institute of Technology,United States,1,0.1
+495,Rollins College,United States,1,0.1
+496,Royal Military College of Canada,Canada,1,0.1
+497,RUDN University,Russian Federation,1,0.1
+498,Russian Academy of National Economy and Public Administration under the President of the Russian Federation (RANEPA),Russian Federation,1,0.1
+499,Russian Academy of Painting,Russian Federation,1,0.1
+500,Russian State Agrarian University—Moscow Timiryazev Agricultural Academy,Russian Federation,1,0.1
+501,Russian University of Economics,Russian Federation,1,0.1
+502,Russian University of Transport (MIIT),Russian Federation,1,0.1
+503,Rzhanov Institute of Semiconductor Physics,Russian Federation,1,0.1
+504,Sacred Heart University,United States,1,0.1
+505,Sahand University of Technology,Iran,1,0.1
+506,SaluteDevices,Russian Federation,1,0.1
+507,Sam Houston State University,United States,1,0.1
+508,Samara Branch of the Moscow City University,Russian Federation,1,0.1
+509,Samara State Transport University (SSTU),Russian Federation,1,0.1
+510,Samara State University of Economics,Russian Federation,1,0.1
+511,Sangmyung University,South Korea,1,0.1
+512,Sanjivani College of Engineering,India,1,0.1
+513,Sap America,United States,1,0.1
+514,Sapienza University of Rome,Italy,1,0.1
+515,Savitribai Phule Pune University,India,1,0.1
+516,Sber AI Lab,Russian Federation,1,0.1
+517,School of Applied Computational Sciences,United States,1,0.1
+518,School of Artificial Intelligence and Data Science,India,1,0.1
+519,School of Computing,South Korea,1,0.1
+520,School of Computing,United Kingdom,1,0.1
+521,School of Digital Media,India,1,0.1
+522,School of Information Security and Applied Computing,United States,1,0.1
+523,School of Information Technology and Engineering,India,1,0.1
+524,School of Intelligent Systems Engineering,China,1,0.1
+525,School of Medicine,United States,1,0.1
+526,School of Science and Technology,United Kingdom,1,0.1
+527,School of Software,China,1,0.1
+528,Schwettmann Technologies,India,1,0.1
+529,Scientific Cyber Security Association of Ukraine,Ukraine,1,0.1
+530,Shaoyang University,China,1,0.1
+531,"SHEI ""Donbas State Pedagogical University""",Ukraine,1,0.1
+532,Sheqra University,Saudi Arabia,1,0.1
+533,Shershah College of Engineering Sasaram,India,1,0.1
+534,Simon Kuznets Kharkiv National University of Economics,Ukraine,1,0.1
+535,Sjm Institute of Technology,India,1,0.1
+536,Skobeltsyn Institute of Nuclear Physics MSU,Russian Federation,1,0.1
+537,Skyward,United States,1,0.1
+538,Slovak University of Technology in Bratislava,Slovakia,1,0.1
+539,Sobolev Institute of Mathematics,Russian Federation,1,0.1
+540,Society for Elect. Transactions and security (SETS),India,1,0.1
+541,Sofia University,Bulgaria,1,0.1
+542,South Ural State University (National Research University),Russian Federation,1,0.1
+543,Southeast University,Bangladesh,1,0.1
+544,Southwest Jiaotong University,China,1,0.1
+545,Sreenivasa Institute of Technology and Management Studies,India,1,0.1
+546,Sri Sivani College of Engineering,India,1,0.1
+547,Srkr Engineering College,India,1,0.1
+548,SRM Institute of Science and Technology,India,1,0.1
+549,SRM University-AP,India,1,0.1
+550,St. Petersburg State Marine Technical University,Russian Federation,1,0.1
+551,St. Petersburg University of Humanities and Social Sciences,Russian Federation,1,0.1
+552,State Higher Vocational School,Poland,1,0.1
+553,State Higher Vocational School in Nowy Sacz,Poland,1,0.1
+554,State Key Laboratory for Novel Software Technology,China,1,0.1
+555,State National University of Trade and Economics,Ukraine,1,0.1
+556,State Scientific and Research Institute of Cybersecurity Technol. and Inform. Protection,Ukraine,1,0.1
+557,State Scientific and Research Institute of Cybersecurity Technologies and Information Protection Kyiv,Ukraine,1,0.1
+558,State University of Applied Sciences in Nowy Sącz,Poland,1,0.1
+559,State University of Information and Communication Technologies,Ukraine,1,0.1
+560,State University of New York,United States,1,0.1
+561,State University of New York at Oswego,United States,1,0.1
+562,State University of Telecommunications,Ukraine,1,0.1
+563,STEBI Lampung University,Indonesia,1,0.1
+564,Stevens Institute of Technology,United States,1,0.1
+565,Strativia,United States,1,0.1
+566,Suresh Gyan Vihar University,India,1,0.1
+567,Swinburne University of Technology,Malaysia,1,0.1
+568,Symbiosis International (Deemed University),India,1,0.1
+569,Synergy University,Russian Federation,1,0.1
+570,T.F. Gorbachev Kuzbass State Technical University,Russian Federation,1,0.1
+571,Tallinn University of Technology,Estonia,1,0.1
+572,Tashkent University of Information Technologies Named after Muhammad Al-Khwarizmi,Uzbekistan,1,0.1
+573,Taylor’s University,Malaysia,1,0.1
+574,Technical University Eindhoven,Netherlands,1,0.1
+575,Technical University of Berlin,Germany,1,0.1
+576,Technical University of Sofia,Bulgaria,1,0.1
+577,Tennessee Technological University (TTU),United States,1,0.1
+578,Ternopil National Technical University,Ukraine,1,0.1
+579,Thapar Institute of Engineering and Technology (Deemed to Be University),India,1,0.1
+580,The Center for Cyber Security,Malaysia,1,0.1
+581,The City University of New York,United States,1,0.1
+582,The Hong Kong Polytechnoc University Hong Kong,Hong Kong,1,0.1
+583,The State Scientific and Research Institute of Cybersecurity Technologies and Information Protection,Ukraine,1,0.1
+584,The University of Arizona,United States,1,0.1
+585,The University of Haripur,Pakistan,1,0.1
+586,The University of Oklahoma,United States,1,0.1
+587,The University of Toledo,United States,1,0.1
+588,Thiagarajar College of Engineering,India,1,0.1
+589,TMC Institute in Tashkent,Uzbekistan,1,0.1
+590,Tyumen State Oil and Gas University,Russian Federation,1,0.1
+591,Tyumen State University,Russian Federation,1,0.1
+592,Ukrainian State Centre of Radio Frequencies,Ukraine,1,0.1
+593,Ukrainian State University of Railway Transport,Ukraine,1,0.1
+594,Umm Al-Qura University,Saudi Arabia,1,0.1
+595,Universidad de Santiago de Chile,Chile,1,0.1
+596,Universidad Estatal Península de Santa Elena,Ecuador,1,0.1
+597,Universitas Persatuan Guru,Indonesia,1,0.1
+598,Universiti Malaysia Sabah,Malaysia,1,0.1
+599,Universiti Putra Malaysia (UPM),Malaysia,1,0.1
+600,Universiti Teknologi Petronas,Malaysia,1,0.1
+601,University for Business and Technology,Serbia,1,0.1
+602,University Institute of Computing,India,1,0.1
+603,University Kokomo,United States,1,0.1
+604,University Malaysia Pahang,Malaysia,1,0.1
+605,University Medical Center Aachen,Germany,1,0.1
+606,University of Applied Sciences in Nowy Sącz,Poland,1,0.1
+607,University of Auckland,New Zealand,1,0.1
+608,University of Bergen,Norway,1,0.1
+609,University of Bielsko-Biała,Poland,1,0.1
+610,University of Calabria,Italy,1,0.1
+611,University of Customs and Finance,Ukraine,1,0.1
+612,University of Glasgow,United Kingdom,1,0.1
+613,University of Hail,Saudi Arabia,1,0.1
+614,University of Hertfordshire,United Kingdom,1,0.1
+615,University of Houston,United States,1,0.1
+616,University of Information Technologies named after Muhammad Al- Khwarizmi,Uzbekistan,1,0.1
+617,University of Kyiv,Ukraine,1,0.1
+618,University of Library Studies and Information Technologies,Bulgaria,1,0.1
+619,University of Lisbon,Portugal,1,0.1
+620,University of London,United Kingdom,1,0.1
+621,University of Modern Sciences,Yemen,1,0.1
+622,University of New York Tirana,Albania,1,0.1
+623,University of Paris,France,1,0.1
+624,University of Paris 8,France,1,0.1
+625,University of Pavia,Italy,1,0.1
+626,University of San Francisco,United States,1,0.1
+627,University of South Asia,Pakistan,1,0.1
+628,University of Southern Mississippi,United States,1,0.1
+629,University of Stavanger,Norway,1,0.1
+630,University of Sultan Zainul Abidin (UniSZA),Malaysia,1,0.1
+631,University of Suwon,South Korea,1,0.1
+632,University of Technology,Iraq,1,0.1
+633,University of Technology,Poland,1,0.1
+634,University of Technology Malaysia,Malaysia,1,0.1
+635,University of Technology MARA,Malaysia,1,0.1
+636,University of Teramo,Italy,1,0.1
+637,University of Texas at Dallas,United States,1,0.1
+638,University of the West of Scotland (UWS),United Kingdom,1,0.1
+639,University of Toledo,United States,1,0.1
+640,University of Toronto,Canada,1,0.1
+641,University of Waterloo,Canada,1,0.1
+642,University Sultan Zainul Abidin (UniSZA),Malaysia,1,0.1
+643,Ural State Law University named after V.F. Yakovlev,Russian Federation,1,0.1
+644,Urgut Branch,Uzbekistan,1,0.1
+645,Uzhhorod National University,Ukraine,1,0.1
+646,V. A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences,Russian Federation,1,0.1
+647,Veer Surendra Sai University of Technology,India,1,0.1
+648,Vignan's Nirula Institute of Technology and Science for Women,India,1,0.1
+649,Vilnius University,Lithuania,1,0.1
+650,Vin University,Viet Nam,1,0.1
+651,Vinnitsa National Technical University,Ukraine,1,0.1
+652,Vinnitsia National Technical University,Ukraine,1,0.1
+653,Vinnytsia Institute of Trade and Economics of Kyiv National University of Trade and Economics,Ukraine,1,0.1
+654,Volodymyr Vynnychenko Central Ukrainian State Pedagogical University,Ukraine,1,0.1
+655,Voronezh State Technical University,Russian Federation,1,0.1
+656,Warsaw University of Technology,Poland,1,0.1
+657,Welingkar Institute of Management,India,1,0.1
+658,Western Sydney University,Australia,1,0.1
+659,Wireless Communication Centre,Malaysia,1,0.1
+660,Wuhan University,China,1,0.1
+661,Xavier Institute of Management & Entrepreneurship,India,1,0.1
+662,Xi’an Shiyou University,China,1,0.1
+663,Xiamen University,China,1,0.1
+664,Yale University,United States,1,0.1
+665,Zaporizhzhia National University,Ukraine,1,0.1
+666,Zewail City of Science and technology,Egypt,1,0.1
+667,Zhytomyr Politechnic State University,Ukraine,1,0.1
+668,Zhytomyr Polytechnic State University,Ukraine,1,0.1
+669,Örebro Universitet,Sweden,1,0.1

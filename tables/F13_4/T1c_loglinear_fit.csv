@@ -1,0 +1,4 @@
+window,years_used,zero_years_excluded,t_origin,a,b,annual_growth_pct,doubling_time_years,r_squared
+2011-2025,15,0,2011,1.3406,0.2863,33.1,2.42,0.9311
+2017-2025,9,0,2017,3.2723,0.2411,27.3,2.87,0.8644
+2011-2024 (extra: without 2025),14,0,2011,1.3625,0.2812,32.5,2.46,0.9152

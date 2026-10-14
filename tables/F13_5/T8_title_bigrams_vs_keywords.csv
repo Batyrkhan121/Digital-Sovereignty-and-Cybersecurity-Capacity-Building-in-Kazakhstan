@@ -1,0 +1,21 @@
+title_rank,title_bigram,title_records,as_keyword,author_kw_records,author_kw_rank
+1,information security,80,information security,138,2
+2,machine learning,39,machine learning,68,4
+3,intrusion detection,23,intrusion detection,13,27
+4,information systems,16,information system,17,19
+5,encryption algorithm,14,encryption algorithm,8,65
+6,neural network,14,neural network,18,17
+7,risk assessment,13,risk assessment,12,33
+8,security risk,13,security risk,0,
+9,anomaly detection,12,anomaly detection,20,14
+10,edge computing,11,edge computing,14,24
+11,neural networks,11,neural network,18,17
+12,using machine,11,using machine,0,
+13,deep learning,10,deep learning,28,8
+14,post quantum,10,post quantum,2,446
+15,artificial intelligence,9,artificial intelligence,34,7
+16,expert system,9,expert system,9,59
+17,iot networks,9,iot network,2,392
+18,learning methods,9,learning methods,0,
+19,security audit,9,security audit,2,474
+20,critical infrastructure,8,critical infrastructure,7,75

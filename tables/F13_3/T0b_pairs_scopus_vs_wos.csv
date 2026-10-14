@@ -1,0 +1,13 @@
+measure,value
+"pairs (eid <-> ut, F13.1 T3a)",216
+Scopus references (corrected) - median,30
+WoS NR - median,30
+equal,116
+|difference| <= 2,182
+Scopus > WoS,73
+WoS > Scopus,27
+Scopus references - sum,9927
+WoS NR - sum,9139
+median of (Scopus - WoS),0
+F13.1 method: Scopus fragments - median (recomputed),88
+"F13.1 T3d as published (replaced): Scopus median 88, WoS NR median 30",88 / 30

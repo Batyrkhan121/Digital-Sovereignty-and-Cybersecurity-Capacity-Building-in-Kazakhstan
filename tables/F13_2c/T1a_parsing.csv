@@ -1,0 +1,11 @@
+measure,value
+records parsed,841
+author positions (entries of Authors with affiliations),4048
+authors with two or more affiliations,303
+entries with one Affiliations line,3742
+entries with two or more Affiliations lines,303
+entries without an affiliation,2
+entries read by the fallback (countries from the parts),1
+records where author positions differ from the Authors count,0
+pairs of consecutive entries with the same name (two authors),1
+repeated names within a record (any position),9

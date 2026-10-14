@@ -1,0 +1,11 @@
+measure,strings_F13_3,source_F13_3,work_key_F13_3b,source_F13_3b
+distinct references (strings) / works,24976,T2a,24155,T2a
+cited by >= 5 records,15,T2a,95,T2a
+cited by >= 10 records,0,T2a,7,T2a
+local citation links,452,T4a,533,T3a
+records cited inside the corpus,211,T4a,229,T3a
+coupling edges (>= 2 shared),207,T5a,699,T4a
+coupling clusters with >= 10 records,2,T5a,12,T4a
+co-citation nodes (>= 4 citing records),43,T6a,197,T5a
+co-citation edges (>= 3),40,T6a,364,T5a
+co-citation clusters with >= 5 nodes,2,T6a,9,T5a

@@ -1,0 +1,5 @@
+measure,n
+only-Scopus records with DOI,28
+... whose DOI is in the June OpenAlex export I4 (in_openalex_june = 1),1
+only-Scopus records without DOI,52
+... whose normalised title is in I4 (title_in_openalex_june = 1),0

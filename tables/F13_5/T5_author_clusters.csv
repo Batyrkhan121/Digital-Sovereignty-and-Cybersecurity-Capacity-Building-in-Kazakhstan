@@ -1,0 +1,24 @@
+cluster,size,total_records,largest_keyword
+1,22,311,machine learning
+2,19,231,cryptography
+3,12,186,internet of things
+4,13,104,identification
+5,9,85,cyberattack
+6,8,80,vulnerability
+7,7,79,risk
+8,6,69,intrusion detection system
+9,6,65,data security
+10,5,50,field programmable gate array
+11,4,37,unmanned aerial vehicle
+12,1,11,cybercrime
+13,1,8,digital transformation
+14,1,5,audit
+15,1,5,blockchain technology
+16,1,5,critical information infrastructure
+17,1,5,facial recognition
+18,1,5,finite field
+19,1,5,internet
+20,1,5,national security
+21,1,5,optimal strategy
+22,1,5,personal data
+23,1,5,steganography

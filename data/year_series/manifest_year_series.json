@@ -1,0 +1,90 @@
+[
+ {
+  "series": "KZ_all",
+  "file": "scopus_years_KZ_all.csv",
+  "query": "AFFILCOUNTRY(kazakhstan) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 75667,
+  "sum_of_years": 75667,
+  "sha256": "f5ec6e65def62faceb6d302625e819d8bc43337c9bc025dd2855ba3440920b41"
+ },
+ {
+  "series": "world_topic",
+  "file": "scopus_years_world_topic.csv",
+  "query": "TITLE-ABS-KEY(cybersecurity OR \"information security\" OR \"cyber defense\" OR \"cyber defence\" OR \"network security\" OR cryptography) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 415133,
+  "sum_of_years": 415133,
+  "sha256": "cf44810eb358907b76e1b11a5a110fc6d737d293281a0b1cba7b122e29334e85"
+ },
+ {
+  "series": "UZ_topic",
+  "file": "scopus_years_UZ.csv",
+  "query": "TITLE-ABS-KEY(cybersecurity OR \"information security\" OR \"cyber defense\" OR \"cyber defence\" OR \"network security\" OR cryptography) AND AFFILCOUNTRY(uzbekistan) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 539,
+  "sum_of_years": 539,
+  "sha256": "f2e382b485eb36ce80e25d902617b8297ced6e023198a3f8cc62e15089dd54c6"
+ },
+ {
+  "series": "AZ_topic",
+  "file": "scopus_years_AZ.csv",
+  "query": "TITLE-ABS-KEY(cybersecurity OR \"information security\" OR \"cyber defense\" OR \"cyber defence\" OR \"network security\" OR cryptography) AND AFFILCOUNTRY(azerbaijan) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 278,
+  "sum_of_years": 278,
+  "sha256": "b8ea5ecb0aec0f7ed643732016db5c6cf39644afb1031bf4d606c0fda0273e6e"
+ },
+ {
+  "series": "BY_topic",
+  "file": "scopus_years_BY.csv",
+  "query": "TITLE-ABS-KEY(cybersecurity OR \"information security\" OR \"cyber defense\" OR \"cyber defence\" OR \"network security\" OR cryptography) AND AFFILCOUNTRY(belarus) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 129,
+  "sum_of_years": 129,
+  "sha256": "995d83bc136b099ceb5429335b5e2678c3a57fedf625c0498261342277990a0f"
+ },
+ {
+  "series": "KG_topic",
+  "file": "scopus_years_KG.csv",
+  "query": "TITLE-ABS-KEY(cybersecurity OR \"information security\" OR \"cyber defense\" OR \"cyber defence\" OR \"network security\" OR cryptography) AND AFFILCOUNTRY(kyrgyzstan) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 51,
+  "sum_of_years": 51,
+  "sha256": "734c0445fc740820243f834d1c22ec44becdb4e10e90e7fd680a1be1a7fb45df"
+ },
+ {
+  "series": "world_all",
+  "file": "scopus_years_world_all.csv",
+  "query": "PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 70937062,
+  "sum_of_years": 70937062,
+  "sha256": "7d84f29f0e7d1ab7afd89244b77cc0b41ef2f0e77a075a4549c86c1cbe72136d"
+ },
+ {
+  "series": "UZ_all",
+  "file": "scopus_years_UZ_all.csv",
+  "query": "AFFILCOUNTRY(uzbekistan) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 47902,
+  "sum_of_years": 47902,
+  "sha256": "b0652ae7995a9a5f2971c19a38cfc8d19eb02a0b7c3551ff8c1fb02772322391"
+ },
+ {
+  "series": "AZ_all",
+  "file": "scopus_years_AZ_all.csv",
+  "query": "AFFILCOUNTRY(azerbaijan) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 36549,
+  "sum_of_years": 36549,
+  "sha256": "8bc9209c3bae1e75b69b6e1342f132f4c55c2fb91742bb1574d5716e03af8273"
+ },
+ {
+  "series": "BY_all",
+  "file": "scopus_years_BY_all.csv",
+  "query": "AFFILCOUNTRY(belarus) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 49270,
+  "sum_of_years": 49270,
+  "sha256": "33f4d2b4cd2d3f8ab7977909574fd99affc89fbc8991eb0da3447749b2727063"
+ },
+ {
+  "series": "KG_all",
+  "file": "scopus_years_KG_all.csv",
+  "query": "AFFILCOUNTRY(kyrgyzstan) AND PUBYEAR > 2002 AND PUBYEAR < 2026",
+  "ui_total": 8732,
+  "sum_of_years": 8732,
+  "sha256": "cb5ff92008175b30eb5357477229c3eef98d3d0decfc4836877d0ac7930e50bb"
+ }
+]

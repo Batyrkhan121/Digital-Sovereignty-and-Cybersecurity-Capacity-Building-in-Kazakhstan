@@ -1,0 +1,9 @@
+measure,title_match_F13_3b,localCitations_F13_3
+local citation links (citing record -> cited record),533,452
+citing records,268,not in the F13.3 tables
+cited records (LCS > 0),229,211
+"LCS, max",12,11
+share of references: links / all references,0.0187,0.0159
+references matching another record's title,539,
+records with a normalised title of >= 30 characters,838,
+ambiguous titles excluded (same title in >= 2 records): titles / records,4 / 8,

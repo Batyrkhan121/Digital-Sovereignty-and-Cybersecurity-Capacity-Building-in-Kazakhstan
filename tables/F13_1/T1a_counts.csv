@@ -1,0 +1,4 @@
+file,records,unique_ids,id,columns_or_tags
+E1 Scopus full,841,841,EID,45
+E1b Scopus citation+abstract,841,841,EID,22
+E2 WoS Core Collection,231,231,UT,60

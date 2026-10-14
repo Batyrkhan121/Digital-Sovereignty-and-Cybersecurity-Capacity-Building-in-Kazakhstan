@@ -1,0 +1,5 @@
+layer,comparison,nodes_first,nodes_second,common_nodes,node_pairs,together_in_both,apart_in_both,together_only_in_first,together_only_in_second,rand_index,adjusted_rand_index
+author,I2 x v3 (F12.3c) vs E1 x v4,125,123,120,7140,505,6446,51,138,0.9735,0.828
+author,E1 x v3 vs E1 x v4,124,123,120,7140,643,6497,0,0,1.0,1.0
+index,I2 x v3 (F12.3c) vs E1 x v4,109,288,106,5565,160,4788,321,296,0.8891,0.281
+index,E1 x v3 vs E1 x v4,286,288,270,36315,2324,31666,1408,917,0.936,0.6314

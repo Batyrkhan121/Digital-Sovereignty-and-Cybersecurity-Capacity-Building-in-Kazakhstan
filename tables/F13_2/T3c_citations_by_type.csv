@@ -1,0 +1,7 @@
+doc_type,records,citations,mean,median,uncited_pct
+article,396,5599,14.14,5,13.4
+conference paper,387,1425,3.68,2,31.8
+book chapter,32,121,3.78,0.5,50.0
+review,21,720,34.29,12,9.5
+book,2,3,1.50,1.5,0.0
+retracted,3,14,4.67,1,33.3

@@ -1,0 +1,15 @@
+scopus_type,wos_dt,n
+Article,Article,136
+Conference paper,Proceedings Paper,61
+Review,Review,9
+Review,Article,2
+Article,Article; Book Chapter,1
+Article,Proceedings Paper,1
+Article,Review,1
+Book chapter,Article; Book Chapter,1
+Book chapter,Proceedings Paper,1
+Conference paper,Article,1
+Conference paper,Article; Proceedings Paper,1
+Retracted,Article; Retracted Publication,1
+agreement after harmonisation,209 of 216,96.8
+WoS 'Retracted Publication' flag,records,1

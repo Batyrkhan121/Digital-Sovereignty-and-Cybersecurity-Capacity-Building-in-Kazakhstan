@@ -1,0 +1,21 @@
+measure,value
+"|S| Scopus H4Q title-only, 2003-2025",203
+"|O| OpenAlex H4Q title-only, 2003-2025",229
+S with DOI,144
+O with DOI,224
+pairs by DOI,115
+pairs by normalised title,8
+intersection,123
+only Scopus,80
+only OpenAlex,106
+union,309
+share of the union in Scopus (%),65.7
+share of the union in OpenAlex (%),74.1
+share of the union in both (%),39.8
+ratio |O| / |S| (harmonised),1.13
+"ratio OpenAlex / Scopus in June (1836 / 931, F12.1)",1.97
+pairs whose two years differ,11
+S records whose ASCII-normalised title is empty (cannot match by title),0
+O records whose ASCII-normalised title is empty (cannot match by title),0
+only-Scopus records without DOI,52
+only-OpenAlex records without DOI,3

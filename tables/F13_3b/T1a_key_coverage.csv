@@ -1,0 +1,11 @@
+measure,value,share,F13_3
+references (F13.3 repaired),28471,1,28471
+"references in scope (> 10 characters, as F13.3)",27124,0.9527,
+"references with a complete key (first author, year, title)",22987,0.8074,
+references without a year,3471,0.1219,
+references without a title segment,285,0.01,
+references without a first author,4304,0.1512,
+works (distinct keys in scope; incomplete keys keep their string),24155,,24155
+works with >= 2 citing records,1808,,1808
+works with >= 5 citing records,95,,95
+works with >= 10 citing records,7,,7

@@ -1,0 +1,6 @@
+variant,nodes,edges,clusters,clusters_ge10,modularity,nmi_vs_main,ari_vs_main
+main: shared works >= 2,401,699,70,12,0.9144,1.0,1.0
+shared works >= 3,285,363,75,5,0.9404,0.9263,0.6696
+"Salton weights, shared works >= 2",401,699,72,11,0.9113,0.953,0.7508
+"key with 4 title words, shared >= 2",403,714,68,14,0.9103,0.9891,0.9575
+"key with 8 title words, shared >= 2",398,686,70,11,0.9162,0.9812,0.886

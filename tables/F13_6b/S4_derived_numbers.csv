@@ -1,0 +1,15 @@
+id,what,formula,inputs,value
+KZTOPIC_B,Kazakhstan's cybersecurity records (check against F13.4 T1c),"OLS slope b of ln(n_t) on (t - 2011), 2011-2025","phase_F13_4 T2a_normalised_by_year column topic_KZ, years 2011-2025",0.286256
+KZTOPIC_GROWTH,Kazakhstan's cybersecurity records (check against F13.4 T1c): annual growth (%),"100 * (exp(b) - 1), b from the OLS fit of ln(n_t) on (t - 2011)","phase_F13_4 T2a_normalised_by_year column topic_KZ, years 2011-2025",33.143307
+KZTOPIC_DOUBLING,Kazakhstan's cybersecurity records (check against F13.4 T1c): doubling time (years),ln(2) / b,"phase_F13_4 T2a_normalised_by_year column topic_KZ, years 2011-2025",2.421425
+KZALL_B,all Kazakhstan-affiliated Scopus records,"OLS slope b of ln(n_t) on (t - 2011), 2011-2025","phase_F13_4 T2a_normalised_by_year column all_KZ, years 2011-2025",0.180204
+KZALL_GROWTH,all Kazakhstan-affiliated Scopus records: annual growth (%),"100 * (exp(b) - 1), b from the OLS fit of ln(n_t) on (t - 2011)","phase_F13_4 T2a_normalised_by_year column all_KZ, years 2011-2025",19.746105
+KZALL_DOUBLING,all Kazakhstan-affiliated Scopus records: doubling time (years),ln(2) / b,"phase_F13_4 T2a_normalised_by_year column all_KZ, years 2011-2025",3.846469
+WTOPIC_B,world cybersecurity records (the query without the country),"OLS slope b of ln(n_t) on (t - 2011), 2011-2025","phase_F13_4 T2a_normalised_by_year column topic_world, years 2011-2025",0.125990
+WTOPIC_GROWTH,world cybersecurity records (the query without the country): annual growth (%),"100 * (exp(b) - 1), b from the OLS fit of ln(n_t) on (t - 2011)","phase_F13_4 T2a_normalised_by_year column topic_world, years 2011-2025",13.427074
+WTOPIC_DOUBLING,world cybersecurity records (the query without the country): doubling time (years),ln(2) / b,"phase_F13_4 T2a_normalised_by_year column topic_world, years 2011-2025",5.501608
+WALL_B,all Scopus records,"OLS slope b of ln(n_t) on (t - 2011), 2011-2025","phase_F13_4 T2a_normalised_by_year column all_world, years 2011-2025",0.040179
+WALL_GROWTH,all Scopus records: annual growth (%),"100 * (exp(b) - 1), b from the OLS fit of ln(n_t) on (t - 2011)","phase_F13_4 T2a_normalised_by_year column all_world, years 2011-2025",4.099698
+WALL_DOUBLING,all Scopus records: doubling time (years),ln(2) / b,"phase_F13_4 T2a_normalised_by_year column all_world, years 2011-2025",17.251528
+CONF_2022_2025,conference papers among the records of 2022-2025 (%),100 * conference paper / records,"phase_F13_2 T1d_periods [period=2022-2025] conference paper, records",44.198895
+TYPE_I_OF_841,"records with an author based only abroad, of all records (%)",100 * type (i) records / all records,phase_F13_2c T2a_international_by_author [class=(i) ...] records; phase_F13_1 T1a_counts [file=E1 Scopus full] records,60.166468

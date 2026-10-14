@@ -1,0 +1,199 @@
+rank,institution,type,records,share_of_841_pct,2003-2016,2017-2021,2022-2025,international,share_international_pct,records_v3,delta,rank_v3
+1,L.N. Gumilyov Eurasian National University,university,170,20.2,4,41,125,82,48.2,170,0,1
+2,Al-Farabi Kazakh National University,university,155,18.4,5,31,119,72,46.5,155,0,2
+3,Nazarbayev University,university,97,11.5,6,49,42,82,84.5,97,0,3
+4,International Information Technology University,university,91,10.8,2,11,78,53,58.2,91,0,4
+5,Yessenov University,university,80,9.5,1,36,43,74,92.5,80,0,5
+6,Satbayev University,university,78,9.3,10,26,42,55,70.5,78,0,6
+7,Astana IT University,university,72,8.6,0,0,72,42,58.3,72,0,7
+8,Almaty University of Power Engineering and Telecommunications named after Gumarbek Daukeyev,university,70,8.3,0,22,48,44,62.9,69,1,8
+9,Institute of Information and Computational Technologies,research institute,66,7.8,8,20,38,31,47.0,63,3,9
+10,Abai Kazakh National Pedagogical University,university,37,4.4,0,14,23,28,75.7,37,0,10
+11,Kazakh-British Technical University,university,36,4.3,10,2,24,14,38.9,36,0,11
+12,S. Seifullin Kazakh Agrotechnical Research University,university,22,2.6,0,4,18,9,40.9,21,1,12
+13,Turan University,university,17,2.0,2,1,14,7,41.2,17,0,13
+14,SDU University,university,16,1.9,3,4,9,7,43.8,16,0,14
+15,K. Zhubanov Aktobe Regional University,university,11,1.3,1,6,4,7,63.6,11,0,15
+16,D. Serikbayev East Kazakhstan Technical University,university,10,1.2,0,2,8,9,90.0,10,0,16
+17,Narxoz University,university,10,1.2,0,1,9,3,30.0,10,0,17
+18,Almaty Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan named after Makan Yesbulatov,research institute,9,1.1,2,1,6,1,11.1,9,0,18
+19,Karaganda Buketov University,university,9,1.1,1,3,5,4,44.4,9,0,19
+20,Kazakh Humanitarian Juridical Innovative University,university,9,1.1,0,7,2,8,88.9,9,0,20
+21,M. Auezov South Kazakhstan University,university,9,1.1,4,1,4,1,11.1,9,0,21
+22,Shakarim University,university,9,1.1,1,3,5,9,100.0,9,0,22
+23,International Educational Corporation,company,8,1.0,0,0,8,6,75.0,8,0,23
+24,Law Enforcement Academy under the Prosecutor General’s Office of the Republic of Kazakhstan,research institute,8,1.0,0,4,4,2,25.0,8,0,24
+25,Abylkas Saginov Karaganda Technical University,university,7,0.8,1,3,3,1,14.3,6,1,28
+26,Akhmet Baitursynuly Kostanay Regional University,university,7,0.8,1,1,5,1,14.3,5,2,32
+27,Astana International University,university,7,0.8,0,0,7,3,42.9,7,0,25
+28,Kazakh University of Technology and Business,university,7,0.8,0,1,6,1,14.3,7,0,26
+29,Abay Myrzakhmetov Kokshetau University,university,6,0.7,0,2,4,2,33.3,6,0,27
+30,Academy of Public Administration under the President of the Republic of Kazakhstan,research institute,6,0.7,0,3,3,2,33.3,6,0,29
+31,International Engineering Technological University,university,6,0.7,0,0,6,3,50.0,6,0,30
+32,Sh. Ualikhanov Kokshetau University,university,6,0.7,0,3,3,2,33.3,5,1,36
+33,Zhangir Khan West Kazakhstan Agrarian-Technical University,university,6,0.7,0,1,5,4,66.7,6,0,31
+34,Kazakh University of Economics,university,5,0.6,0,5,0,0,0.0,5,0,33
+35,M.Kh. Dulaty Taraz Regional University,university,5,0.6,0,2,3,3,60.0,5,0,34
+36,National Engineering Academy of the Republic of Kazakhstan,research institute,5,0.6,0,0,5,0,0.0,5,0,35
+37,Almaty Management University,university,4,0.5,2,1,1,2,50.0,4,0,37
+38,Almaty Technological University,university,4,0.5,0,0,4,4,100.0,4,0,38
+39,Institute of Digital Engineering and Technology,research institute,4,0.5,0,0,4,2,50.0,4,0,39
+40,Khoja Akhmet Yassawi International Kazakh-Turkish University,university,4,0.5,0,1,3,2,50.0,3,1,50
+41,Korkyt Ata Kyzylorda University,university,4,0.5,0,0,4,3,75.0,4,0,40
+42,Asfendiyarov Kazakh National Medical University,university,3,0.4,0,1,2,2,66.7,2,1,55
+43,Atyrau University Named After H. Dosmukhamedov,university,3,0.4,0,0,3,1,33.3,3,0,41
+44,Civil Aviation Academy,research institute,3,0.4,0,0,3,2,66.7,3,0,42
+45,Department of Computer Science,other,3,0.4,0,0,3,1,33.3,3,0,43
+46,Department of Information Security,other,3,0.4,0,1,2,2,66.7,3,0,44
+47,Esil University,university,3,0.4,0,0,3,1,33.3,3,0,45
+48,Institute of Philosophy,research institute,3,0.4,0,0,3,0,0.0,3,0,47
+49,International Science Complex Astana,other,3,0.4,0,0,3,2,66.7,3,0,48
+50,International Taraz University named after Sh. Murtaza,university,3,0.4,0,0,3,1,33.3,3,0,49
+51,School of Information Technology and Engineering,other,3,0.4,0,0,3,1,33.3,3,0,51
+52,Toraighyrov University,university,3,0.4,0,1,2,3,100.0,3,0,52
+53,Zhetysu University named after Ilyas Zhansugurov,university,3,0.4,0,0,3,1,33.3,3,0,53
+54,Almaty Academy,research institute,2,0.2,1,0,1,1,50.0,2,0,54
+55,Astana,other,2,0.2,0,1,1,1,50.0,2,0,56
+56,De Montfort University,university,2,0.2,0,0,2,2,100.0,2,0,57
+57,Department of Cybersecurity,other,2,0.2,0,0,2,2,100.0,2,0,58
+58,Department of Information and Communication Technologies,other,2,0.2,0,0,2,1,50.0,2,0,59
+59,ECE Department,other,2,0.2,0,2,0,2,100.0,2,0,60
+60,Higher School of Information Technology and Engineering,other,2,0.2,0,0,2,1,50.0,2,0,61
+61,Interdepartmental Research Institute,research institute,2,0.2,0,2,0,0,0.0,2,0,62
+62,Invent Technology LLP,company,2,0.2,0,0,2,2,100.0,2,0,63
+63,KIMEP University,university,2,0.2,0,1,1,2,100.0,2,0,64
+64,Karaganda Economic University of Kazpotrebsoyuz,university,2,0.2,0,2,0,0,0.0,2,0,65
+65,Kazakh Academy of Transport and Communications,research institute,2,0.2,1,1,0,1,50.0,2,0,66
+66,Kazakh National Agrarian Research University,university,2,0.2,0,1,1,1,50.0,2,0,67
+67,Kazakh National Women’s Teacher Training University,university,2,0.2,0,0,2,0,0.0,2,0,68
+68,Kazakh University Ways of Communications,university,2,0.2,0,1,1,2,100.0,2,0,69
+69,Kazakh-Russian International University,university,2,0.2,1,0,1,1,50.0,2,0,70
+70,Kazakhstan Engineering Pedagogical Universuty of Friendship of Nations,other,2,0.2,2,0,0,0,0.0,2,0,71
+71,Manash Kozybayev North Kazakhstan University,university,2,0.2,0,0,2,2,100.0,2,0,72
+72,Maqsut Narikbayev University,university,2,0.2,0,1,1,0,0.0,2,0,73
+73,National Defense University,university,2,0.2,0,0,2,2,100.0,2,0,74
+74,National Research Oncology Center,research institute,2,0.2,0,0,2,1,50.0,2,0,75
+75,National Scientific Laboratory for the Collective Use of Information and Space Technologies (NSLC IST),research institute,2,0.2,0,0,2,1,50.0,2,0,76
+76,Nazarbayev Intellectual School,school or college,2,0.2,0,0,2,0,0.0,2,0,77
+77,Nur-Mubarak University,university,2,0.2,0,0,2,0,0.0,2,0,78
+78,Research & Development Systems LLC,other,2,0.2,0,0,2,2,100.0,2,0,79
+79,"Research Center ""kazAlfaTech Ltd""",research institute,2,0.2,0,1,1,0,0.0,2,0,80
+80,Sarsen Amanzholov East Kazakhstan University,university,2,0.2,0,0,2,1,50.0,2,0,81
+81,School of Earth Sciences,other,2,0.2,0,0,2,1,50.0,2,0,82
+82,T&T Security LLP,company,2,0.2,0,2,0,0,0.0,2,0,83
+83,TSARKA Labs LLP,company,2,0.2,0,0,2,1,50.0,2,0,84
+84,28 Ryskulbekova Str.,other,1,0.1,0,0,1,0,0.0,1,0,85
+85,68/74 Abay Ave.,other,1,0.1,0,0,1,0,0.0,1,0,86
+86,A.K. Kussayinov Eurasian Humanities Institute,research institute,1,0.1,0,0,1,1,100.0,1,0,87
+87,Abylai Khan Kazakh University of International Relations and World Languages,university,1,0.1,0,0,1,0,0.0,1,0,88
+88,Academy Bolashak,research institute,1,0.1,0,1,0,0,0.0,1,0,89
+89,Academy of Physical Education and Mass Sports,research institute,1,0.1,0,0,1,1,100.0,1,0,90
+90,Academy of logistics and transport,research institute,1,0.1,0,0,1,1,100.0,1,0,91
+91,Academy of the Border Service,research institute,1,0.1,1,0,0,0,0.0,1,0,92
+92,AirFlow LLP,company,1,0.1,0,0,1,1,100.0,1,0,93
+93,Aktobe Polytechnic College,school or college,1,0.1,1,0,0,0,0.0,1,0,94
+94,Alikhan Bokeikhan University,university,1,0.1,0,0,1,0,0.0,1,0,95
+95,Association of Political Studies,other,1,0.1,0,0,1,0,0.0,1,0,96
+96,Aviation administration of Kazakhstan,other,1,0.1,0,0,1,1,100.0,1,0,97
+97,Bang College of Business,school or college,1,0.1,0,1,0,1,100.0,1,0,98
+98,Bereke bank,company,1,0.1,0,0,1,0,0.0,1,0,100
+99,Caspian University,university,1,0.1,0,0,1,1,100.0,1,0,101
+100,Central Asian Innovation University,university,1,0.1,0,0,1,0,0.0,1,0,102
+101,Collegium of Advocates of Astana,other,1,0.1,0,1,0,0,0.0,1,0,103
+102,Department Information Security,other,1,0.1,0,1,0,0,0.0,1,0,104
+103,Department of Applied Mathematics and Informatics Sciences,other,1,0.1,0,1,0,0,0.0,1,0,105
+104,Department of Artificial Intelligence Technologies,other,1,0.1,0,0,1,1,100.0,1,0,106
+105,Department of Aviation English,other,1,0.1,0,0,1,0,0.0,1,0,107
+106,Department of Computer Engineering & Information Security,other,1,0.1,0,0,1,1,100.0,1,0,108
+107,Department of Computer and Software Engineering,other,1,0.1,0,0,1,0,0.0,1,0,109
+108,Department of Computing and Software,other,1,0.1,0,1,0,0,0.0,1,0,110
+109,Department of Fundamental Sciences,other,1,0.1,0,0,1,0,0.0,1,0,111
+110,Department of General Education,other,1,0.1,0,1,0,0,0.0,1,0,112
+111,Department of Information Systems,other,1,0.1,0,0,1,1,100.0,1,0,113
+112,Department of Information Systems and Informatics,other,1,0.1,0,0,1,1,100.0,1,0,114
+113,Department of Journalism,other,1,0.1,0,1,0,0,0.0,1,0,115
+114,Department of Medical Biophysics and Informatics,other,1,0.1,0,1,0,0,0.0,1,0,116
+115,Department of Organization of Air Transportation and Logistics,other,1,0.1,0,0,1,0,0.0,1,0,117
+116,Department of Physics and Mathematics School,other,1,0.1,0,0,1,1,100.0,1,0,118
+117,Department of Print and Electronic Media,other,1,0.1,0,0,1,0,0.0,1,0,119
+118,Department of Regional Studies,other,1,0.1,0,0,1,0,0.0,1,0,120
+119,Eurasian Humanitarian Institute,research institute,1,0.1,1,0,0,0,0.0,1,0,121
+120,Eurasian Technological University,university,1,0.1,0,0,1,1,100.0,1,0,122
+121,Faculty of Information Technology,other,1,0.1,0,1,0,0,0.0,1,0,123
+122,Faculty of Postgraduate Education,other,1,0.1,0,0,1,0,0.0,1,0,124
+123,Faculty of natural sciences,other,1,0.1,0,0,1,0,0.0,1,0,125
+124,Group 42,other,1,0.1,0,0,1,0,0.0,1,0,127
+125,Heriot-Watt University Aktobe Campus,university,1,0.1,0,0,1,1,100.0,1,0,128
+126,IIITU,other,1,0.1,1,0,0,0,0.0,1,0,129
+127,Information and telecommunication institute,research institute,1,0.1,1,0,0,1,100.0,1,0,130
+128,Innovative Technical College of Almaty,school or college,1,0.1,0,1,0,1,100.0,1,0,131
+129,Inst. of Info. and Comp. Technol. of the Sci. Comm. of the Min. of Sci. and Higher Educ. of the Rep. of Kazakhstan,other,1,0.1,0,0,1,0,0.0,1,0,132
+130,Institute of Economics,research institute,1,0.1,0,0,1,1,100.0,1,0,133
+131,Institute of Information Technologies,research institute,1,0.1,0,0,1,1,100.0,1,0,134
+132,Institute of Mechanics and Engineering named after Academician U.A. Joldasbekov,research institute,1,0.1,0,0,1,0,0.0,1,0,135
+133,Institute of Mechanics and Machine Science Named by Academician U.A. Dzholdasbekov,research institute,1,0.1,0,0,1,0,0.0,1,0,136
+134,Institute of Mining named after D.A. Kunaev,research institute,1,0.1,0,0,1,1,100.0,1,0,137
+135,Institute of Nuclear Physics of the Ministry of Energy of the Republic of Kazakhstan,research institute,1,0.1,0,0,1,1,100.0,1,0,138
+136,Institute of Space Engineering and Telecommunications,research institute,1,0.1,0,0,1,1,100.0,1,0,139
+137,Inter. Info. Tech. University,university,1,0.1,0,1,0,1,100.0,1,0,140
+138,International Center of Geopolitical Forecasting «East-West»,research institute,1,0.1,0,0,1,0,0.0,1,0,141
+139,International Humanitarian and Technical University,university,1,0.1,0,1,0,0,0.0,1,0,142
+140,International University of Tourism and Hospitality,university,1,0.1,0,0,1,0,0.0,1,0,143
+141,International University of Transport and Humanities,university,1,0.1,0,0,1,1,100.0,1,0,144
+142,Kainar Academy,research institute,1,0.1,0,1,0,0,0.0,1,0,145
+143,Karaganda Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan named after Barimbek Beisenov,research institute,1,0.1,0,0,1,0,0.0,1,0,146
+144,Karaganda Medical University,university,1,0.1,0,0,1,1,100.0,1,0,147
+145,KazSetTelecom Llp,company,1,0.1,0,0,1,0,0.0,1,0,150
+146,Kazakh Academy of Labor and Social Relations,research institute,1,0.1,0,1,0,0,0.0,1,0,151
+147,Kazakh Leading Academy of Architecture and Civil Engineering,research institute,1,0.1,0,0,1,0,0.0,1,0,152
+148,Kazakh Nationl University,university,1,0.1,0,0,1,0,0.0,1,0,153
+149,Kazakh Research Institute of Economy of Agro-Industrial Complex and Rural Development,research institute,1,0.1,0,0,1,1,100.0,1,0,154
+150,Kazakh-Russian Medical University,university,1,0.1,0,0,1,0,0.0,1,0,155
+151,Kazakhstan Academy of Information and Business,research institute,1,0.1,0,0,1,0,0.0,1,0,157
+152,Kazakhstan Humanitarian Law University,university,1,0.1,0,1,0,0,0.0,1,0,158
+153,Kazakhstan Llp,company,1,0.1,0,0,1,1,100.0,1,0,159
+154,Kazakhstan University 'Syrdarija',university,1,0.1,1,0,0,0,0.0,1,0,160
+155,Kazakhstan University of Innovative and Telecommunication Systems,university,1,0.1,0,0,1,0,0.0,1,0,161
+156,LLP,company,1,0.1,0,0,1,0,0.0,1,0,163
+157,"LLP ""KazHackStan""",company,1,0.1,0,0,1,1,100.0,1,0,164
+158,LLP Samira,company,1,0.1,0,0,1,1,100.0,1,0,165
+159,LLP «DigitAlem»,company,1,0.1,0,0,1,0,0.0,1,0,166
+160,LLP “Innovation Provider”,company,1,0.1,0,0,1,1,100.0,1,0,167
+161,LLP “Management Company” Kazmedia Ortalygy,company,1,0.1,0,0,1,1,100.0,1,0,168
+162,Laboratory of Internet of Things,research institute,1,0.1,0,0,1,1,100.0,1,0,169
+163,Limited Lability Company 'Talapker-Yuk',company,1,0.1,1,0,0,0,0.0,1,0,170
+164,Military Engineering Institute of Radio Electronics and Communications,research institute,1,0.1,0,0,1,0,0.0,1,0,171
+165,Ministry of Defense of the Republic of Kazakhstan,government body,1,0.1,0,0,1,1,100.0,1,0,172
+166,Ministry of Education and Science of Republic of Kazakhstan,government body,1,0.1,1,0,0,1,100.0,1,0,173
+167,Ministry of Internal Affairs of the Republic of Kazakhstan,government body,1,0.1,0,1,0,0,0.0,1,0,174
+168,Ministry of Investments and Development of the Republic of Kazakhstan,government body,1,0.1,0,1,0,1,100.0,1,0,175
+169,NAO Karaganda Industrial University,university,1,0.1,0,0,1,1,100.0,1,0,176
+170,NURORDA School-Lyceum,school or college,1,0.1,0,0,1,0,0.0,1,0,178
+171,National Academy of Agrarian Sciences,research institute,1,0.1,0,0,1,1,100.0,1,0,179
+172,National Research Nuclear University MEPhI,university,1,0.1,0,0,1,0,0.0,1,0,180
+173,National University,university,1,0.1,0,1,0,0,0.0,1,0,181
+174,Radio broadcasting complex Llp 'KazMedia ortalygy',company,1,0.1,0,0,1,1,100.0,1,0,183
+175,Rudny Industrial Institute,research institute,1,0.1,0,0,1,1,100.0,1,0,184
+176,School of Business,other,1,0.1,0,0,1,1,100.0,1,0,185
+177,School of Engineering and Digital Sciences,other,1,0.1,0,1,0,1,100.0,1,0,186
+178,School of architecture,other,1,0.1,0,0,1,0,0.0,1,0,187
+179,Secondary school №42,school or college,1,0.1,0,0,1,0,0.0,1,0,188
+180,South Kazakhstan Pedagogical University,university,1,0.1,0,0,1,1,100.0,1,0,189
+181,Special Design and Technology Bureau “Granit”,other,1,0.1,0,0,1,0,0.0,1,0,190
+182,State University,university,1,0.1,0,1,0,0,0.0,1,0,191
+183,Supreme Judicial Council of the Republic of Kazakhstan,other,1,0.1,0,0,1,1,100.0,1,0,192
+184,Technical Sciences,other,1,0.1,0,0,1,0,0.0,1,0,193
+185,Technology University,university,1,0.1,0,0,1,1,100.0,1,0,194
+186,The Kazakh National Academy of Arts named after T. Zhurgenova,research institute,1,0.1,0,0,1,0,0.0,1,0,195
+187,The National Defence University named after the First President of the Republic of Kazakhstan - Elbasi,university,1,0.1,0,0,1,1,100.0,1,0,196
+188,Turan Astana University,university,1,0.1,0,1,0,1,100.0,1,0,197
+189,U. M. Akhmedsafin Institute of Hydrogeology and Geoecology,research institute,1,0.1,0,1,0,0,0.0,1,0,198
+190,University,university,1,0.1,0,0,1,1,100.0,1,0,199
+191,University of International Business,university,1,0.1,1,0,0,0,0.0,1,0,200
+192,University of Jordan,university,1,0.1,0,1,0,1,100.0,1,0,201
+193,University of Railways and Transportation,university,1,0.1,0,0,1,1,100.0,1,0,202
+194,WebTotem LLP,company,1,0.1,0,0,1,0,0.0,1,0,203
+195,Аl-Fаrаbi Kаzаkh Nаtiоnаl Univеrsitу,other,1,0.1,0,0,1,1,100.0,1,0,204
+196,Кunaev University,university,1,0.1,0,0,1,0,0.0,1,0,205
+197,“Institute of Ionosphere”,research institute,1,0.1,0,0,1,0,0.0,1,0,206
+198,№90 gymnasium named after Kaiym Muhamedhanov,school or college,1,0.1,0,0,1,0,0.0,1,0,207
